@@ -1,13 +1,14 @@
-# ⚔️ Welcome to LoreForge
+# ⚔️ Welcome to LoreForge Works!
 
 Welcome to the central archive for our tabletop adventures. This living document contains the public lore, session histories, and crucial resources for our ongoing campaigns.
 
 > [!info] The Player Hub (Active Links)
 > Bookmark these tools for game night:
-> - 📝 **[Live Player Notes (Google Doc)](#)** *(Type here during the session!)*
-> - 🎲 **[Quest Portal](#)** *(Character sheets and mechanics)*
-> - 🗺️ **[Owlbear Rodeo](#)** *(Live battlemaps and tokens)*
-> - 🗣️ **[Post-Session Feedback (Google Form)](#)** ---
+> - 📝 **[Live Player Notes (Google Doc)](https://docs.google.com/your-document-link-goes-here)** *(Type here during the session!)*
+> - 🦸 **[Hero Lab Online](https://www.herolab.online/)** *(Character management)*
+> - 🎲 **[Quest Portal](https://www.questportal.com/)** *(VTT and mechanics)*
+> - 🗺️ **[Owlbear Rodeo](https://www.owlbear.app/)** *(Live battlemaps and tokens)*
+> - 🗣️ **[Post-Session Feedback (Google Form)](https://forms.google.com/your-form-link-goes-here)** ---
 
 ## 📖 Active Campaigns
 
