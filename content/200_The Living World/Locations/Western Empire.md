@@ -8,7 +8,7 @@ systems_active: PF2e
 
 > [!infobox]
 > # [[Western Empire]]
-> ![[Location_Thumbnail.png|cover portrait]]
+> ![[assets/western empire.png|cover portrait]]
 > ###### Geography & Lore
 > | Varies by Region | Ancient and oldest kingdom of the world |
 > | --- | --- |
