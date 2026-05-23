@@ -1,2 +1,1 @@
-\# \*\*Welcome to The LoreForge Works!\*\*
-
+# **Welcome to The LoreForge Works!**
