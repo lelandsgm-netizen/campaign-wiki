@@ -1,11 +1,10 @@
-# [!infobox]-
+# [!infobox] &nbsp;
 > # [[Western Empire]]
-> ###### Geography & Lore
-> | Varies by Region | Ancient and oldest kingdom of the world |
+> ###### Information
 > | --- | --- |
 > | **Location Tier** | Sub Region |
 > | **Region** | [[Western Empire]] |
-> | Status | Stable
+> | Other information | N/A
 > | **Governing Power** | [[House Ne'Klosh]] |
 > | Provinces/Houses | **[[Caer Kurgas]]** / [[Greensea]] / [[Vorance]] / [[Liara]] |
 

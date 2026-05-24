@@ -1,12 +1,13 @@
-# [!infobox]-
+# [!infobox] &nbsp;
 > # [[Western Empire]]
-> ###### Geography & Lore
-> | Varies by Region | Ancient and oldest kingdom of the world |
+> ###### Information
+> | Hierarchy | Ancient and oldest kingdom of the world |
 > | --- | --- |
 > | **Location Tier** | Region |
 > | **World** | [[Eraedal]] (Air-eh-dall) |
 > | **Region/Continent** | Current |
 > | **Governing Power** | [[Three-way Civil War]] |
+> | **Regions** | [[West Kighfalton]] / [[Upper Kighfalton]] / [[Koerdian Mountains]] / [[Lower Barraduk]] / [[Vequerrel Woodlands]] / [[Kighfalton Plains]] / [[Middle Kingdoms]] / [[Scarlet Mountains]] / [[Tarldet Plains]] / [[Old Kingdom Frontier]] |
 
 ## 📍 Overview
 *This empire stands as the oldest and most powerful human civilization within its world. Geographically, it is situated on a prominent peninsula wedged between two treacherous seas. Despite its immense influence, the realm is notorious for its deep corruption, extreme decadence, political intrigue, and treacherous nobility.*
@@ -20,7 +21,7 @@
 * **[[Koerdian Mountains]]**
   *A rugged, coastal mountain range that is treacherous by land and deadly by sea. It is infamous across the realm for sheltering the "Pirates of Koerdian." The sheer cliffs, jagged peaks, and hidden coastal coves provide the perfect, lawless strongholds for corsairs and outlaws looking to strike at the Empire's wealthy shipping lanes.*
 
-* **[[The Scarlet Mountains]]**
+* **[[Scarlet Mountains]]**
   *A jagged, imposing mountain range that dominates the eastern geography. Rather than being fully tamed by the Empire, these peaks are treacherous and largely wild. They serve as a massive, monster-infested natural barrier that overlooks the Sea of Scarlet Waters.*
 
 * **[[Ophid Grasslands Colonies]]**
