@@ -7,7 +7,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Loreforge",
+    pageTitle: "Loreforge Works",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
