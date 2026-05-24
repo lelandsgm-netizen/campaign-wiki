@@ -1,21 +1,12 @@
----
-type: Location
-tier: Region
-governing_faction: Fractured. There is the Zenerea Itomas, Daughter of the late emperor, Emperor Ne'Klosh of Upper Kighfalton, and Holy Emperor Rehobath Ylestos of Ptolus. 
-systems_active: PF2e
----
-# ![[Location_Landscape.png|banner]]
-
-> [!infobox]
+# [!infobox]-
 > # [[Western Empire]]
-> ![Western Empire Map](assets/western-empire.png)
 > ###### Geography & Lore
 > | Varies by Region | Ancient and oldest kingdom of the world |
 > | --- | --- |
 > | **Location Tier** | Region |
-> | **World** | [[Eraedal (Air-eh-dall)]] |
+> | **World** | [[Eraedal]] (Air-eh-dall) |
 > | **Region/Continent** | Current |
-> | **Governing Power** | [[Empire Civil War]] |
+> | **Governing Power** | [[Three-way Civil War]] |
 
 ## 📍 Overview
 *This empire stands as the oldest and most powerful human civilization within its world. Geographically, it is situated on a prominent peninsula wedged between two treacherous seas. Despite its immense influence, the realm is notorious for its deep corruption, extreme decadence, political intrigue, and treacherous nobility.*
@@ -41,9 +32,4 @@ systems_active: PF2e
 * **[[Old Kingdom Frontier]]**
   *The highly militarized eastern borderland facing the ruined continent. The geography here is stark, scarred, and heavily fortified by the Imperial Legions. It acts as the ultimate shield, built to prevent the monstrous hordes, orcs, and ancient horrors of the fallen Old Kingdom from spilling over the mountains into the Empire proper.*
 
-
 ---
-
-## 🕵️‍♂️ Behind the Screen Connections
-*For the DM's eyes only inside the vault terminal:*
-* **Secret Ledger & Timeline Tracker:** [[Secret - {{title}}]]
