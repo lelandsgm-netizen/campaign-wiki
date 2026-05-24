@@ -1,6 +1,7 @@
 # [!infobox] &nbsp;
-> # [[Western Empire]]
+> # Upper Kighfalton
 > ###### Information
+> | Hierarchy | Information | 
 > | --- | --- |
 > | **Location Tier** | Sub Region |
 > | **Region** | [[Western Empire]] |

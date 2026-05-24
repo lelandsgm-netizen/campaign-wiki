@@ -3,7 +3,8 @@
 > 
 > # Pathfinder 2e Remaster
 > ###### Core Game System
-> | | | > | --- | --- |
+> | | |
+> | --- | --- |
 > | **Developer** | Paizo Inc. |
 > | **Publisher** | Paizo Inc. |
 > | **Distributor** | Paizo Inc. & Global Hobby Distributors |
