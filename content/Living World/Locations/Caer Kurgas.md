@@ -1,4 +1,3 @@
-# [!infobox] &nbsp;
 > ###### Information
 > | | | 
 > | --- | --- |

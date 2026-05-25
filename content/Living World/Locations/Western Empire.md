@@ -1,4 +1,3 @@
-[!infobox] &nbsp;
 > # Western Empire
 > ###### Information
 > | Hierarchy | Information |
