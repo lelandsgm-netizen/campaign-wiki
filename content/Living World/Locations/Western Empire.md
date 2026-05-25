@@ -1,6 +1,5 @@
-> # Western Empire
 > ###### Information
-> | Hierarchy | Information |
+> | | |
 > | --- | --- |
 > | **Location Tier** | Region |
 > | **World** | [[Eraedal]] (Air-eh-dall) |

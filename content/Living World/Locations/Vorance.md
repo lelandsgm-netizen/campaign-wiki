@@ -1,4 +1,3 @@
-> # Upper Kighfalton
 > ###### Information
 > | | | 
 > | --- | --- |

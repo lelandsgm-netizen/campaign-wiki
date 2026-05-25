@@ -1,5 +1,3 @@
-# [!infobox] &nbsp;
-> # Upper Kighfalton
 > ###### Information
 > | Hierarchy | Information | 
 > | --- | --- |
