@@ -1,4 +1,4 @@
-[Quest Portal](https://questportal.com)
+[Quest Portal](https://www.questportal.com)
 
 > [!infobox] &nbsp;
 > # Quest Portal

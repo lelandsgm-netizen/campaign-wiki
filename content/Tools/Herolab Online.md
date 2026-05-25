@@ -1,4 +1,4 @@
-[Herolab Online](https://herolab.online)
+[Herolab Online](https://www.herolab.online)
 
 > [!infobox] &nbsp;
 > # Hero Lab Online

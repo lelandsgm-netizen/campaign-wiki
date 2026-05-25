@@ -1,4 +1,5 @@
 > | | |
+> | --- | --- |
 > | **Player/Game Master** | [[Leland]] |
 > | System | [[Pathfinder 2E Remaster]] |
 > | **Players** | [[Jason]], [[Jon]], [[Brian]], [[Jurney]] |
