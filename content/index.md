@@ -1,6 +1,6 @@
 ---
 title: LoreForge Works
-image: https://loreforge.works/assets/loreforge-banner.png
+image: https://loreforge.works/assets/loreforgebanner.png
 ---
 
 ![[loreforgebanner.png]]
