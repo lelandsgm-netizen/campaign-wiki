@@ -1,4 +1,4 @@
 ![[loreforgebanner.png]]
 <div style="text-align: center;">
-# **Welcome to The LoreForge Works!**
+<h1>Welcome to LoreForge Works!</h1>
 </div>
