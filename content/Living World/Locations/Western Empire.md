@@ -8,6 +8,8 @@
 > | **Regions** | [[West Kighfalton]] / [[Upper Kighfalton]] / [[Koerdian Mountains]] / [[Lower Barraduk]] / [[Vequerrel Woodlands]] / [[Kighfalton Plains]] / [[Middle Kingdoms]] / [[Scarlet Mountains]] / [[Tarldet Plains]] / [[Old Kingdom Frontier]] |
 
 ![[western-empire.png]]
+*Image Credit: Art by [Will Ervin](https://www.deviantart.com/will-erwin)*
+
 ## 📍 Overview
 *This empire stands as the oldest and most powerful human civilization within its world. Geographically, it is situated on a prominent peninsula wedged between two treacherous seas. Despite its immense influence, the realm is notorious for its deep corruption, extreme decadence, political intrigue, and treacherous nobility.*
 
