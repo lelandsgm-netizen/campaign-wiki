@@ -16,7 +16,7 @@
 - **[[The Amberhall Shipyards]]**
 - Where the massive colony transports and vanguard war vessels are framed.
     
-- **[[The Marine Garrison]]**
+- **[[Marine Garrison]]**
 - Staging grounds for the amphibious legions and Janissary candidates.
     
 - **[[The North Shore Reefs]]**

@@ -18,5 +18,5 @@
 - **[[The Zeitch Ancestral Manor]]**
 - The massive, labyrinthine palace crowded with the bloated, politically oblivious members of House Zeitch.
     
-- **[[The Underground Alliance Cells]]**
+- **[[Underground Alliance Cells]]**
 - The secret meetings places inside Liara where humans, Wolfen, and Goblins construct weapons and plan the coming insurgence.

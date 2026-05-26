@@ -1,8 +1,9 @@
 [Quest Portal](https://www.questportal.com)
 
+> [!infobox] &nbsp;
+> # Quest Portal
 > ###### Virtual Tabletop (VTT) & Campaign Suite
-> | | | 
-> | --- | --- |
+> | | | > | --- | --- |
 > | **Developer** | [Quest Portal](https://www.questportal.com) |
 > | **Publisher** | Quest Portal hf. |
 > | **Platform** | Web Browser, iOS, & Android Apps |

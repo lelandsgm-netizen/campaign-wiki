@@ -12,7 +12,7 @@
 
 ---
 ## 🗺️ Points of Interest
-* **[[The Northern Sea]] / [[Sea of Dread]]** 
+* **[[Northern Sea]] / [[Sea of Dread]]** 
 * The treacherous seafront that frames Upper Kighfalton’s northern coast. While the region boasts beautiful, well-reconstructed ports, northern maritime trade is exceptionally scarce because few independent merchants dare to navigate the monster-infested, storm-tossed waters of the Sea of Dread. Instead, Upper Kighfalton operates heavily as a unilateral export shoreline.
     
 - **[[The Northern Staging Ports]]** _A lucrative network of military and colonial deep-water harbors across the district's coastline. Because the adjacent [[Vequerrel Woodlands]] lack natural ports, Upper Kighfalton has become the primary military gate and staging junction for the Empire's massive overseas colonization push into [[Ophid's Grasslands]], pulling in substantial wealth by charging hefty tolls on every crown vanguard and supply fleet.

@@ -1,8 +1,9 @@
 [Herolab Online](https://www.herolab.online)
 
+> [!infobox] &nbsp;
+> # Hero Lab Online
 > ###### Campaign Management Software
-> | | | 
-> | --- | --- |
+> | | | > | --- | --- |
 > | **Developer** | [Lone Wolf Development](https://www.lonewolfdevel.com) |
 > | **Publisher** | Lone Wolf Development |
 > | **Platform** | Cloud-Based Web Browser |
