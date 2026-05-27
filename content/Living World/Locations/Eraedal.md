@@ -1,3 +1,7 @@
+---
+title: In The Shadow of the Spire
+---
+
 > ###### Information
 > | | | 
 > | --- | --- |
