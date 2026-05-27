@@ -1,4 +1,4 @@
-Player [[Jurney]]
+Player [[Jon]]
 Campaign [[In The Shadow of The Spire]]
 > [!info] 🛡️ Cleric of Trudd the Mighty
 > **Ancestry & Heritage:** Anvil Dwarf | **Class & Doctrine:** Cleric 5 (Warpriest)
