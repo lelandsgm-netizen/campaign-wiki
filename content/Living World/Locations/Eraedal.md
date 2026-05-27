@@ -14,23 +14,8 @@
 
 To understand Eraedal, one must understand the three distinct cosmic forces that forged its current state:
 
-```
-                  ┌────────────────────────────────────────┐
-                  │          ERAEDAL (The Setting)         │
-                  └───────────────────┬────────────────────┘
-                                      │
-         ┌────────────────────────────┼────────────────────────────┐
-         ▼                            ▼                            ▼
- ┌───────────────┐            ┌───────────────┐            ┌───────────────┐
- │   GEOGRAPHY   │            │  ANCIENT LORE │            │   MECHANICS   │
- │  (Palladium)  │            │   (Praemal)   │            │   (Pathfinder)│
- ├───────────────┤            ├───────────────┤            ├───────────────┤
- │• Byzantium    │            │• The Old Ones │            │• Pathfinder 2e│
- │• Caer Itom    │            │  as Galchutt  │            │• Golarion Gods│
- │• Timro        │            │• Spire of Axis│            │• Ancestries/  │
- │• Floenry Isle │            │• The Inverted │            │  Bestiary     │
- │               │            │  Pyramid      │            │               │
- └───────────────┘            └───────────────┘            └───────────────┘
+![[eraedalsetting.png]]
+
 ```
 
 ### 1. The Physical Shell (Palladium Geography)
