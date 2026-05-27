@@ -5,7 +5,7 @@
 > | **Former Governing Power** | [[House Itomas]] |
 > | **Current Governing Power** |Contested ([[The Cyclopean Vanguard]] & [[Free Slave Coalition]]) |
 > | **Demographics (Pre-War)** | 43% Human, 19% Elf, 14% Dwarf, 10% Orc, 4% Goblin, 10% Other |
-> | Provinces | [[Waterfall]], [[Rallian]], [[Obrod]], [[Iaenaria]], [[Imperial]] |
+> | Provinces | [[Waterfall]], [[Rallian]], [[Obrod]], [[Iaendria]], [[Imperial]] |
 > | **Status** | Active Warzone |
 
 ## 📍 Overview
