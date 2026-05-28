@@ -11,6 +11,7 @@ title: Ptolus
 
 ---
 ![Map of Ptolus](ptolus-map.jpg)
+*Image Credit: Art from [Ptol.us site Admin Ellis Benus](https://www.ptol.us)*
 
 ## Ptolus: City by the Spire
 

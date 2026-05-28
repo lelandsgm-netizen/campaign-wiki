@@ -5,9 +5,9 @@ title: Council of Coin
 > | | | 
 > | --- | --- |
 > | **Location Tier** | Province |
-> | **Region** | [[West Kighfalton]] |
-> | Other information | N/A
-> | **Governing Power** | [[House Gioto]] |
+> | **City** | [[Ptolus]] |
+> | Other information | N/A |
+> | **Governing Power** | [[Igor Urnst | Imperial Commissar]] |
 > | Provinces/Houses | Links |
 
 ## The Council of Coin

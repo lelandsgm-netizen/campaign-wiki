@@ -3,6 +3,7 @@ title: Tarldet Plains
 ---
 
 ![[tarldetplains.png]]
+*Image Credit: Art by [Will Ervin](https://www.deviantart.com/will-erwin)*
 
 > ###### Information
 > | | | 
