@@ -1,7 +1,8 @@
 ---
 title: House Vladaam
 ---
-![House Vladaam](vladaamlogo.png)
+![House Vladaam](vladaamlogo.jpg)
+
 
 ## House Vladaam: The Scions of Wickedness
 
