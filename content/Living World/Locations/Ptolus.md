@@ -49,6 +49,7 @@ Ptolus is built across varying elevations, separated by sheer cliffs and connect
 | **[[South Market]]**                 | A commercial district featuring established storefronts, artisans, and the headquarters of large merchant organizations.                                |
 | **[[Temple District]]**              | The religious center of the city, bisected by the Street of a Million Gods and housing shrines to countless deities.                                    |
 | **[[The Warrens]]**                  | A dangerous, impoverished slum lacking street names and largely ignored by the City Watch.                                                              |
+| **[[Undercity Markets]]**            | The **Undercity Market** is a fascinating, subterranean frontier town located directly beneath the cobblestones of Midtown.                             |
 
 ### The Dungeon and the Undercity
 
