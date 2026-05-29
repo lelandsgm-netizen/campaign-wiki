@@ -36,19 +36,19 @@ Despite being a distant edge of the Empire, Ptolus boasts a highly structured an
 
 Ptolus is built across varying elevations, separated by sheer cliffs and connected by well-worn paths and massive bridges.
 
-| **District**               | **Description**                                                                                                                                         |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[[The Docks]]**          | Built on sinking sand at the bottom of the eastern cliffs, this rough area is home to sailors, shipyards, and waterfront taverns.                       |
-| **[[Guildsman District]]** | The industrial heart of the city, filled with tanneries, smithies, and mills, known for its rough reputation and strong odors.                          |
-| **[[Midtown]]**            | A central commercial and residential hub that houses Delver's Square, the prime gathering spot for adventurers seeking gear and employment.             |
-| **[[The Necropolis]]**     | A massive, walled graveyard built over rolling hills, heavily guarded to contain the undead that wander within it.                                      |
-| **[[Nobles' Quarter]]**    | Located at the highest elevation near the Spire, this elite district is home to the city's wealthiest citizens and the estates of the ten noble houses. |
-| **[[North Market]]**       | A busy, open-air marketplace filled with vendors selling fresh foods, clothing, and everyday wares.                                                     |
-| **[[Oldtown]]**            | The historic district surrounding Dalenguard that features classical Prustan architecture, Imperial bureaucracies, and the grand Arena.                 |
-| **[[Rivergate District]]** | A strictly residential, middle-class area built on a rise of land and divided into unique architectural cul-de-sacs called "burrows".                   |
-| **[[South Market]]**       | A commercial district featuring established storefronts, artisans, and the headquarters of large merchant organizations.                                |
-| **[[Temple District]]**    | The religious center of the city, bisected by the Street of a Million Gods and housing shrines to countless deities.                                    |
-| **[[The Warrens]]**        | A dangerous, impoverished slum lacking street names and largely ignored by the City Watch.                                                              |
+| **District**                         | **Description**                                                                                                                                         |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[Docks \| The Docks]]**           | Built on sinking sand at the bottom of the eastern cliffs, this rough area is home to sailors, shipyards, and waterfront taverns.                       |
+| **[[Guildsman District]]**           | The industrial heart of the city, filled with tanneries, smithies, and mills, known for its rough reputation and strong odors.                          |
+| **[[Midtown]]**                      | A central commercial and residential hub that houses Delver's Square, the prime gathering spot for adventurers seeking gear and employment.             |
+| **[[Necropolis \| The Necropolis]]** | A massive, walled graveyard built over rolling hills, heavily guarded to contain the undead that wander within it.                                      |
+| **[[Nobles' Quarter]]**              | Located at the highest elevation near the Spire, this elite district is home to the city's wealthiest citizens and the estates of the ten noble houses. |
+| **[[North Market]]**                 | A busy, open-air marketplace filled with vendors selling fresh foods, clothing, and everyday wares.                                                     |
+| **[[Oldtown]]**                      | The historic district surrounding Dalenguard that features classical Prustan architecture, Imperial bureaucracies, and the grand Arena.                 |
+| **[[Rivergate District]]**           | A strictly residential, middle-class area built on a rise of land and divided into unique architectural cul-de-sacs called "burrows".                   |
+| **[[South Market]]**                 | A commercial district featuring established storefronts, artisans, and the headquarters of large merchant organizations.                                |
+| **[[Temple District]]**              | The religious center of the city, bisected by the Street of a Million Gods and housing shrines to countless deities.                                    |
+| **[[The Warrens]]**                  | A dangerous, impoverished slum lacking street names and largely ignored by the City Watch.                                                              |
 
 ### The Dungeon and the Undercity
 

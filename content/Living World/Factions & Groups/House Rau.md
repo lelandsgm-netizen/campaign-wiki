@@ -51,4 +51,4 @@ Behind the scenes, use these Pathfinder 2e baselines to flavor House Rau sailors
     
 - **Signature Archetypes:** _Pirate_, _Horizon Walker_, and _Dual-Weapon Warrior_.
     
-- **Common Associations:** Incredibly deep connections throughout **[[The Docks]]** and the independent merchant coalitions. They frequently clash with the **[[City Watch]]** and **[[House Khatru]]**, while maintaining a tense, neutral trade relationship with **[[House Abanar]]** regarding foreign import rights.
+- **Common Associations:** Incredibly deep connections throughout **[[Docks]]** and the independent merchant coalitions. They frequently clash with the **[[City Watch]]** and **[[House Khatru]]**, while maintaining a tense, neutral trade relationship with **[[House Abanar]]** regarding foreign import rights.
