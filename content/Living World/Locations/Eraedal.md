@@ -11,6 +11,7 @@ title: In The Shadow of the Spire
 ---
 
 # 🌍 Welcome to Eraedal: The Tri-System Synthesis
+![Eraedal](eraedalmap.jpg)
 
 **Eraedal** is a world of ancient, cyclical trauma, rigid geographic boundaries, and highly volatile, modern political upheaval. It represents a reality where mortal bloodlines build towering empires over the sealed horrors of a previous cosmic age, oblivious (or indifferent) to the fact that the very ground they walk on is a cage.
 
@@ -19,8 +20,6 @@ title: In The Shadow of the Spire
 To understand Eraedal, one must understand the three distinct cosmic forces that forged its current state:
 
 ![[eraedalsetting.png]]
-
-```
 
 ### 1. The Physical Shell (Palladium Geography)
 
