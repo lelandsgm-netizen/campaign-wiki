@@ -2,8 +2,6 @@
 **Player:** [[Leland]] | **System:** [[Pathfinder 2e Remaster]]
 Campaign: [[The Beginning of the End]] | [[Character Notes Van Gylfering]]
 
-> [!infobox]
-> # Evander "Van" Gylfering
 > ![Character Concept](vangylfering.png) <!-- Swap this line out for a local link to your vault's character art if you have one! -->
 > ###### Ancestry & Heritage
 > Elf (Ancient Elf)
