@@ -1,5 +1,5 @@
 
-> "Dwarvenhearth isn't a tomb to be wept over. It's a house with the lights turned out. I intend to flip the switch." 
+> "Dwarvenhearth isn't a tomb to be wept over. It's a house with the Hearth out. I intend to Light the fire." 
 > 
 > 
 
@@ -57,5 +57,3 @@ Dalithor is highly invested in the actions of the party's **War Cleric of Trudd 
 * **Internal Links:** `[[Midtown]]`, `[[Dwarvenhearth]]`, `[[Kaled Del]]`, `[[Delver's Guild]]`, `[[Delver's Square]]`, `[[Trudd the Mighty]]`, `[[Wilgard (Willie) Gramm]]`
 
 ---
-
-Now that **D.J. Kaled** is set up, what's the next creative piece of Ptolus we should tackle today? Should we map out another landmark in Midtown, or dive straight into the secrets waiting for the party inside **Pythoness House**?
