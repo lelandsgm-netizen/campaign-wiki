@@ -13,12 +13,10 @@ The tavern serves three vital functions: a sanctuary for surface-dwelling exiles
 
 The architecture reflects the dual nature of its community—rugged, functional, yet incredibly well-built.
 
-* 
-**The Commons:** The main taproom features heavy, oversized timber tables and masterfully laid flagstone floors (courtesy of local patronage from Sholod's mason shop). The air smells perpetually of roasted pork, sawdust, woodsmoke, and a sharp tang of fermenting mash.
+* **The Commons:** The main taproom features heavy, oversized timber tables and masterfully laid flagstone floors (courtesy of local patronage from Sholod's mason shop). The air smells perpetually of roasted pork, sawdust, woodsmoke, and a sharp tang of fermenting mash.
 
 
-* 
-**The Wrestling Ring:** Located in a secure covered courtyard just outside the Tavern, this dirt-and-sawdust ring is the tavern’s beating heart. While mostly used for evening entertainment and boasting matches, it serves a practical civic purpose under **[[Haldan Kaled]]'s** informal law: it is where drunken arguments, trade disputes, and personal grievances are formally settled. No weapons, no lasting malice—just grappling until someone yields or gets pinned.
+* **The Wrestling Ring:** Located in a secure covered courtyard just outside the Tavern, this dirt-and-sawdust ring is the tavern’s beating heart. While mostly used for evening entertainment and boasting matches, it serves a practical civic purpose under **[[Haldan Kaled]]'s** informal law: it is where drunken arguments, trade disputes, and personal grievances are formally settled. No weapons, no lasting malice—just grappling until someone yields or gets pinned.
 
 
 * **The Spiritual Drift:** For months, the taproom has also served as a makeshift chapel. Before **Willie Gramm** began physically clearing out the memory-wiped **Shrine of Trudd**, he spent his evenings here. Sitting by the hearth, Willie began tending to the community's fractured spiritual state by telling heroic stories to the children and offering practical mentoring to the laborers.
@@ -76,19 +74,6 @@ The collaboration between the Group and the Hammer & Hog has truly excited manag
 | Product Name | Style / Origin | Flavor Profile / Status |
 | --- | --- | --- |
 | **Trudd's Reserve** | Moonshine / Bourbon-in-Development | Sharp, incredibly high-proof, with a smoky corn finish. Currently being barreled in charred oak to develop into a formal bourbon. |
-| **Hearth-Fire Whiskey** | Alchemical Spirit (Calebrimbor) | Infused with minor alchemical spices. It leaves a pleasant, lingering warmth in the throat that mimics a true dwarven underground forge.
-
- |
-| **Enclave Ale** | Traditional Stonelost Stout | Thick, dark, and heavy enough to serve as a meal. Highly popular among the Midtown stone masons.
-
- |
-| **Scarlet Mountain Mead** | Honey Wine (Gona Rhea's Influence) | Brewed using wild mountain honey profiles inspired by Gona's upbringing in the peaks. Sweet, but kicks like a mule.
-
- |
-
----
-
-### Vault Links & Tags
-
-* **Tags:** `#Location/Midtown` `#Faction/Stonelost` `#Plot/Business`
-* **Internal Links:** `[[Midtown]]`, `[[Dalithor Jalar Kaled]]`, `[[Wilgard (Willie) Gramm]]`, `[[Calebrimbor Algarvran]]`, `[[Gona Rhea]]`, `[[Trudd the Mighty]]`
+| **Hearth-Fire Whiskey** | Alchemical Spirit (Calebrimbor) | Infused with minor alchemical spices. It leaves a pleasant, lingering warmth in the throat that mimics a true dwarven underground forge. |
+| **Enclave Ale** | Traditional Stonelost Stout | Thick, dark, and heavy enough to serve as a meal. Highly popular among the Midtown stone masons. |
+| **Scarlet Mountain Mead** | Honey Wine (Gona Rhea's Influence) | Brewed using wild mountain honey profiles inspired by Gona's upbringing in the peaks. Sweet, but kicks like a mule. |
