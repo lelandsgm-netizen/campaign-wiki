@@ -35,7 +35,7 @@ The Hammer & Hog is run by a tight-knit family team of four, who have recently g
 
 * **Motivation Quirks:** Obsessed with cleanliness in his fermentation process to a degree that borders on neurosis. He carries a small silver stirring rod that he uses to test the bubbling yeast.
  
-* Brokk has enthusiastically partnered with **Willie Gramm** and **Calebrimbor Algarvran**. He is currently helping them refine their high-proof moonshine, **"Trudd's Reserve,"** with the ultimate goal of aging it into a premier bourbon brand.
+* Brokk has enthusiastically partnered with **[[Wilgard (Willie) Gramm | Willie Gramm]]** and **[[Calebrimbor Algarvran]]**. He is currently helping them refine their high-proof moonshine, **"Trudd's Reserve,"** with the ultimate goal of aging it into a premier bourbon brand.
 
 
 #### 2. Orlyv "The Pillar" Kaled (Co-Owner / Ring Referee)
