@@ -1,11 +1,4 @@
----
-
-## `Deity - Trudd the Mighty`
-
 > "The mountain does not weep when the storm rages; it stands. Stand with it."
-
----
-
 ### Overview
 
 **Trudd the Mighty** is an ancient dwarven deity of strength, physical endurance, honest labor, and steadfast protection. Unlike more localized ancestral spirits, Trudd represents the unyielding fortitude of the dwarven people—making him a deeply revered figure among the Stonelost exiles who have had to endure the heartbreak of losing [[Dwarvenhearth]].
