@@ -1,3 +1,14 @@
+---
+title: "Floenry Isles"
+Tags:
+  - location
+  - campaign-cards
+---
+
+> [!info] Quick Facts
+> **World:** [[Eraedal]]
+> **Location** *Current*
+
 ## Regional Intel Dossier
 
 > ### 📋 Black Regiment Operational Briefing
