@@ -1,3 +1,9 @@
+> [!info] Quick Facts
+> **Location:** [[Western Empire]]
+> **Region:** [[Tarldet Plains]]
+> **City:** [[Ptolus]]
+> **District:** [[Midtown]]
+
 > "Come for the stone-cut stout, stay to watch two bricklayers settle a ledger in the dirt ring. Just don't ask for light wine." 
 > 
 > 
