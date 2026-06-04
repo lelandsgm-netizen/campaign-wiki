@@ -1,4 +1,13 @@
+---
+title: "Hammer & Hog"
+Tags:
+  - "point-of-interest"
+  - tavern
+  - campaign-spire
+---
+
 > [!info] Quick Facts
+> **World:** [[Eraedal]]
 > **Location:** [[Western Empire]]
 > **Region:** [[Tarldet Plains]]
 > **City:** [[Ptolus]]
