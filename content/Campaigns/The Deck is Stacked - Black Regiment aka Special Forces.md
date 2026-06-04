@@ -1,3 +1,17 @@
+---
+title: The Deck is Stacked
+system: Pathfinder 2e Remaster
+---
+
+> | | |
+> | --- | --- |
+> | **Player/Game Master** | [[Leland]] |
+> | System | [[Pathfinder 2E Remaster]] |
+> | **Players** | [[Jason]], [[Jon]], [[Brian]], [[Jurney]] |
+> | Tools | [[Quest Portal]], [[Herolab Online]] |
+
+---
+
 ## Campaign Overview: Tides of Sovereignty
 
 Welcome to the **[[Floenry Isles]]**, a sprawling archipelago on the southern edge of [[Eraedal]]. To the rest of the world, these windswept, serpent-infested waters are a treacherous frontier of cutthroat pirates and untamed wild lands. To the great empires, they are a treasure trove of resources waiting to be bled dry.
@@ -51,4 +65,4 @@ The rebellion is commanded by a terrifyingly brilliant Orc warlord known as **[[
 - **High-Seas Exploration:** Navigate the treacherous waters between the 14 major islands of the chain , dodging mutated sea serpents, dealing with local pirate lords, and discovering ancient ruins untouched for millennia.
     
 
-The contract is signed, the drop-point is set, and the winds of war are howling across the southern seas. Welcome to the [[Floenry Isles]], operators. Try to survive the tide.
+> [!tip] The contract is signed, the drop-point is set, and the winds of war are howling across the southern seas. Welcome to the [[Floenry Isles]], operators. Try to survive the tide.
