@@ -9,6 +9,8 @@ Tags:
 > **World:** [[Eraedal]]
 > **Location** *Current*
 
+![Floenry Isles](floenry-isles.png)
+*Image Credit: Art by [Will Ervin](https://www.deviantart.com/will-erwin)*
 ## Regional Intel Dossier
 
 > ### 📋 Black Regiment Operational Briefing
