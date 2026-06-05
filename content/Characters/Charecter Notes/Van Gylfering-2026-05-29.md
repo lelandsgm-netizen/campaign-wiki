@@ -3,7 +3,6 @@ title: Van Gylfering 2026-05-29
 system: Pathfinder 2e Remaster
 ---
 
-# 🗺️ Player Campaign Journal
 **Campaign:** [[The Beginning of the End]] | [[Evander -Van- Gylfering]]
 
 ## 📅 Session [3]: [Exploring an old Crypt]
@@ -11,8 +10,6 @@ system: Pathfinder 2e Remaster
 > * Figure out where the Tomb trolls are coming from.
 >
 >
-
----
 
 ### 📝 My Character Log & Roleplay Recaps
 > [!note] What My Character Discovered...
@@ -34,7 +31,7 @@ system: Pathfinder 2e Remaster
 
 ---
 
-### 🎒 Party Loot & My Inventory Split
+## 🎒 Party Loot & My Inventory Split
 > [!tip] Magic, Items & Gems
 > * Ring 5GP
 > * Ring 5GP
@@ -43,13 +40,13 @@ system: Pathfinder 2e Remaster
 >
 >
 
-#### 🪙 Shared Party Treasure Chest
+### 🪙 Shared Party Treasure Chest
 > [!faq] Currency Pool
 > * 70 gp
 >
 >
 
-#### 🧪 Items Added To My Inventory
+### 🧪 Items Added To My Inventory
 > [!caution] Session Changes
 > * +1 Rune added to my Dueling pistol
 > * Sold Hat of Disguise for 15 GP
