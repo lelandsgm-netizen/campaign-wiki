@@ -6,7 +6,7 @@ title: In The Shadow of the Spire
 > | | | 
 > | --- | --- |
 > | **Location Tier** | World |
-> | **Campaign** | [[In The Shadow of The Spire]] |
+> | **Campaign** | [[In The Shadow of The Spire]] | [[The Deck is Stacked - Black Regiment aka Special Forces]]
 
 ---
 
