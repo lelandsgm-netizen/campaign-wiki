@@ -11,7 +11,7 @@ system: Pathfinder 2e Remaster
 > | Tools | [[Quest Portal]], [[Herolab Online]] |
 
 ---
-
+![The Deck is Stacked](the-deck-is-stacked.png)
 ## Campaign Overview: Tides of Sovereignty
 
 Welcome to the **[[Floenry Isles]]**, a sprawling archipelago on the southern edge of [[Eraedal]]. To the rest of the world, these windswept, serpent-infested waters are a treacherous frontier of cutthroat pirates and untamed wild lands. To the great empires, they are a treasure trove of resources waiting to be bled dry.
