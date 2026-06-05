@@ -1,5 +1,5 @@
 ---
-title: Van's Notes
+title: Van Gylfering 2026-05-29
 system: Pathfinder 2e Remaster
 ---
 
