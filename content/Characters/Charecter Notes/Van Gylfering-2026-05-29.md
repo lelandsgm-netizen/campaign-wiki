@@ -7,7 +7,7 @@ system: Pathfinder 2e Remaster
 **Campaign:** [[The Beginning of the End]] | [[Evander -Van- Gylfering]]
 
 ## 📅 Session [3]: [Exploring an old Crypt]
-> [!quote] Session Goals & Objectives
+> [!todo] Session Goals & Objectives
 > * Figure out where the Tomb trolls are coming from.
 >
 >
@@ -15,7 +15,7 @@ system: Pathfinder 2e Remaster
 ---
 
 ### 📝 My Character Log & Roleplay Recaps
-> [!quote] What My Character Discovered...
+> [!note] What My Character Discovered...
 > * Sinkhole discovered local graveyard. Priest of Algor is asking us to check it out. Offering to pay us 300 GP. | Hole looks like it was a tunnel that was dug and partially collapsed. Potentially dug with claws. Giant Mole?
 > * **Important NPCs Met:**
 >   * Timothy Mattis [High Priest of Algor] [Met at Bartles & James]
@@ -44,13 +44,13 @@ system: Pathfinder 2e Remaster
 >
 
 #### 🪙 Shared Party Treasure Chest
-> [!example] Currency Pool
+> [!faq] Currency Pool
 > * 70 gp
 >
 >
 
 #### 🧪 Items Added To My Inventory
-> [!quote] Session Changes
+> [!caution] Session Changes
 > * +1 Rune added to my Dueling pistol
 > * Sold Hat of Disguise for 15 GP
 >
