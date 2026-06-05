@@ -1,5 +1,8 @@
 ---
-title: In The Shadow of the Spire
+title: Eraedal
+tags:
+  - campaign-cards
+  - campaign-spire
 ---
 
 > ###### Information
