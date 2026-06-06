@@ -1,6 +1,7 @@
 ---
 type: GM_Secret
 associated_npc: "[[{{title}}]]"
+draft: true
 ---
 # 🕵️‍♂️ GM Secrets: {{title}}
 
