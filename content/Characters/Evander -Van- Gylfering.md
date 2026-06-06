@@ -1,4 +1,12 @@
-# Evander "Van" Gylfering
+---
+totle: Van Gylfering
+tags:
+  - Ancestry/Elf
+  - class/sorcerer
+  - campaign-end
+---
+
+
 **Player:** [[Leland]] | **System:** [[Pathfinder 2e Remaster]]
 Campaign: [[The Beginning of the End]] | [[Character Notes Van Gylfering]]
 

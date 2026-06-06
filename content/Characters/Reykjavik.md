@@ -1,7 +1,6 @@
 ---
 title: Reykjavik
 tags:
-  - PC/Reykjavik
   - Ancestry/Elf
   - Class/Rogue
   - campaign-cards

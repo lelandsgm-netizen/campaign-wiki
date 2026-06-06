@@ -1,10 +1,9 @@
 ---
 alias: Bron
 tags:
-  - Pathfinder2e
-  - PlayerCharacter
-  - Ranger
-  - Level3
+  - ancestry/human
+  - class/ranger
+  - campaign-end
 ---
 | Player | [[Brian]] | Campaign | [[The Beginning of the End]] |
 *Medium Humanoid (Kellid Human), Ranger 3, Hunter Background*

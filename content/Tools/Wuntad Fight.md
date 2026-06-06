@@ -42,7 +42,7 @@ Wuntad and Ibard begin casually stepping over the groaning, paralyzed, or bleedi
 
 As the cultists gather the stolen artifacts, Wuntad approaches the center of the broken party. He kneels, his sallow green face and malevolent white eyes coming uncomfortably close to one of the conscious players (perhaps Gona or Willie). As he gets close, the **Runic Birthmarks** on the players' skin begin to painfully burn and glow with chaotic light.
 
-> **Read or paraphrase:**
+> [!quote] **Read or paraphrase:**
 > 
 > Wuntad chuckles, a wet, rasping sound that crackles with static electricity. He reaches out a clawed, dawnsilver-gauntleted hand and violently grabs your jaw, forcing you to look at him.
 > 

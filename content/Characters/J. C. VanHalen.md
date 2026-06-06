@@ -1,10 +1,9 @@
 ---
 alias: J.C. VanHalen
 tags:
-  - Pathfinder2e
-  - PlayerCharacter
-  - Investigator
-  - Level3
+  - ancestry/human
+  - class/investigator
+  - campaign-end
 ---
 
 | Player | [[Jon]] | Campaign | [[The Beginning of the End]] |

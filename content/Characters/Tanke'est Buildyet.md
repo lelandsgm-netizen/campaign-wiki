@@ -1,10 +1,9 @@
 ---
-alias: Tanke'est Buildyet 
+alias: Tanke'est Buildyet
 tags:
-  - Pathfinder2e
-  - PlayerCharacter
-  - Guardian
-  - Level3
+  - ancestry/dwarf
+  - class/guardian
+  - campaign-end
 ---
 
 | Player | [[Jurney]] | Campaign | [[The Beginning of the End]]

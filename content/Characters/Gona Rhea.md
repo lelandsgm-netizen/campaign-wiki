@@ -1,3 +1,12 @@
+---
+title: Gona Rhea
+tags:
+  - ancestry/orc
+  - class/fighter
+  - campaign-spire
+---
+
+
 Player [[Jurney]]
 Campaign [[In The Shadow of The Spire]]
 > [!info] 🪓 Orc Fighter & Giant Instinct Barbarian

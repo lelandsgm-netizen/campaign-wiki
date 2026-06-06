@@ -1,3 +1,12 @@
+---
+title: Calebrimbor Algarvran
+tags:
+  - Ancestry/Elf
+  - class/wizard
+  - campaign-spire
+---
+
+
 Player [[Jason]]
 Campaign [[In The Shadow of The Spire]]
 > [!info] 🧪 Arcane Scholar & Master Alchemist

@@ -1,3 +1,12 @@
+---
+title: Wilguard Gramm
+tags:
+  - ancestry/dwarf
+  - class/cleric/warpriest
+  - campaign-spire
+---
+
+
 Player [[Jon]]
 Campaign [[In The Shadow of The Spire]]
 > [!info] 🛡️ Cleric of Trudd the Mighty

@@ -1,3 +1,12 @@
+---
+title: Kino Silvertree
+tags:
+  - Ancestry/Elf
+  - class/Kineticist
+  - campaign-spire
+---
+
+
 Player [[Brian]]
 Campaign [[In The Shadow of The Spire]]
 > [!info] 🌪️⚙️ Dual Gate Kineticist
