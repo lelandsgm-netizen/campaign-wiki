@@ -1,5 +1,5 @@
 ---
-title: Grigory Rostove
+title: Grigory Rostova
 tags:
   - ancestry/human
   - class/ranger
