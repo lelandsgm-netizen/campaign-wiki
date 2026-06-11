@@ -1,6 +1,11 @@
 ---
 title: Pantheon of Light
-location: "[[Eraedal]]"
+tags:
+  - Pantheon
+  - world/eraedal
+  - campaign-spire
+  - campaign-cards
+
 ---
 
 ## Deities of the Pantheon
