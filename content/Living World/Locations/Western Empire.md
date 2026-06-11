@@ -37,64 +37,44 @@
 ---
 ## Timeline of the Empire
 
-110 IA Despite magical aids, Delian Von Tessel,
-first Emperor of the Lion-Guarded
-Throne, dies.
-386 IA Following the assassination of her husband, Empress Addares (Von Tessel) X
-makes it illegal to own a firearm without an official Imperial dispensation.
-413 IA Ptolus—named after fragmentary facts
-from the distant past discovered by the
-loremaster Gerris Hin—is founded as a
-small port city on the edge of a large
-bay off the Whitewind Sea. It is built
-near the fortress of Dalenguard and
-eventually will encompass it.
-c. 500 IA The mysterious Raguel arrives in the
-world with a demonic host. They find a
-home with the undead-loving Forsaken
-in the Dark Reliquary.
-560 IA The Edict of Deviltry is issued, adding
-strict laws prohibiting arcane magic to
-the Vast Codex.
-562 IA The First Inquisition terrorizes the
-Empire. The “Days of Blood” begin.
-564 IA The First Inquisition ends.
-598 IA The Second Inquisition begins, in particular looking for a group of arcanists
-called the Inverted Pyramid.
-609 IA Despite tortures and horrible massacres, the Second Inquisition ends in
-failure. The Edict of Deviltry falls into
-disfavor. The “Days of Blood” end.
-615 IA The leadership of Ptolus declares the
-city a safe haven for arcane spellcasters.
-641 IA The Edict of Deviltry is officially
-overturned.
-657 IA In a surprising move by the Church of
-Lothian, the Prince of the Church takes
-up permanent residence in the fairly
-remote city of Ptolus.
-706 IA The Empire is in chaos, with three
-different people claiming the LionGuarded Throne. Empress Addares
-(Von Tessel) XXXIV attempts to move
-the capital to Dohrinthas, her longtime home.
-708 IA The mysterious and ornately armored
-Urthon Aedar begin to appear in
-Ptolus, prophesying doom.
-710 IA Tarsis is overrun by barbarians from
-the Eastern Hordes. Holy Emperor
-Rehoboth of the Church of Lothian
-flees to Ptolus to stay with the Prince
-of the Church, his son Kirian.
-713 IA Explorers plumbing down into ancient
-Dwarvenhearth discover great treasures
-and begin bringing them to the surface.
-714 IA The barbarians leave Tarsis. “Emperor”
-Segaci attempts to re-establish the
-Empire from its traditional capital.
-717 IA Ptolus becomes the center of much
-attention as more and more would-be
-treasure-seekers plumb the depths
-below the city. Activities of so-called
-“chaos cults” increase. The potential
-for both greatness and danger has
-never been as intense.
-721 IA Today.
+> [!faq]
+> **1 IA:** The Lion-Guarded Throne proclaims Imperial control over the lands around the Western Empire. The Age of the Imperial Order begins.
+> <br><br>
+> **110 IA:** Despite magical aids, Delian Von Tessel, first Emperor of the Lion-Guarded Throne, dies.
+> <br><br>
+> **386 IA:** Following the assassination of her husband, Empress Addares (Von Tessel) X makes it illegal to own a firearm without an official Imperial dispensation.
+> <br><br>
+> **413 IA:** Ptolus, home to the Dalenguard, named after fragmentary facts from the distant past discovered by the loremaster Gerris Hin—is founded as a small port city on the edge of a large bay off the Inland Sea. It is built near the fortress of Dalenguard and eventually will encompass it.
+> <br><br>
+> **500 IA:** The mysterious Raguel arrives in the world with a demonic host. They find a home with the undead-loving Forsaken in the Dark Reliquary of Ptolus.
+> <br><br>
+> **560 IA:** The Edict of Deviltry is issued, adding strict laws prohibiting arcane magic to the Vast Imperial Codex.
+> <br><br>
+> **562 IA:** The First Inquisition terrorizes the Empire. The “Days of Blood” begin.
+> <br><br>
+> **564 IA:** The First Inquisition ends.
+> <br><br>
+> **598 IA:** The Second Inquisition begins, in particular looking for a group of arcanists called the Inverted Pyramid.
+> <br><br>
+> **609 IA:** Despite tortures and horrible massacres, the Second Inquisition ends in failure. The Edict of Deviltry falls into disfavor. The “Days of Blood” end.
+> <br><br>
+> **615 IA:** The leadership of Ptolus declares the city a safe haven for arcane spellcasters.
+> <br><br>
+> **641 IA:** The Edict of Deviltry is officially overturned.
+> <br><br>
+> **682 IA:** In a surprising move by the Imperial Church of Aroden, the Prince of the Church takes up permanent residence in the fairly remote city of Ptolus.
+> <br><br>
+> **700 IA:** The mysterious and ornately armored Urthon Aedar begin to appear in Ptolus, prophesying doom.
+> <br><br>
+> **702 IA:** Caer Itom is overrun by the Cyclopean Vanguard including barbarians and Coyle hordes from the Ophid Grasslands. Holy Emperor Rehoboth of the Imperial Church of Aroden declares himself as the true Emperor flees to Ptolus to stay with the Prince of the Church, his son Kirian. He declares Ptolus as the Holy Capital of the Western Empire.
+> <br><br>
+> **704 IA:** Lord Skluud Ne'Klosh declares himself Emperor Ne'Klosh from his fortified citadel Caer Kurgas in Upper Kighfalton He is holding back the Cyclopean Vanguard to his west while the barbarian hordes move freely among the middle kingdoms.
+> **705 IA:** The Empire is in chaos, with three different people claiming the LionGuarded Throne. Empress Lasha Itomas attempts to move the capital to Caer Glaverius in the Yin-Sloth Periphery, her current safehaven and home. The Western Empire is severely fractured with the Middle Kingdoms in open rebellion in addition the the fractured claims to the throne.
+> <br><br>
+> **713 IA:** Explorers plumbing down into ancient Dwarvenhearth discover great treasures and begin bringing them to the surface.
+> <br><br>
+> **714 IA:** The barbarian and Coyle hordes continue to roam the middle kindgoms. Large swaths have become their domain. Emperor Ne'Kosh enters into talks with the Vequerrel Woodlands and what remains of the Ophid Grasslands Colonies. Restarts finiancial and Military aid to both.
+> <br><br>
+> **717 IA:** Ptolus becomes the center of much attention as more and more would-be treasure-seekers plumb the depths below the city. Activities of so-called “chaos cults” increase. The potential for both greatness and danger has never been as intense.
+> <br><br>
+> **721 IA:** Today.

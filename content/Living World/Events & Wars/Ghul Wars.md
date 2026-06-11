@@ -58,7 +58,7 @@ tags:
 > <br><br>
 > **43 BE:** Construction of Dalenguard, a fortress the dwarves built for the Western Empire, begins near the Spire.
 > <br><br>
-> 41 BE Imperial outposts and garrisons dot the landscape, providing security and maintenance on the roads.
+> **41 BE:** Imperial outposts and garrisons dot the landscape, providing security and maintenance on the roads.
 > <br><br>
 > **40 BE:** Construction of Dalenguard is complete.
 > <br><br>
