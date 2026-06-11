@@ -49,7 +49,7 @@ Her holy symbol is a stylized hearth fire burning brightly inside a protective s
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The Mother of the Migration
 During the monumental **Quest for Sky**, when the dwarven ancestry migrated from the terrifying depths of the Darklands to the surface world, Folgrit played a role just as vital as Torag’s strategic vanguard leadership. While Torag’s armies cleared the path ahead through orc hordes and subterranean horrors, Folgrit managed the grueling logistics of the civilian evacuation. She kept the encampments organized, ensured the wounded were healed, and safely moved generations of children upward through the dark. Because of this, she is often invoked as the "Goddess of Casualties," acting as the principal comforter for the thousands of widows, orphans, and grieving parents who lost loved ones during the centuries-long upward climb.

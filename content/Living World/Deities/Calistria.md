@@ -2,7 +2,7 @@
 title: "Calistria"
 tags:
   - world/eraedal
-  - pantheon/light
+  - pantheon/stars
   - deity
   - campaign-spire
   - campaign-cards
@@ -14,7 +14,7 @@ tags:
 > "A wound to the flesh heals with time, but a wound to the pride demands a lifetime of meticulous payment. Let them smile in their shallow victories today; the wasp does not announce its sting until the poison is already in the vein."
 > — *The Blood-Red Ledger, Holy Script of the Savored Sting*
 
-Calistria is Golarion’s mercurial, fiercely independent goddess of trickery, lust, and revenge. Frequently associated with the elven ancestry, she represents the absolute freedom of the individual to pursue their deepest desires, unravel hidden secrets, and balance every slight with devastating retribution. Calistria has no interest in grand moral Crusades, objective justice, or societal laws. To her, life is an exquisite game of social leverage, intoxicating passions, and long-term psychological warfare, making her an unpredictable wild card who is as likely to aid a saint as she is to ruin a tyrant.
+Calistria is Eraedal’s mercurial, fiercely independent goddess of trickery, lust, and revenge. Frequently associated with the elven ancestry, she represents the absolute freedom of the individual to pursue their deepest desires, unravel hidden secrets, and balance every slight with devastating retribution. Calistria has no interest in grand moral Crusades, objective justice, or societal laws. To her, life is an exquisite game of social leverage, intoxicating passions, and long-term psychological warfare, making her an unpredictable wild card who is as likely to aid a saint as she is to ruin a tyrant.
 
 ---
 
@@ -49,7 +49,7 @@ Her holy symbol is a stylized, gold-and-black wasp silhouette with its abdomen a
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The Goddess of the Long Grudge
 In cosmic mythos, Calistria is an ancient power whose existence stretches back to the earliest social structures of the elven ancestry. When the early elves began to navigate the complex webs of courtly intrigue and political betrayal, Calistria emerged to teach them that vulnerability can be turned into a weapon. Her faith teaches that direct, blunt warfare is a clumsy and unrefined method of conflict. True mastery lies in the art of the *long grudge*—waiting years, decades, or even centuries if necessary, to dismantle an enemy’s life brick-by-brick until they are utterly ruined before they even realize she was behind the strike.

@@ -49,13 +49,13 @@ His holy symbol is a heavy, stylized warhammer stamped with concentric rings rep
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The Forging of the World
-In Golarion's deep history, Torag was among the first deities to emerge from the cosmic primordial soup. While other gods looked to the stars and the vast outer planes, Torag turned his gaze inward to the raw materials of the mortal realm. Myth says he shaped the first mountains, hammered out the tectonic lines, and hid precious veins of gems and ore deep within the crust so that mortals would learn the virtue of hard work by digging them out.
+In Eraedal's deep history, Torag was among the first deities to emerge from the cosmic primordial soup. While other gods looked to the stars and the vast outer planes, Torag turned his gaze inward to the raw materials of the mortal realm. Myth says he shaped the first mountains, hammered out the tectonic lines, and hid precious veins of gems and ore deep within the crust so that mortals would learn the virtue of hard work by digging them out.
 
 ### The Quest for Sky
-Torag's most monumental historical intervention is the **Quest for Sky**. For millennia, the dwarven ancestry lived deep in the Darklands (the subterranean depths). Prior to the cataclysmic event known as Earthfall (when a massive meteor struck Golarion), Torag granted his high priests a collective, burning prophecy: *the stone beneath your feet will tremble, and the darkness will consume you. Dig upward to find your salvation.* This sparked an epic, multi-generational migration. The dwarves fought through underground horrors for centuries, carving their way toward the surface world. When they finally emerged, they fulfilled Torag's mandate by constructing massive, impenetrable fortress-cities known as **Sky Citadels** to anchor his worship and guard the surface.
+Torag's most monumental historical intervention is the **Quest for Sky**. For millennia, the dwarven ancestry lived deep in the Darklands (the subterranean depths). Prior to the cataclysmic event known as Earthfall (when a massive meteor struck Eraedal), Torag granted his high priests a collective, burning prophecy: *the stone beneath your feet will tremble, and the darkness will consume you. Dig upward to find your salvation.* This sparked an epic, multi-generational migration. The dwarves fought through underground horrors for centuries, carving their way toward the surface world. When they finally emerged, they fulfilled Torag's mandate by constructing massive, impenetrable fortress-cities known as **Sky Citadels** to anchor his worship and guard the surface.
 
 ### The Philosophy of Defensive War
 Unlike many martial deities who embrace the aggressive, consuming flame of tactical offenses, Torag is an absolute pragmatist when it comes to violence. He despises bloodlust and pointless slaughter. In Torag’s eyes, a war is only worth fighting if it protects what you have built. His strategy centers on stone walls, bottleneck defense, and outlasting an enemy through superior infrastructure.

@@ -49,15 +49,15 @@ Her holy symbol is the Dawnflower icon—a stylized, soaring angel silhouette wi
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The Warden of the Pit
-Sarenrae's ancient history is defined by her central role in trapping the ultimate cosmic threat: **Rovagug, the Rough Beast**. Before the Material Plane was fully populated, Rovagug sought to consume the multiverse. Sarenrae led the vanguard of the early gods, drawing the entity's attention away from vulnerable worlds. She used her solar blade to slice open the tectonic foundations of Golarion, creating a localized spatial tear that allowed the other deities to bind the beast inside the world's core. 
+Sarenrae's ancient history is defined by her central role in trapping the ultimate cosmic threat: **Rovagug, the Rough Beast**. Before the Material Plane was fully populated, Rovagug sought to consume the multiverse. Sarenrae led the vanguard of the early gods, drawing the entity's attention away from vulnerable worlds. She used her solar blade to slice open the tectonic foundations of Eraedal, creating a localized spatial tear that allowed the other deities to bind the beast inside the world's core. 
 
 ### The Tragedy of Ninshabur
 Despite her vast wisdom, Sarenrae’s historical record contains a dark, sobering lesson on the dangers of absolute righteous pride. In the ancient human empire of Ninshabur, a corrupt cult of Rovagug took over a grand city, actively mocking her faith and murdering her clergy. Overcome with holy fury, Sarenrae smote the city directly with a pillar of raw, unmitigated solar fire. 
 
-The strike was so powerful it tore an unhealing scar into the fabric of Golarion, creating the **Pit of Gormuz**. Far from destroying the cult, the sheer kinetic shockwave loosened the seals of Rovagug's prison, allowing terrifying monsters known as the Spawn of Rovagug to crawl out onto the surface world for millennia. Horrified by her own destructive overreach, Sarenrae swore an oath never to deploy such devastating, unguided orbital power upon the mortal world again, shifting her core focus heavily toward patience, education, and redemption.
+The strike was so powerful it tore an unhealing scar into the fabric of Eraedal, creating the **Pit of Gormuz**. Far from destroying the cult, the sheer kinetic shockwave loosened the seals of Rovagug's prison, allowing terrifying monsters known as the Spawn of Rovagug to crawl out onto the surface world for millennia. Horrified by her own destructive overreach, Sarenrae swore an oath never to deploy such devastating, unguided orbital power upon the mortal world again, shifting her core focus heavily toward patience, education, and redemption.
 
 ### The Beacon of the Pantheon
 Within the **Pantheon of Light**, Sarenrae acts as the moral compass and primary warmth of the alliance. Her temples serve as public hospitals, orphanages, and community centers. Her order teaches that a sword should only be drawn when every diplomatic line, medical intervention, and offer of peaceful reform has been completely exhausted. However, once the scimitar *is* drawn, her paladins fight with absolute, terrifying kinetic speed, knowing that an enemy who refuses her light is an immediate existential threat to the innocent.

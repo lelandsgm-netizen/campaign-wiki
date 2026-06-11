@@ -49,7 +49,7 @@ His holy symbol is a heavy golden key, often stylized with a city gate structure
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The First Vault
 Central to the theology of Abadar is the myth of the **First Vault**. Located at the heart of his realm in Axis, this massive divine archive is said to contain a perfect, flawless blueprint of every object, concept, and structural development that has ever existed or will ever exist. It contains the perfect hammer, the perfect legal contract, the perfect city grid, and even the perfect recipe for bread. Abadar’s mortal clerics, engineers, and city planners pray for divine inspiration to glimpse these blueprints, aiming to replicate the perfection of the First Vault in the mortal world.

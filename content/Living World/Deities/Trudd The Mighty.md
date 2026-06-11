@@ -50,7 +50,7 @@ His holy symbol is a heavy dwarven warhammer set directly in front of a polished
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The Mountain's Gift
 Divine myth states that when Torag was crafting his family, he stepped back and realized he had not yet given his beloved wife, Folgrit, a child who inherited the raw, dynamic momentum of the tectonic stone. To fill this void, Torag forged Trudd. From his first breath, Trudd was designated as his father's strong left hand, appointed as the high general of heaven’s armies. Whenever Torag must travel across the Great Beyond on cosmic business, it is Trudd who sits upon the auxiliary anvil, standing watch over the planar fortress of **Forgeheart** to smash back any abyssal or infernal breaches.

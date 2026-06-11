@@ -14,7 +14,7 @@ tags:
 > "True beauty is not stamped into cold marble; it is the warmth of the hand that carves it. Look past the scars, find the melody hidden in the discord, and let love be your unyielding shield."
 > — *The Melodies of the Soul, Holy Scripture of the Eternal Rose*
 
-Shelyn is Golarion's radiant, completely unpretentious goddess of art, beauty, love, and music. Standing as one of the most gentle and compassionate pillars of the Pantheon of Light, she represents the divine realization that creation and affection are the ultimate answers to cosmic despair and entropy. Unlike vain or shallow deities of aesthetics found in other mythologies, Shelyn focuses entirely on inner beauty, teaching that the clumsiest song sung with a pure heart is infinitely more beautiful than a flawless symphony conducted out of pride. She is a pacifist by nature, choosing to disarm conflicts through empathy and artistic expression, though she carries a tragic martial burden that she will wield to shield the innocent.
+Shelyn is Eraedal's radiant, completely unpretentious goddess of art, beauty, love, and music. Standing as one of the most gentle and compassionate pillars of the Pantheon of Light, she represents the divine realization that creation and affection are the ultimate answers to cosmic despair and entropy. Unlike vain or shallow deities of aesthetics found in other mythologies, Shelyn focuses entirely on inner beauty, teaching that the clumsiest song sung with a pure heart is infinitely more beautiful than a flawless symphony conducted out of pride. She is a pacifist by nature, choosing to disarm conflicts through empathy and artistic expression, though she carries a tragic martial burden that she will wield to shield the innocent.
 
 ---
 
@@ -49,7 +49,7 @@ Her holy symbol is a stylized, multi-colored songbird with a long, elegant tail 
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The Tragedy of Dou-Bral
 Shelyn's ancient history is defined by her deep, unyielding grief regarding her half-brother, **Dou-Bral**. In the primordial age, they were inseparable companions who shared the portfolios of creativity and exploration. However, Dou-Bral grew restless and traveled into the terrifying, dark voids beyond the rim of the Outer Planes. When he returned, his mind had been completely hollowed out and corrupted by alien horrors. He renamed himself **Zon-Kuthon**, transforming into a god of absolute pain, envy, and surgical mutilation. 

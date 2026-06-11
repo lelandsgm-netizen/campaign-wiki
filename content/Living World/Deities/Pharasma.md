@@ -49,7 +49,7 @@ Her primary holy symbol is a stylized, looping blue spiral that represents the j
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The Cosmic Survivor
 Pharasma is arguably the oldest entity in the entire multiverse. According to cosmic lore, she is the sole survivor of the *previous* universe that existed before the current cosmos was born. When her original reality collapsed into raw planar entropy, she stepped through the void into the unformed raw matter of the current universe, carrying the very first soul. Because she witnessed the birth of the outer planes, she understands the fundamental blueprints of existence better than any other living god.
@@ -68,7 +68,7 @@ Pharasma maintains a position of absolute neutrality, viewing the petty politica
 
 | Deity / Faction | Dynamic & Lore |
 | --- | --- |
-| **Urgathoa** | **Eternal, Burning Hatred.** Urgathoa was a mortal soul who, upon dying, looked at Pharasma's judgment line, panicked, and clawed her way back to the Material Plane, becoming Golarion's first vampire/undead. Pharasma considers Urgathoa and her necromancer cults to be a systemic rot that breaks the universe's plumbing. |
+| **Urgathoa** | **Eternal, Burning Hatred.** Urgathoa was a mortal soul who, upon dying, looked at Pharasma's judgment line, panicked, and clawed her way back to the Material Plane, becoming Eraedal's first vampire/undead. Pharasma considers Urgathoa and her necromancer cults to be a systemic rot that breaks the universe's plumbing. |
 | **Magrim** | **Colleague of the Vaults.** Within the Dwarven Pantheon, Magrim oversees the ancestral dead. Pharasma treats Magrim with professional courtesy, allowing his clergy to manage dwarven crypts and prepare subterranean souls for their journey to the grand scales of the Boneyard. |
 | **Nethys** | **Planar Coexistence.** Nethys and Pharasma share an ancient connection regarding the raw nature of the planes. While Nethys manipulates the magical energies that bind existence, Pharasma manages the soul-stuff that populates it. They rarely interfere in each other's works. |
 | **Iomedae** | **Conditional Alliance.** The Church of Light and the Church of the Lady of Graves frequently ally on the battlefield for one specific reason: the absolute annihilation of undead armies and necromantic cults. However, Pharasma refuses to endorse Iomedae’s moral crusades or political borders. |

@@ -49,7 +49,7 @@ His holy symbol is a stylized bow with an arrow notched, crafted such that the b
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The Oldest Guardian
 Erastil is a primordial deity, having existed long before the rise of humanity's first empires. When the earliest mortal ancestries began to crawl out of the wild caves and form the first primitive settlements, it was Old Deadeye who stepped forward to guide them. He taught them how to track migrating game, how to identify edible plants, how to sow the first wild grains, and how to tame wolves into loyal companions. While other gods gave mortals magic, philosophy, or metalworking, Erastil gave them the practical tools required to survive the changing seasons.

@@ -14,7 +14,7 @@ tags:
 > "Pristine flesh is an unwritten slate, cold and dead in its perfection. True beauty is carved in mutations, born in the frantic howling of the night, and multi-shaped to survive. Multiply, adapt, and let the weak fear the strength of the broken."
 > — *The Skull-Bound Tablets, Dark Scripture of the Mother*
 
-Lamashtu is Golarion’s ancient, horrific goddess of monsters, madness, nightmares, and maternal corruption. Sitting upon her throne of gnashed bone in the Abyssal realm of the Malice, she represents the terrifying, predatory side of birth and survival. Lamashtu has absolute contempt for civilization, purity, and the structured order of the civilized planes. To her, the universe is a brutal crucible where only the most adaptable, mutated, and ruthless monstrosities deserve to inherit the earth. She is the dark patron of outcasts, gnolls, goblins, and any being that embraces physical or psychological deformity to conquer their predators.
+Lamashtu is Eraedal’s ancient, horrific goddess of monsters, madness, nightmares, and maternal corruption. Sitting upon her throne of gnashed bone in the Abyssal realm of the Malice, she represents the terrifying, predatory side of birth and survival. Lamashtu has absolute contempt for civilization, purity, and the structured order of the civilized planes. To her, the universe is a brutal crucible where only the most adaptable, mutated, and ruthless monstrosities deserve to inherit the earth. She is the dark patron of outcasts, gnolls, goblins, and any being that embraces physical or psychological deformity to conquer their predators.
 
 ---
 
@@ -49,7 +49,7 @@ Her holy symbol is a stylized, three-eyed jackal head surrounded by a halo of ja
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The Slaying of Curchanus
 In the ancient primordial history of the Outer Planes, Lamashtu was originally a powerful, cunning Demon Lord ruling a standard layer of the Abyss. Her path to true godhood was forged through an act of unprecedented celestial murder. She orchestrated a brilliant, multi-layered ambush against **Curchanus**, the ancient, neutral god of beasts, travel, and the wilderness. 

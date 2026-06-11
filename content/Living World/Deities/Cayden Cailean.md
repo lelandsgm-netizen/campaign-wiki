@@ -2,7 +2,7 @@
 title: "Cayden Cailean"
 tags:
   - world/eraedal
-  - pantheon/light
+  - pantheon/dwarven
   - deity
   - campaign-spire
   - campaign-cards
@@ -14,7 +14,7 @@ tags:
 > "Chains are forged by tyrants to be broken by brave fools. Pour a cup for the fallen, pass the bottle to the living, and draw your steel whenever a soul screams for freedom."
 > — *The Placard of Wisdom, Core Philosophy of the Drunken Hero*
 
-Cayden Cailean is Golarion’s fiercely beloved patron of freedom, bravery, ale, wine, and casual carousing. Unique among the ascended divinities, Cayden did not achieve godhood through millennia of planar evolution or elaborate arcane ascension. He was a normal, baseline human mercenary who took the ultimate cosmic dare while completely black-out drunk. Because of his mortal origins, he remains the most down-to-earth, approachable, and fiercely egalitarian deity in the cosmos. He despises tyranny, institutional cruelty, and the stuffy bureaucracy of the higher planes, acting as the ultimate cosmic liberator.
+Cayden Cailean is Eraedal’s fiercely beloved patron of freedom, bravery, ale, wine, and casual carousing. Unique among the ascended divinities, Cayden did not achieve godhood through millennia of planar evolution or elaborate arcane ascension. He was a normal, baseline human mercenary who took the ultimate cosmic dare while completely black-out drunk. Because of his mortal origins, he remains the most down-to-earth, approachable, and fiercely egalitarian deity in the cosmos. He despises tyranny, institutional cruelty, and the stuffy bureaucracy of the higher planes, acting as the ultimate cosmic liberator.
 
 ---
 
@@ -49,7 +49,7 @@ His holy symbol is a simple, overflowing tankard or stein, often stamped with a 
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The Starstone Incident
 The defining legend of Cayden Cailean is his absolute, legendary ascension in the year 2765 AR. At the time, Cayden was a highly skilled, incredibly popular mercenary based out of the international hub of Absalom. Following a spectacularly successful job, he and his companions entered a prolonged, multi-day brawling binge at a local tavern. After a rival patron mocked his bravery, a black-out drunk Cayden took a massive financial bet that he could cross the pit and survive the lethal **Test of the Starstone**—a divine gauntlet designed by ancient cosmic architects that had claimed the lives of the world's greatest kings and wizards.

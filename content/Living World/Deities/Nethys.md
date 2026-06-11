@@ -49,10 +49,10 @@ His holy symbol is a stylized eye, with the left half cast in bright, burning go
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The God-King of Osirion
-In Golarion’s ancient history, Nethys was once a flesh-and-blood mortal wizard-king who ruled the sprawling, golden empire of Ancient Osirion. He was a practitioner of unmatched genius, obsessed with unlocking the foundational keys of the universe. He traveled between the outer planes, drained the knowledge of ancient monuments, and developed spellweaving techniques that bypassed the limitations of early mortal casting. 
+In Eraedal’s ancient history, Nethys was once a flesh-and-blood mortal wizard-king who ruled the sprawling, golden empire of Ancient Osirion. He was a practitioner of unmatched genius, obsessed with unlocking the foundational keys of the universe. He traveled between the outer planes, drained the knowledge of ancient monuments, and developed spellweaving techniques that bypassed the limitations of early mortal casting. 
 
 ### The Madness of Omniscience
 His mortal life ended when he finally achieved his ultimate goal: looking directly into the core matrix of existence to witness all magical equations, planar movements, and timelines simultaneously. The sheer, infinite volume of the cosmos was too massive for a mortal psyche to hold. In the exact nanosecond he achieved absolute omniscience, his mind shattered completely, launching him into godhood at the cost of his sanity. He became the god of magic not by divine inheritance, but by tearing down the barrier between mortal limitations and cosmic reality.

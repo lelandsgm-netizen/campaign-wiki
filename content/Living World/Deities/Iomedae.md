@@ -49,7 +49,7 @@ Her holy symbol is the "Sword of Justice"—a pristine, upright longsword wreath
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The General of the Shining Crusade
 Long before her ascension, Iomedae was a mortal paladin of Arazni (the herald of Aroden) in the ancient human kingdom of Taldor. When the lich-king Tar-Baphon, the Whispering Tyrant, rose to conquer the continent with armies of the undead, Iomedae assumed command of the Knights of Ozem. Throughout the grueling centuries of the **Shining Crusade**, her tactical genius and unyielding morale turned the tide of the war. Her legendary exploits during this era were chronicled into the **Eleven Acts of Iomedae**, which remain the central text of her martial doctrine today.

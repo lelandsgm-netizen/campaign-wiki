@@ -49,7 +49,7 @@ Her holy symbol is a single golden wedding ring or a pair of intertwined silk ri
 
 ---
 
-## Canonical Golarion History & Mythos
+## Canonical Eraedal History & Mythos
 
 ### The Blossom in the Stone
 In ancient dwarven myth, after Torag had forged the first massive Sky Citadels and anchored the rigid codes of clan law, the dwarven people grew incredibly efficient but emotionally cold. Seeing her people drifting into a state of joyless, transactional survival, Folgrit requested that Torag help her spark a force of pure, emotional rejuvenation. 
