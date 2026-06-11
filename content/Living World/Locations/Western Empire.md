@@ -35,3 +35,66 @@
   *The highly militarized eastern borderland facing the ruined continent. The geography here is stark, scarred, and heavily fortified by the Imperial Legions. It acts as the ultimate shield, built to prevent the monstrous hordes, orcs, and ancient horrors of the fallen [[Old Kingdom]] Old Kingdom from spilling over the mountains into the Empire proper.*
 
 ---
+## Timeline of the Empire
+
+110 IA Despite magical aids, Delian Von Tessel,
+first Emperor of the Lion-Guarded
+Throne, dies.
+386 IA Following the assassination of her husband, Empress Addares (Von Tessel) X
+makes it illegal to own a firearm without an official Imperial dispensation.
+413 IA Ptolus—named after fragmentary facts
+from the distant past discovered by the
+loremaster Gerris Hin—is founded as a
+small port city on the edge of a large
+bay off the Whitewind Sea. It is built
+near the fortress of Dalenguard and
+eventually will encompass it.
+c. 500 IA The mysterious Raguel arrives in the
+world with a demonic host. They find a
+home with the undead-loving Forsaken
+in the Dark Reliquary.
+560 IA The Edict of Deviltry is issued, adding
+strict laws prohibiting arcane magic to
+the Vast Codex.
+562 IA The First Inquisition terrorizes the
+Empire. The “Days of Blood” begin.
+564 IA The First Inquisition ends.
+598 IA The Second Inquisition begins, in particular looking for a group of arcanists
+called the Inverted Pyramid.
+609 IA Despite tortures and horrible massacres, the Second Inquisition ends in
+failure. The Edict of Deviltry falls into
+disfavor. The “Days of Blood” end.
+615 IA The leadership of Ptolus declares the
+city a safe haven for arcane spellcasters.
+641 IA The Edict of Deviltry is officially
+overturned.
+657 IA In a surprising move by the Church of
+Lothian, the Prince of the Church takes
+up permanent residence in the fairly
+remote city of Ptolus.
+706 IA The Empire is in chaos, with three
+different people claiming the LionGuarded Throne. Empress Addares
+(Von Tessel) XXXIV attempts to move
+the capital to Dohrinthas, her longtime home.
+708 IA The mysterious and ornately armored
+Urthon Aedar begin to appear in
+Ptolus, prophesying doom.
+710 IA Tarsis is overrun by barbarians from
+the Eastern Hordes. Holy Emperor
+Rehoboth of the Church of Lothian
+flees to Ptolus to stay with the Prince
+of the Church, his son Kirian.
+713 IA Explorers plumbing down into ancient
+Dwarvenhearth discover great treasures
+and begin bringing them to the surface.
+714 IA The barbarians leave Tarsis. “Emperor”
+Segaci attempts to re-establish the
+Empire from its traditional capital.
+717 IA Ptolus becomes the center of much
+attention as more and more would-be
+treasure-seekers plumb the depths
+below the city. Activities of so-called
+“chaos cults” increase. The potential
+for both greatness and danger has
+never been as intense.
+721 IA Today.
