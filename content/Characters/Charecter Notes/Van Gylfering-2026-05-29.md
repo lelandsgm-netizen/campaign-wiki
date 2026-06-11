@@ -1,9 +1,11 @@
 ---
 title: Van Gylfering 2026-05-29
 system: Pathfinder 2e Remaster
+tags:
+  - player/leland
+  - char/vangylfering
+  - campaign-end
 ---
-
-**Campaign:** [[The Beginning of the End]] | [[Evander -Van- Gylfering]]
 
 ## 📅 Session [3]: [Exploring an old Crypt]
 > [!todo] Session Goals & Objectives
@@ -24,7 +26,7 @@ system: Pathfinder 2e Remaster
 *A diary of the threats your character survives. Perfect for writing down monster weaknesses for your Arcana or Society Recall Knowledge checks later!*
 
 > [!danger] Encounter: [Encounter Name / Enemy Group]
-> * **Enemy Types Faced:** [Tombstone Trolls] Highest Save is Reflex. Allergic to Fire[Killed 5]
+> * **Enemy Types Faced:** [Tombstone Trolls] Highest Save is Reflex. Allergic to Fire [Killed 5]
 > * **Tactics That Worked:** [Fire Bombs]
 >
 > 

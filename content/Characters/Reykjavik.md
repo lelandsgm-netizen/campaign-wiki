@@ -4,6 +4,7 @@ tags:
   - Ancestry/Elf
   - Class/Rogue
   - campaign-cards
+  - world/eraedal
 ---
 **Player:** [[brian]] **Campaign:** [[The Deck is Stacked - Black Regiment aka Special Forces]]
 > [!quote]

@@ -4,6 +4,7 @@ tags:
   - Ancestry/Elf
   - class/Kineticist
   - campaign-spire
+  - world/eraedal
 ---
 
 

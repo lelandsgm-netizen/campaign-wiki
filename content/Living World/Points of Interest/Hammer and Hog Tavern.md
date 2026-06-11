@@ -4,10 +4,10 @@ Tags:
   - "point-of-interest"
   - tavern
   - campaign-spire
+  - world/eraedal
 ---
 
 > [!info] Quick Facts
-> **World:** [[Eraedal]]
 > **Location:** [[Western Empire]]
 > **Region:** [[Tarldet Plains]]
 > **City:** [[Ptolus]]

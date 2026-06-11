@@ -4,6 +4,7 @@ tags:
   - ancestry/goblin
   - Class/Rogue
   - campaign-cards
+  - world/eraedal
 ---
 Player: [[jurney]] Campaign: [[The Deck is Stacked - Black Regiment aka Special Forces]]
 

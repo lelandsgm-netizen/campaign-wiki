@@ -1,5 +1,5 @@
 ---
-title: "Hammer & Hog"
+title: "Borlon Mystery 01"
 draft: true
 Tags:
   - "point-of-interest"
@@ -25,7 +25,7 @@ Tags:
 
 As the party arrives at the sprawling, claustrophobic sea of tents, the atmosphere shifts from miserable to lethal . Before a proper greeting can take place, the crisp evening air is shattered by screams .
 
-> [warning] Scenario Note
+> [!warning] Scenario Note
 > Earlier in the day, Elspeth witnessed a cart delivery at the gate. Deliveries were not unusual, but this one seemed to initiate a response from the guards like it was not scheduled. It was pulled aside for an inspection. The driver seemed enraged by the delay and stalked back an forth refusing to cooperate and dropping names. After a messenger dispatch and return, the guards backed off and let the cart in. This cart was moved to a back alley along the fence. Over the course of the afternoon, zombies escaped the cart and invaded several encampment structures killing refugees and growing their numbers. Soon the camp was overwhelmed!
 
 ```

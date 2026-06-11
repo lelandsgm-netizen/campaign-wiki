@@ -1,9 +1,11 @@
 ---
 title: Calebrimbor Algarvran
 tags:
+  - player/jason
   - Ancestry/Elf
   - class/wizard
   - campaign-spire
+  - world/eraedal
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 title: The Deck is Stacked
 system: Pathfinder 2e Remaster
+tags: 
+  - campaign-cards
+  - world/eraedal
 ---
 
 > | | |

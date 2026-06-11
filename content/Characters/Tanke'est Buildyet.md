@@ -4,6 +4,7 @@ tags:
   - ancestry/dwarf
   - class/guardian
   - campaign-end
+  - world/eraedal
 ---
 
 | Player | [[Jurney]] | Campaign | [[The Beginning of the End]]

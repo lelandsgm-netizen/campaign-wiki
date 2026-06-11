@@ -4,6 +4,7 @@ tags:
   - ancestry/human
   - class/investigator
   - campaign-end
+  - world/eraedal
 ---
 
 | Player | [[Jon]] | Campaign | [[The Beginning of the End]] |

@@ -5,6 +5,7 @@ tags:
   - class/ranger
   - companion/badger
   - campaign-cards
+  - world/eraedal
 ---
 
 Player: [[Jason]] Campaign: [[The Deck is Stacked - Black Regiment aka Special Forces]]

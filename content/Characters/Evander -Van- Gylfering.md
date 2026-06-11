@@ -1,14 +1,12 @@
 ---
 totle: Van Gylfering
 tags:
+  - player/leland
   - Ancestry/Elf
   - class/sorcerer
   - campaign-end
+  - world/eraedal
 ---
-
-
-**Player:** [[Leland]] | **System:** [[Pathfinder 2e Remaster]]
-Campaign: [[The Beginning of the End]] | [[Character Notes Van Gylfering]]
 
 > ![Character Concept](vangylfering.png) <!-- Swap this line out for a local link to your vault's character art if you have one! -->
 > ###### Ancestry & Heritage

@@ -4,6 +4,7 @@ tags:
   - ancestry/vanara
   - class/monk
   - campaign-cards
+  - world/eraedal
 ---
 Player: [[Jason]] Campaign: [[The Deck is Stacked - Black Regiment aka Special Forces]]
 

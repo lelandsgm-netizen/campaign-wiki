@@ -4,6 +4,7 @@ tags:
   - ancestry/dromar
   - class/barbarian
   - campaign-cards
+  - world/eraedal
 ---
 Player: [[Jon]] Campaign: [[The Deck is Stacked - Black Regiment aka Special Forces]]
 

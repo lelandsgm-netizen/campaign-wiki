@@ -1,11 +1,12 @@
 ---
 alias: Bron
 tags:
+  - player/brian
   - ancestry/human
   - class/ranger
   - campaign-end
+  - world/eraedal
 ---
-| Player | [[Brian]] | Campaign | [[The Beginning of the End]] |
 *Medium Humanoid (Kellid Human), Ranger 3, Hunter Background*
 ___
 **<span style="color:#B8860B">Wealth:</span>** 44 gp | **<span style="color:#B8860B">Hero Points:</span>** 3/3 | **<span style="color:#B8860B">Focus Points:</span>** 0

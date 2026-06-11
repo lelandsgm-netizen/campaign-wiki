@@ -1,6 +1,8 @@
 ---
 title: In The Shadow of the Spire
 system: Pathfinder 2e Remaster
+tags:
+  - world/eraedal
 ---
 
 > | | |
