@@ -1,11 +1,8 @@
 ---
 title: "Shelyn"
 tags:
-  - world/eraedal
   - pantheon/order
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Shelyn: The Eternal Rose

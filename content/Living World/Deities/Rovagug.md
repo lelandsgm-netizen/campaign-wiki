@@ -1,11 +1,8 @@
 ---
 title: "Rovagug"
 tags:
-  - world/eraedal
   - pantheon/devouring-void
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Rovagug: The Rough Beast

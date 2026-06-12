@@ -1,11 +1,8 @@
 ---
 title: "Droskar"
 tags:
-  - world/eraedal
   - pantheon/forgeheart
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Droskar: The Dark Smith

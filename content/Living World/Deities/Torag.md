@@ -1,11 +1,8 @@
 ---
 title: "Torag"
 tags:
-  - world/eraedal
   - pantheon/forgeheart
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Torag: The Father of Creation

@@ -1,12 +1,9 @@
 ---
 title: "Iomedae"
 tags:
-  - world/eraedal
   - pantheon/imperial
   - pantheon/order
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Iomedae: The Inheritor

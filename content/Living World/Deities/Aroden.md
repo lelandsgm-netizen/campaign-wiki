@@ -1,11 +1,8 @@
 ---
 title: "Aroden"
 tags:
-  - world/eraedal
   - pantheon/imperial
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Aroden: The Slumbering Architect

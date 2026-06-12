@@ -1,10 +1,7 @@
 ---
 title: The Devouring Void
 tags:
-  - world/eraedal
-  - pantheon/devouring-void
-  - campaign-spire
-  - campaign-cards
+  - pantheons
 ---
 # The Devouring Void: The Architects of Oblivion
 

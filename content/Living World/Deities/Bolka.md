@@ -1,11 +1,8 @@
 ---
 title: "Bolka"
 tags:
-  - world/eraedal
   - pantheon/forgeheart
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Bolka: The Golden Gift

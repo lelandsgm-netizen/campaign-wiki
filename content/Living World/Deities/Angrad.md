@@ -1,11 +1,8 @@
 ---
 title: "Angradd"
 tags:
-  - world/eraedal
   - pantheon/forgeheart
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Angradd: The Forge Fire

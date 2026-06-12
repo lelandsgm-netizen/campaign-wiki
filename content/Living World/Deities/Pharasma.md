@@ -1,12 +1,8 @@
 ---
 title: "Pharasma"
 tags:
-  - world/eraedal
   - pantheon/imperial
   - pantheon/order
-  - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Pharasma: The Lady of Graves

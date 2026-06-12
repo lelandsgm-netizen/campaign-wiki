@@ -1,11 +1,8 @@
 ---
 title: "Desna"
 tags:
-  - world/eraedal
-  - pantheon/stars
+  - pantheon/bright
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Desna: The Song of the Spheres

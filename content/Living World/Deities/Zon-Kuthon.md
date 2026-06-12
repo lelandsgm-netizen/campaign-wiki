@@ -1,11 +1,8 @@
 ---
 title: "Zon-Kuthon"
 tags:
-  - world/eraedal
   - pantheon/devouring-void
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Zon-Kuthon: The Midnight Lord

@@ -1,11 +1,8 @@
 ---
 title: "Dranngvit"
 tags:
-  - world/eraedal
   - pantheon/forgeheart
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Dranngvit: The Debt Minder

@@ -1,11 +1,8 @@
 ---
 title: "Yuelral"
 tags:
-  - world/eraedal
   - pantheon/stars
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Yuelral: The Wise

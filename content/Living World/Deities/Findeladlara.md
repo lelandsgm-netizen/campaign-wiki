@@ -1,11 +1,8 @@
 ---
 title: "Findeladlara"
 tags:
-  - world/eraedal
-  - pantheon/stars
+  - pantheon/bright
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Findeladlara: The Twilight Mother

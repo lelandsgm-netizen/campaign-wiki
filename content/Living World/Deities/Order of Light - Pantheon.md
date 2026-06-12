@@ -1,10 +1,7 @@
 ---
 title: Order of Light
 tags:
-  - Pantheon/order
-  - world/eraedal
-  - campaign-spire
-  - campaign-cards
+  - Pantheons
 ---
 
 ## Deities of the Pantheon

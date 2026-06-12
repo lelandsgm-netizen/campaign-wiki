@@ -1,11 +1,8 @@
 ---
 title: "Calistria"
 tags:
-  - world/eraedal
-  - pantheon/stars
+  - pantheon/bright
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Calistria: The Savored Sting

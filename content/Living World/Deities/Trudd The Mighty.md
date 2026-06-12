@@ -1,11 +1,8 @@
 ---
 title: "Trudd"
 tags:
-  - world/eraedal
   - pantheon/forgeheart
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Trudd: The Mighty

@@ -1,11 +1,8 @@
 ---
 title: "Asmodeus"
 tags:
-  - world/eraedal
   - pantheon/order
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Asmodeus: The Prince of Darkness

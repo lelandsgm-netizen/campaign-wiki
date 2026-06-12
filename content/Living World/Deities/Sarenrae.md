@@ -1,11 +1,8 @@
 ---
 title: "Sarenrae"
 tags:
-  - world/eraedal
   - pantheon/order
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Sarenrae: The Dawnflower

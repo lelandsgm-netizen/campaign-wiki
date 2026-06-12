@@ -1,11 +1,8 @@
 ---
 title: "Lamashtu"
 tags:
-  - world/eraedal
   - pantheon/devouring-void
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Lamashtu: The Mother of Monsters
@@ -14,7 +11,7 @@ tags:
 > "Pristine flesh is an unwritten slate, cold and dead in its perfection. True beauty is carved in mutations, born in the frantic howling of the night, and multi-shaped to survive. Multiply, adapt, and let the weak fear the strength of the broken."
 > — *The Skull-Bound Tablets, Dark Scripture of the Mother*
 
-Lamashtu is Eraedal’s ancient, horrific goddess of monsters, madness, nightmares, and maternal corruption. Sitting upon her throne of gnashed bone in the Abyssal realm of the Malice, she represents the terrifying, predatory side of birth and survival. Lamashtu has absolute contempt for civilization, purity, and the structured order of the civilized planes. To her, the universe is a brutal crucible where only the most adaptable, mutated, and ruthless monstrosities deserve to inherit the earth. She is the dark patron of outcasts, gnolls, goblins, and any being that embraces physical or psychological deformity to conquer their predators.
+Lamashtu is [[Eraedal]]’s ancient, horrific goddess of monsters, madness, nightmares, and maternal corruption. Sitting upon her throne of gnashed bone in the Abyssal realm of the Malice, she represents the terrifying, predatory side of birth and survival. Lamashtu has absolute contempt for civilization, purity, and the structured order of the civilized planes. To her, the universe is a brutal crucible where only the most adaptable, mutated, and ruthless monstrosities deserve to inherit the earth. She is the dark patron of outcasts, gnolls, goblins, and any being that embraces physical or psychological deformity to conquer their predators.
 
 ---
 
@@ -73,5 +70,5 @@ Lamashtu rules the monstrosities of the dark planes through fear and instinct, m
 | **Erastil** | **Visceral Hatred.** Erastil values pristine, stable agrarian family lineages, domestic livestock safety, and modest community traditions. Lamashtu represents the absolute corruption and mutation of livestock, crops, and households, making her church an immediate target for Old Deadeye’s longbow hunters. |
 | **Folgrit** | **Matriarchal War.** Folgrit provides a safe, welcoming sanctuary for children, mothers, and refugees within clean, residential fortress vaults. Lamashtu’s systematic targeting of pregnancies and children to create abyssal monsters earns her Folgrit's absolute, protective fury. |
 | **Asmodeus** | **Ideological Contempt.** The Lord of Hell thrives on perfect bureaucratic hierarchy, strict laws, and contracts. Lamashtu represents chaotic, feral madness and unstructured mutation. Asmodeus views her followers merely as rabid animals that need to be systematically caged, collared, or eradicated. |
-| **Urgathoa** | **Pragmatic Distance.** Both goddesses belong to the `pantheon/devouring-void` due to their alignment with physical corruption. However, while Urgathoa seeks to halt life entirely through the cold stillness of undeath, Lamashtu celebrates the wild, shifting vitality of fleshly mutation. They rarely clash, but they do not ally. |
+| **Urgathoa** | **Pragmatic Distance.** Both goddesses belong to the Devouring Void due to their alignment with physical corruption. However, while Urgathoa seeks to halt life entirely through the cold stillness of undeath, Lamashtu celebrates the wild, shifting vitality of fleshly mutation. They rarely clash, but they do not ally. |
 | **Pazuzu** | **Demonic Rivalry.** Pazuzu (The King of Wind Demons) is Lamashtu’s ancient ex-spouse and most bitter demonic competitor. They are locked in a vicious shadow war for control over Abyssal air currents and mortal corruption, and any shrine dedicated to Lamashtu will actively draw Pazuzu's spiteful intervention. |

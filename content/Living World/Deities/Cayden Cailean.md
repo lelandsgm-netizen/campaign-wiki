@@ -1,11 +1,8 @@
 ---
 title: "Cayden Cailean"
 tags:
-  - world/eraedal
-  - pantheon/dwarven
+  - pantheon/order
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Cayden Cailean: The Drunken Hero

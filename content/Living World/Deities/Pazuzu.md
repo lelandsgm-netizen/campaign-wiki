@@ -1,11 +1,8 @@
 ---
 title: "Pazuzu"
 tags:
-  - world/eraedal
   - pantheon/devouring-void
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Pazuzu: The King of the Wind Demons

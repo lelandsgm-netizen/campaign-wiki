@@ -1,12 +1,9 @@
 ---
 title: "Abadar"
 tags:
-  - world/eraedal
   - pantheon/imperial
   - pantheon/order
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Abadar: The Master of the First Vault

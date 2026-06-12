@@ -1,11 +1,8 @@
 ---
 title: "Kols"
 tags:
-  - world/eraedal
   - pantheon/forgeheart
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Kols: The Oath-Keeper

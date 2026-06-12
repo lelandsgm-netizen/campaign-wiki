@@ -1,11 +1,8 @@
 ---
 title: "Urgathoa"
 tags:
-  - world/eraedal
   - pantheon/devouring-void
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Urgathoa: The Pallid Princess

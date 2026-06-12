@@ -1,11 +1,8 @@
 ---
 title: "Ketephys"
 tags:
-  - world/eraedal
-  - pantheon/stars
+  - pantheon/bright
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Ketephys: The Bow

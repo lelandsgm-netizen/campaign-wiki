@@ -1,11 +1,8 @@
 ---
 title: "Gozreh"
 tags:
-  - world/eraedal
   - pantheon/order
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Gozreh: The Wind and the Waves

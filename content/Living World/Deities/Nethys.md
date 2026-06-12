@@ -1,11 +1,8 @@
 ---
 title: "Nethys"
 tags:
-  - world/eraedal
   - pantheon/order
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Nethys: The All-Seeing Eye

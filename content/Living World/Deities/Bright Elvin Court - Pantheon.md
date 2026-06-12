@@ -1,10 +1,7 @@
 ---
-title: The Bright Elven Court
+title: Bright Elven Court
 tags:
-  - world/eraedal
-  - pantheon/stars
-  - campaign-spire
-  - campaign-cards
+  - pantheons
 ---
 # The Bright Elven Court: The Pantheon of the Stars
 
@@ -12,7 +9,7 @@ tags:
 > "The empire counts its citizens by the brick, and the mountains pin the clans to the deep stone. But the sky has no borders, the stars recognize no crowns, and the road always sings to a soul that refuses to be caged."
 > — *The Celestial Canopy, Verse of the Silk-Moth*
 
-The **Bright Elven Court** is the ancient, fluid, and deeply esoteric divine assembly of the elven people, tracked in your vault database under the primary tag `pantheon/stars`. Standing as a luminous, ideological counterweight to both the rigid hierarchies of human empires and the ironclad family systems of the mountains, this pantheon represents individual agency, advanced arcane mastery, cosmic travel, and the preservation of historical memory. Rather than building their faith on municipal laws or military fortresses, the entities of the Court govern paths, dreams, wild hunting canopies, and the organic growth of raw stone and crystal magic.
+The **Bright Elven Court** is the ancient, fluid, and deeply esoteric divine assembly of the elven people. Standing as a luminous, ideological counterweight to both the rigid hierarchies of human empires and the ironclad family systems of the mountains, this pantheon represents individual agency, advanced arcane mastery, cosmic travel, and the preservation of historical memory. Rather than building their faith on municipal laws or military fortresses, the entities of the Court govern paths, dreams, wild hunting canopies, and the organic growth of raw stone and crystal magic.
 
 ---
 
@@ -45,9 +42,3 @@ The Court operates without a singular supreme monarch or rigid bureaucratic chai
 | **[[Findeladlara]]** | **The Twilight Mother.** Goddess of classical courtly etiquette, elegant elven architecture, and ancestral family genealogies.  | Society              | Quarterstaff   | The conservative archivist; keeps ancient cultural patterns safe across cataclysms. |
 
 ---
-
-## The Shadow of the Edict: Unregulated Starlight
-
-The primary political tension shaping the modern existence of the Bright Elven Court across the colonial frontier is its relationship with **[[Aroden]]**'s human-centric state apparatus and **[[The Imperial Rite]]**.
-
-**Traditionalist elements within the modern human clergy still heavily harbor those deep, paranoiac feelings.** To an old-guard Imperial Inquisitor, the followers of the Bright Elven Court are highly unpredictable wild cards. Because the Court teaches that magic is a natural ecosystem (**Yuelral**) and that destiny must remain fluid and unmapped (**Desna**), the Church frequently labels their priesthoods as "unregulated practitioners" or practitioners of "minor folk superstitions.

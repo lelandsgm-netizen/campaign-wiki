@@ -1,11 +1,8 @@
 ---
 title: "Magrim"
 tags:
-  - world/eraedal
   - pantheon/forgeheart
   - deity
-  - campaign-spire
-  - campaign-cards
 ---
 
 # Magrim: The Taskmaster

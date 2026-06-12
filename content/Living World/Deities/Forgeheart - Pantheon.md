@@ -1,10 +1,7 @@
 ---
 title: Dwarven Gods
 tags:
-  - campaign-cards
-  - campaign-spire
-  - world/eraedal
-  - pantheon/forgeheart
+  - pantheons
 ---
 # The Dwarven Pantheon: The Family of Forgeheart
 
