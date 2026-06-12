@@ -2,7 +2,8 @@
 title: "Erastil"
 tags:
   - world/eraedal
-  - pantheon/light
+  - pantheon/Imperial
+  - pantheon/order
   - deity
   - campaign-spire
   - campaign-cards

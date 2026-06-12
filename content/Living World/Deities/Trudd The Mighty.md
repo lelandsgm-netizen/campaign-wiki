@@ -2,7 +2,7 @@
 title: "Trudd"
 tags:
   - world/eraedal
-  - pantheon/dwarven
+  - pantheon/forgeheart
   - deity
   - campaign-spire
   - campaign-cards
@@ -67,8 +67,8 @@ Trudd is a universal favorite in the halls of Forgeheart, acting as a breath of 
 | Deity / Faction | Dynamic & Lore |
 | --- | --- |
 | **Torag & Folgrit** | **The Loyal Son.** Trudd respects his parents completely and executes his military duties with absolute joy. Folgrit quietly worries about his frontline recklessness, while Torag commands his left hand with absolute tactical trust. |
-| **Cayden Cailean** | **The Drunken Tryst.** Trudd loves to slip away from his rigid family duties to travel the multiverse. He has struck up an intimate, highly casual romantic relationship with the Drunken God, frequently sharing drinks, brawls, and trysts. |
-| **Bolka** | **Maternal Nagging.** As the goddess of marriage and committed relationships, his sister Bolka is utterly fascinated—and deeply annoyed—by Trudd's casual flings with Cayden Cailean. She is constantly meddling, trying to force Trudd to turn the tryst into a serious, traditional dwarven union. |
+| **Cayden Cailean** | **The Drunken Tryst.** Trudd loves to slip away from his rigid family duties to travel the multiverse. He has struck up a friendly, highly competitive Bromance with the Drunken God, frequently sharing drinks, brawls, and adventures. |
+| **Bolka** | **Maternal Nagging.** As the goddess of marriage and committed relationships, his sister Bolka is utterly fascinated—and deeply annoyed—by Trudd's casual flings. She is constantly meddling, trying to force Trudd to turn to a serious, traditional dwarven union. |
 | **Kols & Grundinnar** | **Sibling Friction.** Kols constantly follows Trudd around to audit his logs and make sure he isn't shirking his eternal contracts, while the missing Grundinnar used to exhaust him with endless diplomatic talk. Despite finding them infuriating, Trudd loves them fiercely. |
 
 ---

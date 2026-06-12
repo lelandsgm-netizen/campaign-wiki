@@ -2,7 +2,7 @@
 title: "Aroden"
 tags:
   - world/eraedal
-  - pantheon/Aroden
+  - pantheon/imperial
   - deity
   - campaign-spire
   - campaign-cards

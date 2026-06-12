@@ -67,7 +67,7 @@ Cayden Cailean is a loose cannon in planar politics, maintaining open doors with
 
 | Deity / Faction | Dynamic & Lore |
 | --- | --- |
-| **Trudd** | **The Mountain's Tryst.** Cayden shares a fiercely passionate, highly casual romantic relationship with the dwarven god Trudd. The two regularly slip away from their divine duties to travel the mortal realm together, sharing legendary drinking bouts, raucous tavern brawls, and intimate trysts. |
+| **Trudd** | **The Mountain's Bros** Cayden shares a fiercely loyal, often humerous relationship with the dwarven god Trudd. The two regularly slip away from their divine duties to travel the mortal realm together, sharing legendary drinking bouts & raucous tavern brawls. |
 | **Bolka** | **The Sibling Friction.** As the dwarven goddess of marriage, Trudd's sister Bolka is thoroughly exhausted by Cayden's non-traditional, non-committal nature. She constantly meddles in their relationship, trying to pressure Cayden into a formal, traditional dwarven union, which Cayden constantly ducks out of out of sheer panic. |
 | **Calistria** | **The Elysian Carousers.** Cayden and the Savored Sting are frequent partners-in-crime in the gardens of Elysium. They share a visceral hatred for tyrants and a mutual love for physical indulgence, though Cayden knows never to cross her grudge line. Calistria actively sabotages Bolka's matchmaking schemes out of pure spite to keep Cayden independent. |
 | **Asmodeus** | **Absolute, Open Hostility.** Asmodeus represents everything Cayden loathes: chains, absolute hierarchy, contracts designed to entrap souls, and institutional slavery. Cayden considers it a personal point of pride to actively smash Asmodean trade routes and disrupt the legal networks of Hell. |

@@ -5,7 +5,7 @@ tags:
   - faction/imperial-church
   - campaign-spire
   - campaign-cards
-  - pantheon/imperial-rite
+  - pantheon/imperial
 ---
 
 # The Imperial Rite: The Pantheon of Civil Order

@@ -4,7 +4,7 @@ tags:
   - campaign-cards
   - campaign-spire
   - world/eraedal
-  - pantheon/dwarven
+  - pantheon/forgeheart
 ---
 # The Dwarven Pantheon: The Family of Forgeheart
 

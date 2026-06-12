@@ -2,7 +2,7 @@
 title: "Gozreh"
 tags:
   - world/eraedal
-  - pantheon/light
+  - pantheon/order
   - deity
   - campaign-spire
   - campaign-cards

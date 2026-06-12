@@ -2,7 +2,7 @@
 title: "Magrim"
 tags:
   - world/eraedal
-  - pantheon/dwarven
+  - pantheon/forgeheart
   - deity
   - campaign-spire
   - campaign-cards

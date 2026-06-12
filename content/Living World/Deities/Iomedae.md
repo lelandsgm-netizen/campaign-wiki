@@ -2,7 +2,8 @@
 title: "Iomedae"
 tags:
   - world/eraedal
-  - pantheon/light
+  - pantheon/imperial
+  - pantheon/order
   - deity
   - campaign-spire
   - campaign-cards
