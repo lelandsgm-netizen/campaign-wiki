@@ -14,7 +14,7 @@ This site serves as the central hub and digital compendium for mapping out my un
 
 ### Contact
 If you have questions about the lore, want to talk about TTRPG worldbuilding, or just want to connect, feel free to reach out to me!
-**Discord Handle:** `@arbitron4244` 
+**Discord Handle:** [**@arbitron4244**](https://discordapp.com/users/294566695392247808)
 
 ---
 
