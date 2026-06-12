@@ -2,7 +2,7 @@
 title: "Pharasma"
 tags:
   - world/eraedal
-  - pantheon/Imperial
+  - pantheon/imperial
   - pantheon/order
   - deity
   - campaign-spire
