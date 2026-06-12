@@ -1,12 +1,11 @@
 ---
 title: Prah Tatexam
 tags:
+  - player/jurney
   - ancestry/goblin
   - Class/Rogue
   - campaign-cards
-  - world/eraedal
 ---
-Player: [[jurney]] Campaign: [[The Deck is Stacked - Black Regiment aka Special Forces]]
 
 > [!quote] "They build thick walls and lock iron doors. They completely forget to check what is already hiding in their shadows."
 

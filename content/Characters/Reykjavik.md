@@ -1,12 +1,12 @@
 ---
 title: Reykjavik
 tags:
+  - player/brian
   - Ancestry/Elf
   - Class/Rogue
   - campaign-cards
-  - world/eraedal
 ---
-**Player:** [[brian]] **Campaign:** [[The Deck is Stacked - Black Regiment aka Special Forces]]
+
 > [!quote]
 > "A quick blade, a steady trigger, and a shadow to vanish into. That’s all the leverage I need."
 

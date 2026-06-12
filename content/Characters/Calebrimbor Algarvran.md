@@ -4,13 +4,9 @@ tags:
   - player/jason
   - Ancestry/Elf
   - class/wizard
-  - campaign-spire
-  - world/eraedal
+  - campaign-spire 
 ---
 
-
-Player [[Jason]]
-Campaign [[In The Shadow of The Spire]]
 > [!info] 🧪 Arcane Scholar & Master Alchemist
 > **Ancestry & Heritage:** Elf (Mualijae / Seer Elf) | **Class:** Wizard 5 (Unified Magical Theory)
 > **Archetype:** Alchemist Dedication | **Background:** Cook

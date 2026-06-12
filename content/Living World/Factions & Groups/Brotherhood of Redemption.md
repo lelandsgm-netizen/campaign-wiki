@@ -1,6 +1,10 @@
 ---
 title: Brotherhood of Redemption
 tags:
-  - world/eraedal/western-empire/tarldet-plains/ptolus
+  - world/eraedal
+  - location/western-empire
+  - region/tarldet-plains
+  - province/haishe
+  - city/ptolus
   - campaign-spire
 ---

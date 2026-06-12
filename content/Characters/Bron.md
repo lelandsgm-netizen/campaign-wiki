@@ -5,7 +5,6 @@ tags:
   - ancestry/human
   - class/ranger
   - campaign-end
-  - world/eraedal
 ---
 *Medium Humanoid (Kellid Human), Ranger 3, Hunter Background*
 ___

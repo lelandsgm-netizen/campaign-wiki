@@ -1,12 +1,11 @@
 ---
 title: Purr'zhya
 tags:
+  - player/jon
   - ancestry/catfolk
   - class/bard
   - campaign-cards
-  - world/eraedal
 ---
-Player: [[Jon]] Campaign: [[The Deck is Stacked - Black Regiment aka Special Forces]]
 
 > [!quote] "They think a shadow operation is all about brute force and bleeding out in the dark. How boorish. They completely forget that a flawless infiltration is just like a theater premiere: you captivate the front row, slip in through the wings, and leave them screaming before the curtain falls."
 

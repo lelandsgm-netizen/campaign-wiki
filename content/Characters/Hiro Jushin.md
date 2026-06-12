@@ -1,12 +1,11 @@
 ---
 title: Hiro Jushin
 tags:
+  - player/jason
   - ancestry/vanara
   - class/monk
   - campaign-cards
-  - world/eraedal
 ---
-Player: [[Jason]] Campaign: [[The Deck is Stacked - Black Regiment aka Special Forces]]
 
 > [!quote] "They build high walls and narrow corridors to catch us. They completely forget that the open sky belongs to no one, and shadows climb just as fast as I do."
 

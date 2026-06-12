@@ -1,17 +1,14 @@
 ---
 title: Wilguard Gramm
 tags:
+  - playrt/jon
   - ancestry/dwarf
   - class/cleric/warpriest
   - campaign-spire
-  - world/eraedal
 ---
 
-
-Player [[Jon]]
-Campaign [[In The Shadow of The Spire]]
 > [!info] 🛡️ Cleric of Trudd the Mighty
-> **Ancestry & Heritage:** Anvil Dwarf | **Class & Doctrine:** Cleric 5 (Warpriest)
+> **Ancestry & Heritage:** Stonelost/Anvil Dwarf | **Class & Doctrine:** Cleric 5 (Warpriest)
 > **Deity:** Trudd The Mighty | **Wealth:** 25 gp, 1 sp | **Bulk:** 6.09 / 10 (Encumbered)
 
 ## 📊 Core Statistics

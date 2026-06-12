@@ -1,6 +1,7 @@
 ---
 title: Three-way Civil War
 tags:
-  - world/eraedal/western-empire
+  - world/eraedal
+  - location/western-empire
   - campaign-spire
 ---

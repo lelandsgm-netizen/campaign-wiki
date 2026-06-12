@@ -1,14 +1,11 @@
 ---
 title: Grigory Rostova
 tags:
+  - player/jason
   - ancestry/human
   - class/ranger
-  - companion/badger
   - campaign-cards
-  - world/eraedal
 ---
-
-Player: [[Jason]] Campaign: [[The Deck is Stacked - Black Regiment aka Special Forces]]
 
 > [!quote] They build their empires across the wilds. They forget that nature always reclaims its territory, one hidden snare at a time.
 

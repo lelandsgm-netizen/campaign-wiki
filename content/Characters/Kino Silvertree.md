@@ -1,15 +1,12 @@
 ---
 title: Kino Silvertree
 tags:
+  - player/brian
   - Ancestry/Elf
   - class/Kineticist
   - campaign-spire
-  - world/eraedal
 ---
 
-
-Player [[Brian]]
-Campaign [[In The Shadow of The Spire]]
 > [!info] 🌪️⚙️ Dual Gate Kineticist
 > **Ancestry & Heritage:** Mutated Fleshwarp | **Class:** Kineticist 5
 > **Archetype:** Rogue Dedication | **Background:** Planar Migrant

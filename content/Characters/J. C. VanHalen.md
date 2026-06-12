@@ -1,13 +1,12 @@
 ---
 alias: J.C. VanHalen
 tags:
+  - player/jon
   - ancestry/human
   - class/investigator
   - campaign-end
-  - world/eraedal
 ---
 
-| Player | [[Jon]] | Campaign | [[The Beginning of the End]] |
 *Medium Humanoid (Versatile Human), Investigator 3, Detective Background*
 ___
 **<span style="color:#B8860B">Wealth:</span>** 58 gp, 5 sp | **<span style="color:#B8860B">Hero Points:</span>** 2/3 | **<span style="color:#B8860B">Versatile Vials:</span>** 4/day

@@ -1,14 +1,13 @@
 ---
 alias: Tanke'est Buildyet
 tags:
+  - player/jurney
   - ancestry/dwarf
   - class/guardian
   - campaign-end
-  - world/eraedal
 ---
 
-| Player | [[Jurney]] | Campaign | [[The Beginning of the End]]
-*Medium Humanoid (Rock Dwarf), Guardian 3, Nomad Background*
+*Medium Humanoid (Stonelost/Rock Dwarf), Guardian 3, Nomad Background*
 ___
 **<span style="color:#B8860B">Wealth:</span>** 52 gp, 5 sp | **<span style="color:#B8860B">Hero Points:</span>** 2/3 | **<span style="color:#B8860B">Focus Points:</span>** 0
 

@@ -1,6 +1,8 @@
 ---
 title: Faerie War
 tags:
-  - world/eraedal/western-empire/vequerrel-woodlands
+  - world/eraedal/
+  - location/western-empire
+  - vequerrel-woodlands
   - campaign-spire
 ---

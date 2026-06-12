@@ -5,7 +5,6 @@ tags:
   - Ancestry/Elf
   - class/sorcerer
   - campaign-end
-  - world/eraedal
 ---
 
 > ![Character Concept](vangylfering.png) <!-- Swap this line out for a local link to your vault's character art if you have one! -->

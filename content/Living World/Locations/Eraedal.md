@@ -1,8 +1,7 @@
 ---
 title: Eraedal
 tags:
-  - campaign-cards
-  - campaign-spire
+  - worlds
 ---
 
 > ###### Information

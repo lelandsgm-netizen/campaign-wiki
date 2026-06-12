@@ -1,8 +1,7 @@
 ---
 title: "The Beginning of the End"
 tags: 
-  - campaign-spus
-  - world/80ssteampunk
+  - campaigns
 ---
 > | | |
 > | --- | --- |

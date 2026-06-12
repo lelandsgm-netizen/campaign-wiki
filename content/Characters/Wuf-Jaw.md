@@ -1,12 +1,11 @@
 ---
 title: Wuf-Jaw
 tags:
+  - player/jon
   - ancestry/dromar
   - class/barbarian
   - campaign-cards
-  - world/eraedal
 ---
-Player: [[Jon]] Campaign: [[The Deck is Stacked - Black Regiment aka Special Forces]]
 
 > [!quote]
 > They build fortifications out of stone and iron. They forget that both break under enough pressure."
