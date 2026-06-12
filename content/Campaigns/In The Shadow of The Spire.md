@@ -2,6 +2,8 @@
 title: In The Shadow of the Spire
 system: Pathfinder 2e Remaster
 tags:
+  - campaign-spire
+tags:
   - world/eraedal
 ---
 
