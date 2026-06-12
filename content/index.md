@@ -20,4 +20,4 @@ If you have questions about the lore, want to talk about TTRPG worldbuilding, or
 
 ### Unique Visitors
 > [!info] 
-> ![Visitor Count](https://profile-counter.glitch.me/loreforge.works/count.svg)
+> <img src="https://api.visitorbadge.io/api/visitors?path=loreforge.works&countColor=%23555555" alt="Visitors" />
