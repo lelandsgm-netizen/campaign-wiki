@@ -6,7 +6,7 @@ tags:
   - class/wizard
   - campaign-spire 
 ---
-
+ ![Character Concept](calibrimbor.jpg)
 > [!info] 🧪 Arcane Scholar & Master Alchemist
 > **Ancestry & Heritage:** Elf (Mualijae / Seer Elf) | **Class:** Wizard 5 (Unified Magical Theory)
 > **Archetype:** Alchemist Dedication | **Background:** Cook
