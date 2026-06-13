@@ -1,6 +1,9 @@
-Since your LoreForge Works wiki lists SWADE as a System Reference, here is a highly structured, scannable, and clean Markdown template designed specifically for your Savage Worlds Adventure Edition characters.
-
-It relies on tables and flat bulleted lists to ensure it looks beautiful in Obsidian or any other markdown viewer.
+---
+title: Silisuvari Bianaci
+tags:
+  - player/leland
+  - campaign-spus
+---
 
 ---
 
