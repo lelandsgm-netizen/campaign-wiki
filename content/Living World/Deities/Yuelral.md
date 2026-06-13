@@ -1,7 +1,7 @@
 ---
 title: "Yuelral"
 tags:
-  - pantheon/stars
+  - pantheon/bright
   - deity
 ---
 
