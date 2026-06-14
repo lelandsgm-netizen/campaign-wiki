@@ -1,5 +1,5 @@
 ---
-title: "🌆 Overview & Current Status"
+title: "Arcadia"
 world: "Eraedal"
 type: "Location"
 location: ""

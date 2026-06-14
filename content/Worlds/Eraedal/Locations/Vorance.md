@@ -1,5 +1,5 @@
 ---
-title: "📍 Overview"
+title: "Vorance"
 world: "Eraedal"
 type: "Location"
 location: ""

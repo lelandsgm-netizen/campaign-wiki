@@ -11,16 +11,6 @@ tags:
 draft: true
 ---
 
-> ###### Information
-> | | |
-> | --- | --- |
-> | **World** | "" |
-> | **Type** | "Pantheon" |
-> | **Location** | "" |
-> | **Associated location** | "" |
-> | **Tags** | `#eraedal`, `#pantheon`, `#deity` |
-> | **Draft** | true |
-
 ## Overview
 
 Describe the pantheon, its thematic identity, and its place in the world.

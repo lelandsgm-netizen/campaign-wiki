@@ -1,5 +1,5 @@
 ---
-title: "📍 Overview"
+title: "Caer Kurgas"
 world: "Eraedal"
 type: "Location"
 location: ""

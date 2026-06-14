@@ -1,5 +1,5 @@
 ---
-title: "📍 Overview"
+title: "Western Empire"
 world: "Eraedal"
 type: "Location"
 location: ""

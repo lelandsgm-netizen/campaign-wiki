@@ -1,5 +1,5 @@
 ---
-title: "📍 Overview"
+title: "Greensea"
 world: "Eraedal"
 type: "Location"
 location: ""

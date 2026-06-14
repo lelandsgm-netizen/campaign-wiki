@@ -11,16 +11,6 @@ tags:
 draft: false
 ---
 
-> ###### Information
-> | | |
-> | --- | --- |
-> | **World** | "" |
-> | **Type** | "Deity" |
-> | **Location** | "" |
-> | **Associated location** | "" |
-> | **Tags** | `#eraedal`, `#deity` |
-> | **Draft** | false |
-
 # Pazuzu: The King of the Wind Demons
 
 > [!QUOTE]

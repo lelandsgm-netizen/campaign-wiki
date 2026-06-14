@@ -1,5 +1,5 @@
 ---
-title: "📍 Overview"
+title: "Liara"
 world: "Eraedal"
 type: "Location"
 location: ""

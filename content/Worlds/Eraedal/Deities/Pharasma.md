@@ -12,16 +12,6 @@ tags:
 draft: false
 ---
 
-> ###### Information
-> | | |
-> | --- | --- |
-> | **World** | "" |
-> | **Type** | "Deity" |
-> | **Location** | "" |
-> | **Associated location** | "" |
-> | **Tags** | `#eraedal`, `#deity` |
-> | **Draft** | false |
-
 # Pharasma: The Lady of Graves
 
 > [!QUOTE]

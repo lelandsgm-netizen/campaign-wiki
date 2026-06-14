@@ -10,16 +10,6 @@ tags:
 draft: true
 ---
 
-> ###### Information
-> | | |
-> | --- | --- |
-> | **World** | "" |
-> | **Type** | "Location" |
-> | **Location** | "" |
-> | **Associated location** | "" |
-> | **Tags** | `#eraedal`, `#location` |
-> | **Draft** | true |
-
 ## Overview
 
 Describe the location's role, geography, and current state.

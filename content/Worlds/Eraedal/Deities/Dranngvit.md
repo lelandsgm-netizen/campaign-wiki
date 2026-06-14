@@ -11,16 +11,6 @@ tags:
 draft: false
 ---
 
-> ###### Information
-> | | |
-> | --- | --- |
-> | **World** | "" |
-> | **Type** | "Deity" |
-> | **Location** | "" |
-> | **Associated location** | "" |
-> | **Tags** | `#eraedal`, `#deity` |
-> | **Draft** | false |
-
 # Dranngvit: The Debt Minder
 
 > [!QUOTE]

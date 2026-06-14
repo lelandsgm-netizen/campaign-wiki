@@ -10,16 +10,6 @@ tags:
 draft: true
 ---
 
-> ###### Information
-> | | |
-> | --- | --- |
-> | **World** | "" |
-> | **Type** | "Deity" |
-> | **Location** | "" |
-> | **Associated location** | "" |
-> | **Tags** | `#eraedal`, `#deity` |
-> | **Draft** | true |
-
 ## Overview
 
 Describe the deity's portfolio, nature, and place in Eraedal's belief system.

@@ -1,5 +1,5 @@
 ---
-title: "📍 Overview"
+title: "Upper Kighfalton"
 world: "Eraedal"
 type: "Location"
 location: ""

@@ -9,6 +9,7 @@ tags:
   - npc
 draft: true
 ---
+
 # ![[NPC_Image.png|banner]]
 
 > [!infobox]
