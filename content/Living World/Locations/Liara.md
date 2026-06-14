@@ -12,10 +12,10 @@
 
 ---
 ## 🗺️ Points of Interest
-- **[[The Rolling Orchards]]**
+- **[[Rolling Orchards]]**
 - The vast grape and fruit fields that dominate the interior landscape, hiding cell structures of active separatist rebels.
     
-- **[[The Zeitch Ancestral Manor]]**
+- **[[Zeitch Ancestral Manor]]**
 - The massive, labyrinthine palace crowded with the bloated, politically oblivious members of House Zeitch.
     
 - **[[Underground Alliance Cells]]**

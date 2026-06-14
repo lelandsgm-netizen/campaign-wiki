@@ -1,24 +1,37 @@
 ---
-title:
+title: ""
+locationTier: ""
+region: ""
+governingPower: ""
+otherInformation: ""
 draft: true
 ---
 
 > ###### Information
-> | | | 
+> | | |
 > | --- | --- |
-> | **Location Tier** | Province |
-> | **Region** | [[West Kighfalton]] |
-> | Other information | N/A
-> | **Governing Power** | [[House Gioto]] |
-> | Provinces/Houses | Links |
+> | **Location Tier** | "" |
+> | **Region** | "" |
+> | **Governing Power** | "" |
+> | **Other information** | "" |
 
-## 📍 Overview
+## Overview
 
+Describe the location's role, geography, and current state.
 
----
-## 🗺️ Points of Interest
-- **[[The Island-Core Fortress]]**
-- – The central, water-washed stone matrix of Waterfall, once the seat of House Gioto, now operating as the highly secured high command for the Free Slave Coalition.
-    
-- **[[The Twelve Spice Mills]]**
-- – The massive factory line powered by elemental waterwheels, where enslaved human, elf, and dwarf populations are driven to grind spices to fund the Coalition's war machine.
+## Geography
+
+Describe the location's terrain, climate, borders, and major physical features.
+
+## Governance
+
+Describe the ruling authority, factions, and important organizations.
+
+## Points of Interest
+
+- **Point of Interest Name**
+  - Brief description and why it matters.
+
+## Notes
+
+- Add story hooks, encounter ideas, and nearby location connections.

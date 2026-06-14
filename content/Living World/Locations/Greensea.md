@@ -13,11 +13,11 @@
 
 ---
 ## 🗺️ Points of Interest
-- **[[The Amberhall Shipyards]]**
+- **[[Amberhall Shipyards]]**
 - Where the massive colony transports and vanguard war vessels are framed.
     
 - **[[Marine Garrison]]**
 - Staging grounds for the amphibious legions and Janissary candidates.
     
-- **[[The North Shore Reefs]]**
+- **[[North Shore Reefs]]**
 - The storm-battered coastal barrier where sea monsters frequently test the city's coastal fortifications.

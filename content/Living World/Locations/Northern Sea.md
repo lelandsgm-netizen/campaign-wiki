@@ -1,23 +1,37 @@
 ---
-title: Northern Sea
+title: "Northern Sea"
+locationTier: ""
+region: ""
+governingPower: ""
+otherInformation: ""
+draft: true
 ---
 
 > ###### Information
-> | | | 
+> | | |
 > | --- | --- |
-> | **Location Tier** | Sub Region |
-> | **Region** | Link |
-> | Other information | N/A
-> | **Governing Power** | Link|
-> | Provinces/Houses | Links |
+> | **Location Tier** | "" |
+> | **Region** | "" |
+> | **Governing Power** | "" |
+> | **Other information** | "" |
 
-## 📍 Overview
-*Overview Information*
+## Overview
 
----
-## 🗺️ Points of Interest
-* **Link Name** 
-* Description
-    
-- **Link Name**
-- Description
+Describe the location's role, geography, and current state.
+
+## Geography
+
+Describe the location's terrain, climate, borders, and major physical features.
+
+## Governance
+
+Describe the ruling authority, factions, and important organizations.
+
+## Points of Interest
+
+- **Point of Interest Name**
+  - Brief description and why it matters.
+
+## Notes
+
+- Add story hooks, encounter ideas, and nearby location connections.

@@ -5,7 +5,7 @@ title: House Abanar
 
 ## The Gilded Oligarchs
 
-If [[House Khatru]] is the brawn of [[Ptolus]], **[[House Abanar]]** is its undisputed bank. They are the wealthiest mercantile house on the [[Council of Coin]], commanding an intricate network of shipping lanes, banking houses, and trading monopolies across the [[Western Empire]], [[Phi]], [[Lopan]], [[Ophid's Grasslands]], [[Northern Wilderness]] trading posts of the [[Inner Sea]] and The [[Eastern Territories]].
+If [[House Khatru]] is the brawn of [[Ptolus]], **[[House Abanar]]** is its undisputed bank. They are the wealthiest mercantile house on the [[Council of Coin]], commanding an intricate network of shipping lanes, banking houses, and trading monopolies across the [[Western Empire]], [[Phi]], [[Lopan]], [[Ophid Grasslands]], [[Northern Wilderness]] trading posts of the [[Inner Sea]] and The [[Eastern Territories]].
 
 Despite their staggering wealth, they are universally looked down upon by the older, more traditional aristocracy, who view them as classless, greedy upstarts. House Abanar treats nobility entirely as a business commodity. They are unique in [[Ptolus]] because they openly allow wealthy merchants to buy minor noble titles and entry into the house for a flat fee of **10,000 gp**. On the council, they consistently vote for deregulation, lower harbor tariffs, and anything that maximizes trade profit—frequently putting them at loggerheads with the strict, heavily regulated authoritarianism of [[House Khatru]].
 

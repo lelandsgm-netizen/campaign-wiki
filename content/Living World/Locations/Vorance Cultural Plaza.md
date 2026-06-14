@@ -1,5 +1,5 @@
 ---
-title: "Caer Glaverius"
+title: "Vorance Cultural Plaza"
 locationTier: ""
 region: ""
 governingPower: ""

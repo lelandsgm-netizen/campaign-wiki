@@ -1,5 +1,5 @@
 ---
-title: "Caer Glaverius"
+title: "Palace Greenhouses"
 locationTier: ""
 region: ""
 governingPower: ""

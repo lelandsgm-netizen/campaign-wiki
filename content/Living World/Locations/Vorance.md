@@ -14,9 +14,9 @@
 
 ---
 ## 🗺️ Points of Interest
-- **[[The White Cliff Mines]]**
+- **[[White Cliff Mines]]**
 - The sprawling, dangerous salt mines where prisoners and slaves toil under the watchful eyes of [[House Csusk]] overseers.
     
-- **[[The Palace Greenhouses]]** – The breathtaking formal gardens and glass structures that attract imperial elite and hidden occult botanists alike.
+- **[[Palace Greenhouses]]** – The breathtaking formal gardens and glass structures that attract imperial elite and hidden occult botanists alike.
     
-- **[[The Vorance Cultural Plaza]]** – The pristine city center where high society thrives, completely insulated from the grim reality of the coastal labor camps.
+- **[[Vorance Cultural Plaza]]** – The pristine city center where high society thrives, completely insulated from the grim reality of the coastal labor camps.
