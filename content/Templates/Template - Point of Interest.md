@@ -1,9 +1,11 @@
 ---
 title: ""
+world: ""
+type: "Point of Interest"
 location: ""
 associated_location: ""
-type: ""
 tags:
+  - eraedal
   - point-of-interest
 draft: true
 ---
@@ -11,25 +13,30 @@ draft: true
 > ###### Information
 > | | |
 > | --- | --- |
+> | **World** | "" |
+> | **Type** | "Point of Interest" |
 > | **Location** | "" |
 > | **Associated location** | "" |
-> | **Type** | "" |
-> | **Tags** | `#point-of-interest` |
-> | **Publish** | draft: true |
+> | **Tags** | `#eraedal`, `#point-of-interest` |
+> | **Draft** | true |
 >
-> Use `location:` for the larger area and `associated_location:` for the specific neighborhood, building, or nearby landmark.
+> Use `location:` for the broader area and `associated_location:` for the specific site or neighborhood.
 
 ## Overview
 
-Describe the point of interest and why it matters in the local setting.
+Describe why this point of interest matters to Eraedal.
 
 ## Description
 
-Summarize the physical appearance, mood, and key features.
+Summarize the site's appearance, atmosphere, and major features.
 
 ## Connections
 
 - **Location:**
 - **Associated location:**
-- **Notable occupants:**
+- **Related NPCs:**
 - **Plot hooks:**
+
+## Notes
+
+- Add adventure ideas, factions involved, and travel details.

@@ -1,10 +1,12 @@
 ---
-type: NPC
-system: Pathfinder 2e / SWADE
-faction:
-location:
-status: Alive / Deceased / Missing
-parties_met: []
+title: ""
+world: ""
+type: "NPC"
+location: ""
+associated_location: ""
+tags:
+  - eraedal
+  - npc
 draft: true
 ---
 # ![[NPC_Image.png|banner]]
