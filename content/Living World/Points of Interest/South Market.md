@@ -1,7 +1,13 @@
 ---
-title: South Market
+title: "South Market"
 location: "[[Ptolus]]"
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 The **South Market** is the established, brick-and-mortar commercial heart of [[Ptolus]]. Unlike the shifting canvas tents and mud of the open-air [[North Market]], the South Market is a sprawling grid of paved stone streets, multi-story brick warehouses, permanent storefronts, and massive indoor exchange halls. It serves as the primary trade gateway for goods arriving by overland caravans from the wider [[Western Empire]] and the [[Tarldet Plains]].
 
 In your _[[Eraedal]]_ setting, the South Market is dominated by powerful merchant coalitions, shipping syndicates, and banking cartels—most notably influenced by the hyper-capitalist **[[House Abanar]]**. The streets are a non-stop parade of heavy cargo wagons, shouting teamsters, and wealthy merchants evaluating imported silks, rare spices, and livestock. Because millions of gold pieces flow through this district daily, the merchant guilds fund a small army of private security forces to augment the [[City Watch]], ensuring that the bustling thoroughfares remain hostile environments for pickpockets and thieves.

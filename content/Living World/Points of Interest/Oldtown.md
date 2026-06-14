@@ -1,7 +1,13 @@
 ---
-title: Oldtown
+title: "Oldtown"
 location: "[[Ptolus]]"
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 **Oldtown** is the historic, administrative, and heavily fortified heart of [[Ptolus]]. Situated on a massive rising ridge just below the highest bluffs of the [[Nobles' Quarter]], Oldtown was the original settlement before the city expanded into the massive metropolis it is today. Architecturally, it is a grand display of classical [[Western Empire]] design, featuring towering stone columns, pristine marble courts, and ancient, weathered fortifications built to withstand a siege.
 
 In your _[[Eraedal]]_ setting, Oldtown serves as the seat of Imperial law and bureaucracy within the [[Western Empire]]. It is home to the city's government buildings, legal courts, and military headquarters. The streets are wide, immaculate, and constantly patrolled by elite, heavily armored detachments of the [[City Watch]]. The atmosphere here is formal, orderly, and deeply conservative—a stark contrast to the chaotic energy of [[Midtown]] or the industrial soot of the [[Guildsman District]].

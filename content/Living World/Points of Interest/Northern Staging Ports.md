@@ -1,3 +1,13 @@
+---
+title: "Northern Staging Ports"
+location: ""
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
+---
+
 # [!infobox] &nbsp;
 > # Upper Kighfalton
 > ###### Information

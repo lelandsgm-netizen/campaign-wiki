@@ -1,7 +1,13 @@
 ---
-title: North Market
+title: "North Market"
 location: "[[Ptolus]]"
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 The **North Market** is a massive, sprawling, open-air trading ground that acts as one of the primary commercial gateways into [[Ptolus]]. Unlike the more established brick-and-mortar storefronts found in the [[South Market]] or [[Midtown]], the North Market is a dynamic, shifting sea of colorful canvas tents, wooden stalls, and open-air wagons. Here, farmers from the [[Tarldet Plains]] countryside, hunters from the edges of the [[Old Kingdom Frontier]], and local craftsmen gather daily to sell fresh produce, livestock, textiles, and everyday wares.
 
 Because of its position near the city's northern gates, it is a bustling, high-energy zone filled with the shouting of auctioneers, the bleating of livestock, and the smell of roasting street meats. It is generally considered safer and more organized than the [[Docks]] or the [[Warrens]], as the [[City Watch]] maintains a constant, heavy presence to deter pickpockets and tax evasion. However, beneath the wholesome surface of a community farmer's market lies a booming trade in minor magical curiosities, rare alchemical herbs, and black-market dungeon goods slipped into the city by low-level delvers looking to avoid the high taxes of [[Midtown]].

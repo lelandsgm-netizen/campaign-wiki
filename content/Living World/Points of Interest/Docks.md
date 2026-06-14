@@ -1,7 +1,13 @@
 ---
-title: Docks
+title: "Docks"
 location: "[[Ptolus]]"
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 Built on sinking sand, mud, and waterlogged timber at the absolute bottom of the eastern cliffs, **The Docks** is the rough-and-tumble maritime heart of [[Ptolus]]. Shrouded in sea fog and the heavy stench of salt, rotting fish, and cheap ale, this district is home to sailors, smugglers, wharf laborers, and those trying desperately to keep a low profile.
 
 The geography is dominated by a sheer cliffside that separates the harbor from the elevated city proper. Because of this massive drop-end elevation, goods are transported to the higher districts via a complex network of massive mechanical lifts, cranes, and switchback stairs managed by the various merchant cartels. While the [[City Watch]] patrols the main wharves during daylight hours to secure Imperial shipping, their presence vanishes after dark, leaving the district entirely governed by its own rough code of the sea and underworld syndicates.

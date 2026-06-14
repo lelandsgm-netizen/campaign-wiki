@@ -1,7 +1,13 @@
 ---
 title: Noble's Quarter
 location: "[[Ptolus]]"
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 Perched on the highest, most scenic northwestern plateaus of [[Ptolus]], the **Nobles' Quarter** is a glittering testament to inherited wealth, political power, and architectural extravagance. Far removed from the soot-choked lower districts, the air here is crisp, clean, and carrying the faint scent of foreign perfumes and manicured gardens. The district is defined by sweeping, tree-lined avenues, grand fountains, and the immense, heavily fortified estates of the city's ten noble houses.
 
 In your _[[Eraedal]]_ campaign setting, this district represents the old feudal aristocracy trying desperately to maintain its grip on the [[Western Empire]] against the rapid rise of [[Midtown]]'s merchant guilds and technology. Security here is absolute; the district is separated from the rest of the city by steep, manicured cliffs and a network of strictly guarded checkpoint gates. The [[Igor Urnst | Commissar]]’s elite guard forces and private noble mercenaries patrol the cobblestone streets around the clock, instantly stopping and questioning anyone who looks like they don't belong among the upper crest of society.

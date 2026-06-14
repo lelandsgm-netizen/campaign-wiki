@@ -1,7 +1,13 @@
 ---
-title: Midtown
+title: "Midtown"
 location: "[[Ptolus]]"
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 **Midtown** is the commercial crossroads, social heart, and geographic epicenter of [[Ptolus]]. Situated on the middle plateau of the city between the wealthy bluffs of the [[Nobles' Quarter]] and the industrialized lowlands of the [[Guildsman District]], Midtown is where the daily life of the city truly happens. It is a bustling, vibrant, and highly cosmopolitan district where shopkeepers, mercenaries, craftsmen, and spellcasters rub shoulders.
 
 For adventurers in your _[[Eraedal]]_ setting, Midtown is home base. The district houses the world-famous **[[Delver's Square]]**, serving as the launchpad for almost every major expedition into the [[Dungeon]] below. Architecturally, Midtown is a dense mix of multi-story timber inns, stone storefronts, and crowded cobblestone avenues. While the [[City Watch]] maintains a very strong, highly visible presence here to protect the flow of coin and civilian safety, the sheer volume of armed "delvers" moving through the streets gives the district a distinct, high-energy frontier town atmosphere despite being right in the middle of a major urban center.

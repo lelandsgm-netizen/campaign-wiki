@@ -1,10 +1,14 @@
 ---
 title: "Hammer & Hog"
-Tags:
+location: ""
+associated_location: ""
+type: ""
+tags:
   - "point-of-interest"
   - tavern
   - campaign-spire
   - world/eraedal
+draft: true
 ---
 
 > [!info] Quick Facts

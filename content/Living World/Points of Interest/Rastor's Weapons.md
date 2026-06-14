@@ -1,8 +1,13 @@
 ---
-title: Rastor's Weapons
+title: "Rastor's Weapons"
 location: "[[Midtown]]"
 associated_location: "[[Delver's Square]]"
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 ## Overview
 
 Rastor's Weapons is the premier shop in [[Delver's Square]] for traditional arms, blade refitting, and specialized martial gear. The shop features a heavy stone facade lined with racks of meticulously polished steel swords, massive greataxes, halberds, and exotic tactical weapons favored by frontline delvers. Unlike standard blacksmiths, [[Cornellius Rastor | Rastor]] caters explicitly to high-risk dungeon-crawlers, stocking masterwork pieces, cold iron armaments, and used magical combat equipment.

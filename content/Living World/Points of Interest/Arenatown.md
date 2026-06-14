@@ -1,6 +1,13 @@
 ---
-title: Arenatown
+title: "Arenatown"
+location: ""
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 > ###### Information
 > | | | 
 > | --- | --- |

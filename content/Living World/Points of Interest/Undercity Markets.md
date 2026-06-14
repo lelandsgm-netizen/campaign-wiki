@@ -1,7 +1,13 @@
 ---
-title: Undercity Markets
+title: "Undercity Markets"
 location: "[[Ptolus]]"
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 The **Undercity Market** is a fascinating, subterranean frontier town located directly beneath the cobblestones of [[Midtown]]. While the surface world belongs to the rigid law of the [[Western Empire]], this sprawling dark-market operates in a legal gray area, existing completely out of sight of the sun. It serves as the primary staging ground, rest stop, and trade platform for explorers before they plunge into the lethal, monster-infested depths of the lower [[Dungeon]] layers.
 
 The market is built within a massive, high-ceilinged cavern of natural stone and ancient, repurposed dwarven foundations. Instead of sky and clouds, the district is blanketed by a heavy ceiling of carved stone braced by colossal wooden pillars and iron scaffolding. It is illuminated entirely by flickering green alchemical torches, magical _light_ spells, and bioluminescent fungi cultivated by outcasts. The atmosphere is thick with the smell of underground moisture, woodsmoke, and roasting cave-beasts. Because it sits on the threshold of the deep ruins, it is a melting pot of strange subterranean ancestries, eccentric scholars, and heavily armed adventuring parties counting their gear.

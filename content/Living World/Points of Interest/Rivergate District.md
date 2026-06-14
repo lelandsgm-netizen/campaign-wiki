@@ -1,7 +1,13 @@
 ---
-title: Rivergate District
+title: "Rivergate District"
 location: "[[Ptolus]]"
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 The **Rivergate District** is a quiet, comfortable, and strictly residential middle-class haven. Situated on a rising ridge of land in the northern half of [[Ptolus]], it is bounded by the sheer eastern cliffs overlooking the harbor and separated from the rest of the city by the roaring waters of the King’s River.
 
 Unlike the crowded tenements of [[Midtown]] or the open chaos of the markets, Rivergate is designed for peace and security. The district is uniquely divided into architectural cul-de-sacs known colloquially as **"burrows."** Each burrow features a cluster of stone-and-timber homes facing inward toward a shared, defensible courtyard, with only a single gated entrance leading out to the main street. Because it is home to wealthy craftsmen, successful merchants, and mid-level bureaucrats, the residents fund a highly effective private neighborhood watch that works alongside the [[City Watch]], making Rivergate one of the safest and most peaceful neighborhoods outside the [[Nobles' Quarter]].

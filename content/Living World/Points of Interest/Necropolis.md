@@ -1,7 +1,13 @@
 ---
-title: Necropolis
+title: "Necropolis"
 location: "[[Ptolus]]"
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 The **Necropolis** is a massive, ominous, and walled city of the dead that sprawls over the rolling hills on the northern edge of [[Ptolus]]. Enclosed by forty-foot-tall stone walls and heavy iron gates, this district serves as the final resting place for the city's citizens. However, it is far from a peaceful graveyard. In your _[[Eraedal]]_ setting, the Necropolis is a highly volatile, strictly guarded containment zone.
 
 The thin veil between life and death in this area causes the deceased to frequently rise as mindless undead. Because of this constant supernatural threat, the district is heavily garrisoned and patrolled by militant religious orders. The common public is only allowed inside during daylight hours under armed escort to visit family tombs. At dusk, the massive iron gates are slammed shut, locking the undead—and anyone foolish enough to remain behind—inside the dark, fog-shrouded hills.

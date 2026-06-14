@@ -1,7 +1,13 @@
 ---
-title: Guildsman District
+title: "Guildsman District"
 location: "[[Ptolus]]"
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 The **Guildsman District** is the loud, soot-choked, and heavily industrial heart of [[Ptolus]]. It is a sprawling, labyrinthine maze of foundries, tanneries, smithies, textile mills, and specialized workshops that run day and night. The air here is perpetually thick with acrid smoke, chemical fumes from the dyeworks, and the relentless, rhythmic din of clanging hammers and grinding gears.
 
 In your _[[Eraedal]]_ setting, this district has become the primary battleground for [[Ptolus]]'s sudden technological renaissance. Traditional craft guilds are feeling the heat as **[[House Shever]]** and their allies, the **[[Shuul]]**, rapidly build steam-powered infrastructure and mass-production foundries. The streets are a chaotic mess of cobblestone, open gutters flowing with alchemical runoff, and webbings of overhead copper pipes venting hot steam. The [[City Watch]] patrols the main thoroughfares to protect the valuable shipping convoys, but they largely look the other way when it comes to the fierce, internal corporate warfare and labor disputes that happen behind closed workshop doors.

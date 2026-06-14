@@ -1,7 +1,13 @@
 ---
-title: Delver's Square
+title: "Delver's Square"
 location: "[[Midtown]]"
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 ## Overview & History
 
 Delver's Square is the bustling, high-energy epicenter of adventuring culture, commerce, and daily life in [[Ptolus]]. Originally named **Runihan Square**, the plaza was constructed to honor the ancient folk hero Abesh Runihan. A massive, weathered 14-foot stone statue of Runihan stands resolutely at the center of the square, erected over a heavily trafficked public fountain.

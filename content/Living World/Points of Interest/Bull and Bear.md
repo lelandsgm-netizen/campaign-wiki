@@ -1,8 +1,13 @@
 ---
-title: Bull and Bear
+title: "Bull and Bear"
 location: "[[Midtown]]"
 associated_location: "[[Delver's Square]]"
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 ## Overview
 
 The Bull and Bear is the designated location in the square for purchasing traditional armor, shields, and heavy protective combat equipment. Taking up a prominent corner of the plaza, the building is a massive, soot-stained stone blockhouse that operates as both a retail shop and a loud, clanging armory. Inside, the walls are lined with everything from supple leather buff coats and reinforced chainmail vests to pristine suits of polished steel plate armor and heavy tower shields.

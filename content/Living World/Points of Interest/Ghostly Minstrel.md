@@ -1,8 +1,11 @@
 ---
-title: Ghostly Minstrel
+title: "Ghostly Minstrel"
 location: "[[Midtown]]"
 associated_location: "[[Delver's Square]]"
 type: Tavern
+tags:
+  - point-of-interest
+draft: true
 ---
 
 **Safety Rating:** Highly Secure (Protected by the [[Delver's Guild]] & Private Spell-Wards)

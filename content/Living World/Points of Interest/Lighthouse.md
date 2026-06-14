@@ -1,9 +1,14 @@
 ---
 title: Borlon Lighthouse
+location: ""
+associated_location: ""
+type: ""
 tags:
   - point-of-interest
   - campaign-cards
+draft: true
 ---
+
 > [!info] Quick Facts
 > **World:** [[Eraedal]]
 > **Location:** [[Floenry Isles]]

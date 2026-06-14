@@ -1,3 +1,13 @@
+---
+title: "Ruins of Syrefald"
+location: ""
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
+---
+
 > ###### Information
 > | | | 
 > | --- | --- |

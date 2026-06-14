@@ -1,7 +1,13 @@
 ---
-title: Temple District
+title: "Temple District"
 location: "[[Ptolus]]"
+associated_location: ""
+type: ""
+tags:
+  - point-of-interest
+draft: true
 ---
+
 The **Temple District** is the spiritual heart and religious epicenter of [[Ptolus]]. It is a district of sweeping architectural contrast, where towering, immaculate marble cathedrals sit shoulder-to-shoulder with humble stone shrines and hidden, secretive chapels.
 
 The geography of the district is entirely defined by the **[[Street of a Million Gods]]**, a massive, cobblestone boulevard that bisects the neighborhood. In your _[[Eraedal]]_ setting, the district serves as a theological melting pot where the orthodox, state-sanctioned [[Church of Light]] constantly battles for spiritual and political dominance against a rising tide of traditional Pathfinder 2e faiths. The air here is perpetually thick with the scent of burning incense, the chiming of holy bells, and the chanting of prayers. Because it houses the city's divine power, the district is heavily populated by clerics, champions, and religious pilgrims from all across the [[Western Empire]].
