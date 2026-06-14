@@ -1,10 +1,18 @@
 ---
-title: Prah Tatexam
+title: "Prah Tatexam"
+world: "Eraedal"
+type: "Character"
+ancestry: "Goblin"
+class: "Rogue"
+player: "Jurney"
+campaign: "cards"
 tags:
   - player/jurney
   - ancestry/goblin
   - Class/Rogue
   - campaign-cards
+  - character
+draft: false
 ---
 
 > [!quote] "They build thick walls and lock iron doors. They completely forget to check what is already hiding in their shadows."

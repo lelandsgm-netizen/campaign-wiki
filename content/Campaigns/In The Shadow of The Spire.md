@@ -1,19 +1,24 @@
 ---
 title: In The Shadow of the Spire
+world: Eraedal
+type: Campaign
 system: Pathfinder 2e Remaster
+location: ""
+associated_location: ""
 tags:
   - campaigns
+  - eraedal
+draft: false
 ---
 
-> [!info] Campaign Links
+> [!info] Campaign Overview
 > | | |
 > | --- | --- |
-> | **Player/Game Master** | [[Leland]] |
+> | **Game Master** | [[Leland]] |
 > | **System** | [[Pathfinder 2E Remaster]] |
 > | **Players** | [[Jason]], [[Jon]], [[Brian]], [[Jurney]] |
 > | **Tools** | [[Quest Portal]], [[Herolab Online]] |
-> | **World** | [[Eraedal]]
->
+> | **World** | [[Eraedal]] |
 >
 
 ---

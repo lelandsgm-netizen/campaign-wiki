@@ -1,10 +1,18 @@
 ---
-title: Wuf-Jaw
+title: "Wuf-Jaw"
+world: "Eraedal"
+type: "Character"
+ancestry: "Dromar"
+class: "Barbarian"
+player: "Jon"
+campaign: "cards"
 tags:
   - player/jon
   - ancestry/dromar
   - class/barbarian
   - campaign-cards
+  - character
+draft: false
 ---
 
 > [!quote]

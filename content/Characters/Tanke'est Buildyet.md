@@ -1,10 +1,18 @@
 ---
-alias: Tanke'est Buildyet
+title: "Tanke'est Buildyet"
+world: "Eraedal"
+type: "Character"
+ancestry: "Dwarf"
+class: "Guardian"
+player: "Jurney"
+campaign: "end"
 tags:
   - player/jurney
   - ancestry/dwarf
   - class/guardian
   - campaign-end
+  - character
+draft: false
 ---
 
 *Medium Humanoid (Stonelost/Rock Dwarf), Guardian 3, Nomad Background*

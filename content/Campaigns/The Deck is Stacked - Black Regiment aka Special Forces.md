@@ -1,13 +1,20 @@
 ---
 title: The Deck is Stacked
+world: Eraedal
+type: Campaign
 system: Pathfinder 2e Remaster
-tags: 
+location: ""
+associated_location: ""
+tags:
   - campaigns
+  - eraedal
+draft: false
 ---
 
+> [!info] Campaign Overview
 > | | |
 > | --- | --- |
-> | **Player/Game Master** | [[Leland]] |
+> | **Game Master** | [[Leland]] |
 > | **System** | [[Pathfinder 2E Remaster]] |
 > | **Players** | [[Jason]], [[Jon]], [[Brian]], [[Jurney]] |
 > | **Tools** | [[Quest Portal]], [[Herolab Online]] |

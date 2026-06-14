@@ -1,7 +1,12 @@
 ---
-title: spire-2026-06-05
+title: ""
+world: ""
+type: "Session Notes"
+campaign: ""
+date: ""
 tags:
-  campaign-spire
+  - campaign
+  - session-notes
 draft: false
 ---
 

@@ -1,10 +1,18 @@
 ---
-title: Calebrimbor Algarvran
+title: "Calebrimbor Algarvran"
+world: "Eraedal"
+type: "Character"
+ancestry: "Elf"
+class: "Wizard"
+player: "Jason"
+campaign: "spire"
 tags:
   - player/jason
   - Ancestry/Elf
   - class/wizard
-  - campaign-spire 
+  - campaign-spire
+  - character
+draft: false
 ---
  ![Character Concept](calibrimbor.jpg)
 > [!info] 🧪 Arcane Scholar & Master Alchemist

@@ -1,10 +1,18 @@
 ---
-title: Gona Rhea
+title: "Gona Rhea"
+world: "Eraedal"
+type: "Character"
+ancestry: "Orc"
+class: "Fighter"
+player: "Jurney"
+campaign: "spire"
 tags:
   - player/jurney
   - ancestry/orc
   - class/fighter
   - campaign-spire
+  - character
+draft: false
 ---
 
 > [!info] 🪓 Orc Fighter & Giant Instinct Barbarian

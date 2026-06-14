@@ -1,10 +1,18 @@
 ---
-totle: Van Gylfering
+title: "Evander -Van- Gylfering"
+world: "Eraedal"
+type: "Character"
+ancestry: "Elf"
+class: "Sorcerer"
+player: "Leland"
+campaign: "end"
 tags:
   - player/leland
   - Ancestry/Elf
   - class/sorcerer
   - campaign-end
+  - character
+draft: false
 ---
 
 > ![Character Concept](vangylfering.png) <!-- Swap this line out for a local link to your vault's character art if you have one! -->

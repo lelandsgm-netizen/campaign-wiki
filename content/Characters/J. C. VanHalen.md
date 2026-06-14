@@ -1,10 +1,18 @@
 ---
-alias: J.C. VanHalen
+title: "J.C. VanHalen"
+world: "Eraedal"
+type: "Character"
+ancestry: "Human"
+class: "Investigator"
+player: "Jon"
+campaign: "end"
 tags:
   - player/jon
   - ancestry/human
   - class/investigator
   - campaign-end
+  - character
+draft: false
 ---
 
 *Medium Humanoid (Versatile Human), Investigator 3, Detective Background*

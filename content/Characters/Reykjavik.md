@@ -1,10 +1,18 @@
 ---
-title: Reykjavik
+title: "Reykjavik"
+world: "Eraedal"
+type: "Character"
+ancestry: "Elf"
+class: "Rogue"
+player: "Brian"
+campaign: "cards"
 tags:
   - player/brian
   - Ancestry/Elf
   - Class/Rogue
   - campaign-cards
+  - character
+draft: false
 ---
 
 > [!quote]

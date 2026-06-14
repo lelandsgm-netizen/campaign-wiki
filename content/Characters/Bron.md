@@ -1,10 +1,18 @@
 ---
-alias: Bron
+title: "Bron"
+world: "Eraedal"
+type: "Character"
+ancestry: "Human"
+class: "Ranger"
+player: "Brian"
+campaign: "end"
 tags:
   - player/brian
   - ancestry/human
   - class/ranger
   - campaign-end
+  - character
+draft: false
 ---
 *Medium Humanoid (Kellid Human), Ranger 3, Hunter Background*
 ___

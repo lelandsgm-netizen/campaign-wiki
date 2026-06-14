@@ -1,10 +1,18 @@
 ---
-title: Wilguard Gramm
+title: "Wilguard Gramm"
+world: "Eraedal"
+type: "Character"
+ancestry: "Dwarf"
+class: "Cleric/Warpriest"
+player: ""
+campaign: "spire"
 tags:
   - playrt/jon
   - ancestry/dwarf
   - class/cleric/warpriest
   - campaign-spire
+  - character
+draft: false
 ---
 
 > [!info] 🛡️ Cleric of Trudd the Mighty

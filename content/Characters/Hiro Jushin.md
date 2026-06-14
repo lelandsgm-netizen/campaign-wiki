@@ -1,10 +1,18 @@
 ---
-title: Hiro Jushin
+title: "Hiro Jushin"
+world: "Eraedal"
+type: "Character"
+ancestry: "Vanara"
+class: "Monk"
+player: "Jason"
+campaign: "cards"
 tags:
   - player/jason
   - ancestry/vanara
   - class/monk
   - campaign-cards
+  - character
+draft: false
 ---
 
 > [!quote] "They build high walls and narrow corridors to catch us. They completely forget that the open sky belongs to no one, and shadows climb just as fast as I do."

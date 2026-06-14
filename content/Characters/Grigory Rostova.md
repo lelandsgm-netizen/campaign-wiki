@@ -1,10 +1,18 @@
 ---
-title: Grigory Rostova
+title: "Grigory Rostova"
+world: "Eraedal"
+type: "Character"
+ancestry: "Human"
+class: "Ranger"
+player: "Jason"
+campaign: "cards"
 tags:
   - player/jason
   - ancestry/human
   - class/ranger
   - campaign-cards
+  - character
+draft: false
 ---
 
 > [!quote] They build their empires across the wilds. They forget that nature always reclaims its territory, one hidden snare at a time.

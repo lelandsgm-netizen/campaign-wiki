@@ -1,10 +1,18 @@
 ---
-title: Kino Silvertree
+title: "Kino Silvertree"
+world: "Eraedal"
+type: "Character"
+ancestry: "Elf"
+class: "Kineticist"
+player: "Brian"
+campaign: "spire"
 tags:
   - player/brian
   - Ancestry/Elf
   - class/Kineticist
   - campaign-spire
+  - character
+draft: false
 ---
 
 > [!info] 🌪️⚙️ Dual Gate Kineticist
