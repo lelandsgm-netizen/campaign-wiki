@@ -2,7 +2,7 @@
 title: "Oen"
 world: "Eraedal"
 type: "Location"
-location: ""
+location: "Floenry Isles"
 associated_location: ""
 tags:
   - eraedal
@@ -10,22 +10,6 @@ tags:
   - campaign-cards
   - location
 draft: false
----
-
-> [!info] Quick Facts
-> **World:** [[Eraedal]]
-> **Location:** [[Floenry Isles]]
-> **Region:** *Current* 
-
-## Regional Intelligence Dossier: Oen Island
-
-> ### 📋 Operational Briefing
-> 
-> 
-> * **Deployment Authority:** Timro Kingdom (Deniable Status / Black Banner) * **Theater Area:** Oen Island (Archipelago Southwest) * **Current Strategic Status:** Active Insurgency War Zone. The island's northern colonial strongholds are actively clashing with the entrenched regional rebellion.
-> 
-> 
-
 ---
 
 ## Island Overview
@@ -75,8 +59,3 @@ Operations on Oen are entirely shaped by its vertical, cliffside topography and 
 * **Defensive Force:** Local Municipal Guard backed by [[Timro]] Naval Patrols
 * **Summary:** A larger independent coastal port town that has chosen a path of strategic diplomacy. Recognizing the overwhelming military might of the [[Timro]] Kingdom, [[La Spezia]]'s leadership maintains its official independence while aligning its trade, political treaties, and harbor access firmly with Timro command. It functions as a vital logistical rest-stop and naval coordination hub, enjoying [[Timro]] protection from pirate fleets while attempting to insulate its civilian population from the escalating land war tearing through the interior plantations.
 
----
-
-## Tactical Summary for Operators
-
-When deployed to Oen Island, your unit must exploit the deep political rivalries separating these coastal towns. Navigating the vertical terrains of Manarola requires high agility and strict operational security. Moving between the heavily fortified colonial hub of Borlon and the fiercely defensive waters of Vernazza will force your squad to constantly balance your official mission parameters against the complex moral realities of a population fighting a desperate war for their home.
