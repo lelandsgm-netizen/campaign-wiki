@@ -26,11 +26,15 @@ The Grimbor are a formidable tribal faction within The Floenry Isles's jungle te
 
 #### 1. The Charau-ka Layer: The Tribal Core & Canopy Culture
 
+![Grimbor Charau-ka](grimbor-charau-ka.jpg)
+
 The Charau-ka form the societal backbone and spiritual leadership of the Grimbor. They are responsible for constructing intricate treehouse settlements within the jungle canopy and managing the tribe's internal hierarchy. They represent the intelligent, independent humanoid aspect of the Grimbor, capable of negotiation, trade, and staunch defense against external threats and slavers.
 
 **Tactics:** In combat, Charau-ka serve as scouts and ranged artillery. They utilize their natural climbing prowess and imprecise scent tracking to detect intruders early, raining down a terrifying barrage of thrown stones, debris, and clubs from the safety of the trees, keeping adversaries off-balance.
 
 #### 2. The Kech Layer: The Elite Vanguards & Ruin Guards
+
+![Grimbor Charau-ka](grimbor-kech.jpg)
 
 The Kech are the heavy-hitting, physically imposing martial caste and specialized hunting packs of the Grimbor. While the Charau-ka inhabit the trees, the Kech claim the forest floor and ancient, overgrown jungle ruins as their domain. They are the dedicated warriors and apex predators of the territory.
 
