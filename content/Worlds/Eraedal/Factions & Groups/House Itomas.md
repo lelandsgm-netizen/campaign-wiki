@@ -1,5 +1,5 @@
 ---
-title: "📍 Overview"
+title: "House Itomas"
 world: "Eraedal"
 type: "Faction"
 location: ""
