@@ -14,16 +14,6 @@ tags:
 draft: false
 ---
 
-> ###### Information
-> | | |
-> | --- | --- |
-> | **World** | Eraedal |
-> | **Type** | Location |
-> | **Location** | A perilous tropical island in the Floenry Isle chain. |
-> | **Associated location** | Floenry Isles |
-> | **Tags** | `#eraedal`, `#location`, `#island`, `#dragons`, `#dangerous`, `#primeval` |
-> | **Draft** | false |
-
 ## Overview
 
 Dragon Roost is an island universally avoided by sailors in the region, known for being a dangerous tropical paradise where mighty dragons roam. Despite the immense value of Horned Dragon bones, teeth, and scales, all expeditions to hunt these creatures have met with disaster. The island is teeming with primordial creatures, making it one of the most hazardous locations in the Floenry chain.

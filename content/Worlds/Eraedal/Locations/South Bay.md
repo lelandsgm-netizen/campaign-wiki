@@ -13,16 +13,6 @@ tags:
 draft: false
 ---
 
-> ###### Information
-> | | |
-> | --- | --- |
-> | **World** | Eraedal |
-> | **Type** | Location |
-> | **Location** | Third largest of the Floenry Islands, rugged and rocky. |
-> | **Associated location** | Floenry Isles |
-> | **Tags** | `#eraedal`, `#location`, `#island`, `#infested`, `#tatzelwurms` |
-> | **Draft** | false |
-
 ## Overview
 
 South Bay is the third largest of the Floenry Islands, a rugged and rocky land characterized by rolling, grass-covered hills and areas of light rainforest. Approximately 200 years ago, a distant empire attempted to colonize the island, establishing a town along its northern bay and bringing in thousands of settlers. However, the poor, rock-laden soil was only suitable for sheep and goat farming. This colonization inadvertently introduced common rodents and **tatzelwurms** to the ecosystem. These nocturnal, legless, draconic predators and scavengers thrived, quickly infesting the island. Today, the settlement is a rotting ghost town, its settlers long fled, leaving the tatzelwurms as the undisputed lords of their domain.
