@@ -8,126 +8,110 @@ tags:
   - eraedal
   - location
 draft: false
-Tags:
 ---
 
 > [!info] Quick Facts
 > **World:** [[Eraedal]]
-> **Location** *Current*
+> **Type:** Tropical Island Archipelago
+> **Known Islands:** 14
+> **Colonized Islands:** 3
 
 ![Floenry Isles](floenry-isles.png)
 *Image Credit: Art by [Will Ervin](https://www.deviantart.com/will-erwin)*
-## Regional Intel Dossier
 
-> ### 📋 Black Regiment Operational Briefing
-> 
-> * **Deployment Authority:** Timro Kingdom (Deniable Status / Black Banner) * **Theater of Operations:** The Floenry Isles Archipelago * **Current Theater Status:** Unofficial Timro territory collapsing into a volatile, multi-front civil war.
+## Overview
 
-## Theater Overview: The Edge of the Known World
+The Floenry Isles are the southernmost reaches of the known world—a chain of fourteen tropical islands representing the absolute frontier of civilization. Human arrival is relatively recent, occurring within the last five centuries. Though first charted by the **[[Timro Kingdom]]**, the **[[Land of the South Winds]]** were the first to explore the islands' interiors. Reports of ancient ruins sparked the curiosity of the **[[Western Empire]]**, but their explorations yielded neither treasure nor arcane knowledge.
 
-The **Floenry Isles** represent the absolute southern edge of the known world. A sweeping chain of 14 tropical islands, the archipelago is defined by wide stretches of tall grass, dense jungles, and incredibly punishing heat. While pleasant ocean breezes make the coasts tolerable at 90°F, stepping inland into the rain forests traps you in a stagnant, humid steam bath averaging between 95°F and 100°F.
+Due to the islands' poor soil for farming, lack of valuable natural resources, and extreme isolation, long-term settlement remains brutally difficult. Only three islands have been successfully colonized by humans. The dense vegetation, deadly predators, sudden storms, and required imports of essential supplies have deterred most potential settlers. Consequently, the islands have remained largely independent, making them ideal havens for pirates and other outlaws seeking refuge from the law.
 
-Human presence here is relatively recent, spanning only the last five centuries. Though the **[[Timro Kingdom]]** originally charted the waters, the **[[Land of the South Winds]]** was the first to explore the interiors. For generations, the great empires squabbled over these islands. However, because the region lacks massive natural resources and the rocky soil makes traditional farming miserable, the [[Western Empire]] completely abandoned its claims. This left the territory politically independent, isolated, and highly volatile—a natural haven for pirates looking to hide from the law.
+## Geography
 
-Of the fourteen islands, **only three have been successfully colonized by humans**. Settlement is brutal; the waters are packed with aggressive sea monsters, sudden storms can wipe out harbors overnight, and almost all life-saving necessities must be imported from the mainland.
+The Floenry Isles are uniformly tropical, characterized by tall grass and dense jungles. The climate is hot and humid year-round. Coastal areas benefit from pleasant ocean breezes that keep temperatures around 90°F, making them relatively tolerable. However, the interior rainforests are stagnant steam baths where dense vegetation blocks the wind, trapping heat between 95–100°F.
+
+The islands' waters are treacherous, filled with aggressive sea monsters and prone to sudden, devastating storms. Most supplies and necessities must be imported from the mainland, several days' journey away.
 
 ### The Ancient Mystery
 
-Ancient stone ruins can be found buried on nearly every single island in the chain. Scholars from the [[Western Empire]] believe these crumbling pyramids and monoliths predate Elves and Dwarves, built by a forgotten archaic race that perished during the cataclysmic, ancient war against the **Galchutt**. The prevailing theory is that the ape-like, primeval giants known as the **[[Grimbor]]** are the de-evolved ancestors of that lost, legendary civilization.
+Ancient ruins—crumbling pyramids, monoliths, and stone structures—can be found on nearly every island in the chain. Western scholars believe these predate even Elves and Dwarves, built by a forgotten archaic race that perished during the cataclysmic battle with the dreaded Old Ones aeons past. These same scholars theorize that the ape-like giants known as the **[[Grimbor]]** are the de-evolved (cursed) descendants of this lost civilization. The Southern Kingdoms find such notions ludicrous and reject them entirely.
 
-## Manifest of the 14 Isles
+## Governance
 
-The following direct intelligence reports map out the true layout of the archipelago based on official exploration logs.
+Historically, the Timro Kingdom, Land of the South Winds, and Western Empire have all contended for control of the islands. The Western Empire has largely abandoned its claims, leaving the Timro Kingdom and Land of the South Winds in an ongoing dispute over the territory. However, the islands' lack of strategic value and the threat posed by pirates, sea monsters, and environmental hazards have prevented any kingdom from establishing effective military control.
 
-### 1. [[Oen]] Island (The Insurgent Paradise)
+The islands remain politically contested but practically independent, with various factions and powers maintaining only loose influence over specific settlements.
 
-- **Status:** Open Rebellion / Active War Zone
-    
-- **Summary:** The single most successful colonial venture in the southern seas, historically managed as a plantation province by the [[Land of the South Winds]]. Home to roughly 43,000 residents, its white sand beaches give way to scattered fishing villages and vast sugar cane fields worked heavily by non-human slaves. However, paradise has burned. The local populations have rallied under Orc warlord **[[Drogon Deathbringer]]** and his fanatical _[[Order of the Indomitable Shield]]_. Operating out of the capital of Port [[Oen]], they have overwhelmed the colonial Royal Army outpost and are executing a brutal war to purge the island of all foreign colonists.
-    
+### Historical Context
 
-### 2. [[Enry]] Island (The Holy Powder Keg)
+Over recent decades, the Western Empire has increasingly lost interest in the islands. However, Empire slavers continue to frequent remote islands to capture Grimbor for use in gladiatorial arenas and as exotic animals for zoos and markets. Grimbor safaris by nobles of the Western Empire and Land of the South Winds continue as well, threatening to eradicate the giants entirely.
 
-- **Status:** Unofficial [[Timro]] Capital / Religious War Zone
-    
-- **Summary:** The largest and most heavily populated island in the entire chain (78,000 residents), operating as an unofficial territory of the [[Timro]] Kingdom. Originally a harmonious colony deeply devoted to the [[Church of Light]], the island was shattered a decade ago when a mysterious mage named Noah proved a heretical truth: that Thoth, one of the Church's supreme deities, was secretly an Old One. Today, the island is completely fractured. The ruling [[Church of Light]] faction controls the main supply harbor of [[Port Miro]], legally executing or torturing anyone who speaks out against Thoth. They are locked in a bloody civil war with a massive Anti-Thoth Cult (40% of the population) who destroy temples to stop a cosmic awakening.
-    
+## The Islands
 
-### 3. [[Lyrd]] Isle (The Shunned Jungle)
+The Floenry Isles archipelago comprises fourteen distinct islands, each with unique characteristics:
 
-- **Status:** High Hazard / No Human Colonists
-    
-- **Summary:** A dense, suffocating jungle territory completely shunned by civilized sailors. Every historical attempt to colonize [[Lyrd]] Isle has ended in gruesome, unexplained murders, disappearances, and lost colonial ships. Rumors claim the island is possessed by demons. In truth, it is the ancestral battleground of over a thousand primeval werebeasts who look entirely human by day but transform into deadly predators at night.
+### 1. [[Oen]] Island
+
+One of the three successfully colonized islands, home to roughly 43,000 residents. White sand beaches give way to scattered fishing villages and vast sugar cane fields. The capital is Port [[Oen]].
     
 
-### 4. [[Dragon’s Roost]] (The Primordial Valley)
+### 2. [[Enry]] Island
 
-- **Status:** Extreme Hazard / Avoided by Navigation
-    
-- **Summary:** A lush, tropical island rimmed by jagged cliffs that make naval landings almost impossible. The deep, shadowy interior valleys of this island are the exclusive hunting grounds of herds of **Mighty Wooly Dragons**—vicious, 90-foot-tall furry behemoths who possess no magic or flight but boast terrifying supernatural strength. The island is so profoundly dangerous that merchant ships legally give it a wide berth of at least 50 miles.
+The largest and most heavily populated island in the chain, with approximately 78,000 residents. Features the supply harbor of [[Port Miro]].
     
 
-### 5. [[South Bay]] Island (The Ruined Domain)
+### 3. [[Lyrd]] Isle
 
-- **Status:** Abandoned Colony / Infested
-    
-- **Summary:** Two centuries ago, the [[Western Empire]] brought thousands of settlers here to establish a sheep and goat farming community on the rocky, rolling hills. The colonization effort failed completely when the settlers accidentally introduced **Serpent Rats** to the eco-system. These ferocious, aggressive nocturnal predators multiplied exponentially, forming massive night-packs that hunted the colonists. Today, the northern bay is a rotting ghost town ruled entirely by the rats.
+A dense, suffocating jungle territory. Historical attempts at colonization have resulted in unexplained deaths and disappearances.
     
 
-### 6. [[Grimbor Island]] (The Sanctuary of Hatred)
+### 4. [[Dragon's Roost]]
 
-- **Status:** Indigenous Citadel / Hostile to Humans
-    
-- **Summary:** Located squarely in the center of the Floenry chain, this island is the primary homeland of the giant, ape-like Grimbor. The jungle canopy is littered with massive stone megaliths, leading to an ancient, 300-foot-tall temple pyramid at the island's center where the Grimbor live away from predators. Because Western slave ships have spent centuries aggressively hunting the Grimbor for gladiatorial arenas, the remaining population views all humanoids as "demons" and will violently attack any visitors on sight.
+A lush tropical island rimmed by jagged cliffs that make naval landings nearly impossible. Known to harbor populations of large, dangerous creatures in its interior valleys.
     
 
-### 7. [[East Mnn]] (The Harmonious Haven)
+### 5. [[South Bay]] Island
 
-- **Status:** Independent Kingdom
-    
-- **Summary:** A small, 50-mile-long stretch of pristine beach and untouched jungle. Unaffiliated with any mainland empire, it features a unique, self-sufficient farming and lobster-trapping community where Humans and Orcs live and work together as absolute equals. Deep within its untamed interior stand three beautifully preserved, 300-foot-tall ancient stone pyramids.
+Rocky, rolling hills that once hosted a failed Western Empire settlement attempt. Now largely abandoned and infested.
     
 
-### 8. [[West Mnn]] (The Free Port)
+### 6. [[Grimbor Island]]
 
-- **Status:** Neutral Sovereignty / Pirate Hub
-    
-- **Summary:** Sitting at the edge of the island chain, West Mnn is a self-proclaimed independent kingdom of vagabonds, fishermen, and outlaws. The southern port town is a rough-and-tumble haven welcoming fleets from all nations alongside active pirate crews. Its primary economy relies on producing high-quality rum and operating a massive, blood-soaked gladiatorial arena funded by Western merchants.
+Located in the center of the Floenry chain, this island is the primary homeland of the giant, ape-like Grimbor. The jungle contains massive stone megaliths and an ancient 300-foot-tall pyramid structure at the island's center.
     
 
-### 9. Isle of [[Burcee]] (The Quiet Plantation)
+### 7. [[East Mnn]]
 
-- **Status:** Secure [[Land of the South Winds | South Winds]] Territory
+A small, pristine stretch of beach and untouched jungle approximately 50 miles long. Features a self-sufficient farming and lobster-trapping community. Deep within its interior stand three beautifully preserved 300-foot-tall ancient stone pyramids.
     
-- **Summary:** The second of the three successfully colonized islands in the chain. Claimed firmly by the [[Land of the South Winds]], almost the entire native rainforest was clear-cut to make way for massive, civilized banana and sugar cane farms. It features a simple, quiet agrarian community with no standing military presence, no tourist districts, and no magical anomalies.
+
+### 8. [[West Mnn]]
+
+Situated at the edge of the island chain. The southern port town serves as a haven for fishermen and traders. Known for rum production.
+    
+
+### 9. Isle of [[Burcee]]
+
+The second of the three successfully colonized islands. Claimed firmly by the [[Land of the South Winds]], the native rainforest has been largely clear-cut to make way for massive banana and sugar cane farms.
     
 
 ### 10. Island of [[Totugo]]
 
-- **Status:** Pirate Territory
-    
-- **Summary:** A notorious, lawless stronghold described across the southern seas as the primary staging harbor and safe haven for the combined fleets of the Pirates of the Floenry Chain.
+A notable stronghold and staging harbor in the southern seas.
     
 
 ### 11. The Serpent’s Tooth
 
-- **Status:** Deserted Outpost / Wilderness
-    
-- **Summary:** Located 26 miles off the coast of [[Oen]], this island is dry, rocky, and structurally barren. Because the surrounding waters are heavily infested with aggressive sea serpents, traditional fishing and trade are impossible. It is universally shunned by the colonial empires, used only by passing pirate vessels looking to quickly restock fresh water.
+Located 26 miles off the coast of [[Oen]], this island is dry, rocky, and barren. The surrounding waters are heavily infested with aggressive sea serpents.
     
 
 ### 12. [[The Rock]]
 
-- **Status:** Uninhabited Outcropping
-    
-- **Summary:** A completely barren, 10-mile-wide mound of solid volcanic rock and dried lava jutting out of the ocean waves. Entirely devoid of plant or animal life, it serves as a premier "sunning rock" for the region's sea serpents. Fleets naturally give this landmark a massive berth to avoid tearing their hulls open on the reefs.
+A completely barren, 10-mile-wide mound of solid volcanic rock and dried lava jutting from the ocean. Entirely devoid of plant or animal life.
     
 
 ### 13. [[Osto]]
 
-- **Status:** Unexplored Wilds
-    
-- **Summary:** A pristine tropical paradise completely untouched by colonial expansion. Its dense, suffocating rain forests are alive with massive populations of monkeys and exotic jungle birds. Small, isolated tribes of Grimbor, Krel, and Hytril inhabit the interior, none of whom have yet learned to fear or hate humanoids.
+A pristine tropical paradise untouched by colonial expansion. Dense rain forests alive with populations of monkeys and exotic jungle birds. Small, isolated tribes inhabit the interior.
     
 
 ### 14. [[The Finger]]
