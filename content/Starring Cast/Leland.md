@@ -19,11 +19,6 @@ Add player background, preferences, and campaign history.
 
 ## Characters
 
-- [[Tanke'est Buildyet]] (The Deck is Stacked / In The Shadow of the Spire)
-- [[Prahs Tatexam]] (The Beginning of the End)
-- [[Grigory Rostova]] (The Beginning of the End)
-- [[Kino Silvertree]] (The Beginning of the End)
-- [[Wuf-Jaw]] (The Beginning of the End)
 - [[Evander -Van- Gylfering]] (The Beginning of the End)
 
 ## Notes
