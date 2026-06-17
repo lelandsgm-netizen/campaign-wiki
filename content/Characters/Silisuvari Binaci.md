@@ -66,7 +66,7 @@ tags:
 ## 🎭 Hindrances & Edges
 
 ### Hindrances
-> [!caution]
+> [!caution] Descriptions
 > **Driven to be Famous** (Major): A vow is a commitment to others. Driven characters want something for themselves. It may be to protect the realm, become a decorated officer, prove you’re the best gladiator in Rome, or the best pilot in the galactic fleet. The Minor version shapes the character and pushes his decisions but either happens rarely or is fairly harmless.
 > <br><br>
 > **Overconfident** (Major): There’s nothing out there your hero can’t defeat. At least that’s what he thinks. He believes he can do most anything and never wants to retreat from a challenge. He’s not suicidal, but he certainly takes on more than common sense dictates.
@@ -76,7 +76,7 @@ tags:
 > **Body is a Temple (quirk)** (Minor): Silis is very particular of the food he consumes. He sticks to local stores where he can trace the origin of each item. He has even gone so far as to visit various farms to vet them. He will not eat food from unknown or untrusted sources. He frequently admonishes his friends for their eating habits regardless of how good.
 
 ### Edges
-> [!success] 
+> [!success] Descriptions
 > * **Martial Warrior:** The fighter has trained in basic martial arts. Her fists and feet are weapons (see Natural Weapons, page 104) so he’s always considered armed. He adds +2 when striking with them and causes 2 Die raises damage. D12 is total from this and other edges. If she already has a Strength damage die from the Claws racial ability (page 18) or the Brawler Edge, increase the damage a die type. Martial Artist does not add to damage from other Natural Weapons such as fangs or horns.
 > <br><br>
 > * **Arcane Resistance:** Magic and the supernatural hold little sway with this individual. Whether by nature, heritage, or training he’s particularly resistant to magic, psionics, weird science, and other supernatural energies. Arcane skills targeting the hero suffer a −2 penalty (even if cast by allies!) and magical damage is reduced by 2 as well.
