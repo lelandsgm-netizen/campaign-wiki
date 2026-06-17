@@ -7,19 +7,14 @@ tags:
 
 ---
 
-# 🎭 [Character Name]
-
-**Concept:** [Brief Description] | **Race:** [Race] | **Rank:** [Novice/Seasoned/etc.]
+**Concept:** | A rogue turned dedicated monk / martial artist | **Race:** half-elf | **Rank:** Veteran 10 |
 
 ---
 
 ## 📋 Core Details
 
 * **Bennies:** 3
-* **Conviction:** [ ] Active / [ ] Inactive
 * **Size:** 0
-* **Advances:** 0
-* **Current Wealth:** $500
 
 ---
 
