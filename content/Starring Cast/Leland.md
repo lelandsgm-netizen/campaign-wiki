@@ -19,7 +19,7 @@ Add player background, preferences, and campaign history.
 
 ## Characters
 
-- [[Evander -Van- Gylfering]] (The Beginning of the End)
+- [[Evander -Van- Gylfering]] ([[The Beginning of the End]])
 
 ## Notes
 
