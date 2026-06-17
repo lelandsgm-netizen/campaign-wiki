@@ -67,9 +67,10 @@ tags:
 
 ### Hindrances
 
-* **[Major Hindrance Name]** (Major): [Brief description of the mechanic or roleplay hook]
-* **[Minor Hindrance Name]** (Minor): [Brief description]
-* **[Minor Hindrance Name]** (Minor): [Brief description]
+* **[Driven to be Famous]** (Major): [A vow is a commitment to others. Driven characters want something for themselves. It may be to protect the realm, become a decorated officer, prove you’re the best gladiator in Rome, or the best pilot in the galactic fleet. The Minor version shapes the character and pushes his decisions but either happens rarely or is fairly harmless.]
+* **[Overconfident]** (Major): [There’s nothing out there your hero can’t defeat. At least that’s what he thinks. He believes he can do most anything and never wants to retreat from a challenge. He’s not suicidal, but he certainly takes on more than common sense dictates.]
+* **[Loyal to Friends]** (Minor): [This stalwart defender risks her life for his friends without hesitation. Some Loyal heroes may not act that way, but are the first to come to their friends’ rescue when they’re threatened.]
+* **[Body is a Temple (quirk)]** (Minor): [Silis is very particular of the food he consumes. He sticks to local stores where he can trace the origin of each item. He has even gone so far as to visit various farms to vet them. He will not eat food from unknown or untrusted sources. He frequently admonishes his friends for their eating habits regardless of how good.]
 
 ### Edges
 
