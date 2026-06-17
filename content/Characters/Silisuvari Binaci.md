@@ -136,6 +136,8 @@ tags:
 > | Smite | Novice | 2 | Self (Raise +2 PP) | 5 | [+2/+4] Damage |
 > | Speed | Novice | 2 | Self (Raise +2 PP) | 5 | [+2] Quickness (+2 vs MAP or other penalties) |
 > <br><br>
+
+> [!abstract] Details
 > **Boost Trait:** This power allows a character to increase or decrease a target’s Trait (attribute or skill). Boosting an ally’s Trait increases the selected Trait one die type, or two with a raise, for five rounds. Lowering an enemy’s Trait has a Duration of Instant and lowers the selected attribute or skill a die type with success, or two with a raise (to a minimum of d4). A victim automatically tries to shake off the effect with a Spirit roll as a free action at the end of his following turns. Success improves the effect one die type, and a raise removes the effect entirely. Additional castings don’t stack on a single Trait (take the highest), but may affect different Traits. Duration 5
 > <br><br>
 > **Deflection:** Deflection powers work in a variety of ways. Some manifestations actually deflect incoming attacks, others blur the target’s form or produce illusionary effects. The end result is always the same, however—to misdirect incoming melee and missile attacks from the recipient of the power. Once cast, foes must subtract 2 from attack rolls directed at the user (or 4 with a raise). Duration 5
