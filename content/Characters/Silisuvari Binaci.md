@@ -33,7 +33,7 @@ tags:
 | **Smarts** | d6 | - |
 | **Spirit** | d8 | - |
 | **Strength** | d8 | - |
-| **Vigor** | d4 | - |
+| **Vigor** | d6 | - |
 
 ### Derived Stats
 
@@ -124,15 +124,25 @@ tags:
 
 ---
 
-## ✨ Powers (If Applicable)
-
-**Arcane Background:** [Type]
-**Power Points:** 0 / 0
-
-| Power | Rank | Cost | Range | Duration | Effect |
-| --- | --- | --- | --- | --- | --- |
-| [Power Name] | Novice | 1 | Smarts | 5 | [Brief description of effect] |
-| [Power Name] | Seasoned | 2 | Touch | Instant | [Brief description of effect] |
+## ✨ Powers
+> [!abstract]
+> **Arcane Background:** Monk
+> **Power Points:** 10 / 10
+> <br><br>
+> | Power | Rank | Cost | Range | Duration | Effect |
+> | --- | --- | --- | --- | --- | --- |
+> | Boost Trait | Novice | 2 | Self (Raise +2 PP) | 5 | Agility, Athletics, Fighting, & Stealth only |
+> | Deflection | Novice | 3 | Self (Raise +2 PP) | 5 | [+2/+4] Parry |
+> | Smite | Novice | 2 | Self (Raise +2 PP) | 5 | [+2/+4] Damage |
+> | Speed | Novice | 2 | Self (Raise +2 PP) | 5 | [+2] Quickness (+2 vs MAP or other penalties) |
+> <br><br>
+> **Boost Trait:** This power allows a character to increase or decrease a target’s Trait (attribute or skill). Boosting an ally’s Trait increases the selected Trait one die type, or two with a raise, for five rounds. Lowering an enemy’s Trait has a Duration of Instant and lowers the selected attribute or skill a die type with success, or two with a raise (to a minimum of d4). A victim automatically tries to shake off the effect with a Spirit roll as a free action at the end of his following turns. Success improves the effect one die type, and a raise removes the effect entirely. Additional castings don’t stack on a single Trait (take the highest), but may affect different Traits. Duration 5
+> <br><br>
+> **Deflection:** Deflection powers work in a variety of ways. Some manifestations actually deflect incoming attacks, others blur the target’s form or produce illusionary effects. The end result is always the same, however—to misdirect incoming melee and missile attacks from the recipient of the power. Once cast, foes must subtract 2 from attack rolls directed at the user (or 4 with a raise). Duration 5
+> <br><br>
+> **Smite:** This power is cast on a weapon of some sort. If it’s a ranged weapon, it affects one entire magazine, 20 bolts, shells, or arrows, or one full “load” of ammunition (the GM determines the exact quantity for unusual weapons). While the power is in effect, the weapon’s damage is increased by +2, or +4 with a raise.
+> <br><br>
+> **Speed/Quickness:** Success with speed doubles the target’s movement (basic Pace and running). With a raise the character also ignores the −2 running penalty. Quickness (raise) The character’s total Multi-Action penalty each turn is reduced by 2 (she can do two actions at no penalty or three at −2 each).
 
 ---
 
