@@ -125,7 +125,7 @@ tags:
 ---
 
 ## ✨ Powers
-> [!abstract]
+> [!abstract] Stats & Descriptions
 > **Arcane Background:** Monk
 > **Power Points:** 10 / 10
 > <br><br>
