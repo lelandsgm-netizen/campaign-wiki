@@ -19,8 +19,9 @@ Add player background, preferences, and campaign history.
 
 ## Characters
 
-- [[Purrzhya]] (The Deck is Stacked / In The Shadow of the Spire)
-- [[Wilgard (Willie) Gramm]] (In The Shadow of the Spire)
+- [[Purrzhya]] ([[The Deck is Stacked]])
+- [[Wuf-Jaw]] ([[The Deck is Stacked]])
+- [[Wilgard (Willie) Gramm]] ([[In the Shadow of the Spire]])
 - [[J. C. VanHalen]] (The Beginning of the End)
 
 ## Notes
