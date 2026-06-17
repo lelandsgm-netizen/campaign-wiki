@@ -76,7 +76,7 @@ tags:
 > **Body is a Temple (quirk)** (Minor): Silis is very particular of the food he consumes. He sticks to local stores where he can trace the origin of each item. He has even gone so far as to visit various farms to vet them. He will not eat food from unknown or untrusted sources. He frequently admonishes his friends for their eating habits regardless of how good.
 
 ### Edges
-> [!success]
+> [!success] 
 > * **Martial Warrior:** The fighter has trained in basic martial arts. Her fists and feet are weapons (see Natural Weapons, page 104) so he’s always considered armed. He adds +2 when striking with them and causes 2 Die raises damage. D12 is total from this and other edges. If she already has a Strength damage die from the Claws racial ability (page 18) or the Brawler Edge, increase the damage a die type. Martial Artist does not add to damage from other Natural Weapons such as fangs or horns.
 > <br><br>
 > * **Arcane Resistance:** Magic and the supernatural hold little sway with this individual. Whether by nature, heritage, or training he’s particularly resistant to magic, psionics, weird science, and other supernatural energies. Arcane skills targeting the hero suffer a −2 penalty (even if cast by allies!) and magical damage is reduced by 2 as well.
@@ -105,9 +105,10 @@ tags:
 
 | Weapon | Range | Damage | AP | ROF | Weight | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
-| Unarmed | Melee | Str | 0 | 1 | - | - |
-| [Weapon 1] | [S/M/L] | Str+d- | 0 | 1 | 0 | [Special rules] |
-| [Weapon 2] | [S/M/L] | 2d6 | 0 | 1 | 0 | [Special rules] |
+| Unarmed | Melee | Str +D12 | 2 | 1 | - | +3 STR / Raise = D10 / Makes Vulnerable |
+| Tonfa | Melee | Str+d6 | 0 | 1 | 2lbs | +1 Parry |
+| Masterclass Kentucky Flint Rifle] | 90/180/360 | 2D8+1 | 2 | 1 | 1lbs | Reload 1 |
+| Custom Revolver | 30/60/120 | 2D6+1 | 0 | 1 | 3lbs | Reload 1 |
 
 ---
 
