@@ -92,12 +92,12 @@ tags:
 > * **Monk Martial Discipline:** Monks hone their bodies to perfection, gaining an additional +1 Toughness if wearing no armor.
 > <br><br>
 > * **Monk Mobility:** Quick and nimble, monks increase their running die by one die type.
-> * <br><br>
-> * **Stunning Fist:** When a monk hits a target with an Unarmed Strike and scores a raise, he may make the foe Distracted or Vulnerable. This occurs even if the victim takes no damage or Soaks it (the states are applied after the victim attempts to Soak).
+> <br><br>
+> * **Monk Stunning Fist:** When a monk hits a target with an Unarmed Strike and scores a raise, he may make the foe Distracted or Vulnerable. This occurs even if the victim takes no damage or Soaks it (the states are applied after the victim attempts to Soak).
 > <br><br>
 > * **Monk Unarmed Strike:** Monks gain +1 to Fighting attacks when attacking unarmed and AP +2. They cause Str+d4 damage with their hands, feet, or other Natural Weapons (if they have such appendages, see page 136). If the monk already has a Strength damage die from Claws (available to some ancestries), or the Brawler Edge, increase the damage a die type for each. Monks can apply the Trademark Weapon Edge to their unarmed attacks. Monks always count as armed. Some use regular weapons in their off-hand,but abilities that refer to their Unarmed Strike apply only to unarmed attacks as defined above. On a raise the monk rolls a d10 for his bonus damage.
 > <br><br>
-> * **Mystic Powers:** As a limited free action, the monk can invoke one of the following "ki" powers: boost Trait (Agility, Athletics, Fighting, and Stealth only), deflection, smite, and speed. All are self only, but the monk gains no benefit from the Limitation (see page 168). The monk has 10 dedicated Power Points that recharge normally (see page 169). He automatically activates the power with success for its regular cost, or with a raise for an additional 2 Power Points. He may use applicable Power Modifiers if desired (at the usual cost). See Chapter 5 for more information on specific spells. Mystic Powers doesn’t grant access to Edges that require an Arcane Background. If the monk also has an Arcane Background, none of its Edges or abilities can be used with Mystic Powers (and vice-ersa).
+> * **Monk Mystic Powers:** As a limited free action, the monk can invoke one of the following "ki" powers: boost Trait (Agility, Athletics, Fighting, and Stealth only), deflection, smite, and speed. All are self only, but the monk gains no benefit from the Limitation (see page 168). The monk has 10 dedicated Power Points that recharge normally (see page 169). He automatically activates the power with success for its regular cost, or with a raise for an additional 2 Power Points. He may use applicable Power Modifiers if desired (at the usual cost). See Chapter 5 for more information on specific spells. Mystic Powers doesn’t grant access to Edges that require an Arcane Background. If the monk also has an Arcane Background, none of its Edges or abilities can be used with Mystic Powers (and vice-ersa).
 
 ---
 
