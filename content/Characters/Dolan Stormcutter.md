@@ -155,14 +155,13 @@ Carrying your bulk gear inside a **Spacious Pouch II** (Extradimensional):
 ## 🦅 Companion: Raven (Familiar)
 
 > [!info] Statistics
-> Type: Minion / Animal <br>
+> Type: Minion / Seagull <br>
+> Known as Gullbert <br>
 > HP: 40 / 40 <br>
 > AC: 29 <br>
 > Modifiers: Fort +14, Ref +12, Will +13 <br>
 > Perception: +11 (DC 21) <br>
 > Speeds: Fly (Base), Swim 25 ft <br>
-
-```
-
-* **Abilities:** Low-Light Vision, Spell Delivery, Familiar Focus (1/day to restore 1 Focus Point to Dolan).
-* **Skills:** Acrobatics +11, Stealth +11. All other skills baseline +8 modifier.
+> **Abilities:** Low-Light Vision, Spell Delivery, Familiar Focus (1/day to restore 1 Focus Point to Dolan).
+> **Skills:** Acrobatics +11, Stealth +11. All other skills baseline +8 modifier.
+>
