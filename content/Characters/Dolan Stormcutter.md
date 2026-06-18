@@ -20,7 +20,7 @@ draft: false
 > | **Campaign** | [[Prophecy and Balance]]  |
 >
 ---
-> ![Character Concept](dolan.jpg) <!-- Swap this line out for a local link to your vault's character art if you have one! -->
+![Character Concept](dolan.jpg) <!-- Swap this line out for a local link to your vault's character art if you have one! -->
 ---
 
 ## 📊 Core Statistics
