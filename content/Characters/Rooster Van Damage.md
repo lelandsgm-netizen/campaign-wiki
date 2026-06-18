@@ -17,7 +17,7 @@ tags:
 > * **Perception:** +14 (Master) | **DC:** 24 *(+2 circumstance bonus to Initiative via Battlefield Surveyor)*
 > 
 > 
-
+![Character Concept](rooster.jpg) <!-- Swap this line out for a local link to your vault's character art if you have one! -->
 ---
 
 ## 📊 Ability Scores
