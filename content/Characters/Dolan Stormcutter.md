@@ -1,17 +1,24 @@
-```yaml
-Character_Name: Dolan Stormcutter
-Class: Champion 8
-Ancestry: Human Aiuvarin (Half-Elf)
-Level: 8
-Heritage: Seer Elf
-Current_HP: 104 / 104
-AC: 29
-Speed: 20 ft
-Focus_Points: 3 / 3
-Hero_Points: 3 / 3
+---
+title: ""
+world: "Eraedal"
+type: "Character"
+ancestry: "Human Aiuvarin"
+class: "Champion"
+player: "Jason"
+campaign: "Prophecy and Balance"
+tags:
+  - character
+draft: false
+---
 
-```
-
+> [!info] Character Profile
+> | | |
+> | --- | --- |
+> | **Ancestry & Heritage** | Human Aiuvarin (Half Elf) |
+> | **Class & Level** | Champion 8 |
+> | **Player** | [[Jason]] |
+> | **Campaign** | [[Prophecy and Balance]]  |
+>
 ---
 
 ## 📊 Core Statistics
@@ -147,13 +154,13 @@ Carrying your bulk gear inside a **Spacious Pouch II** (Extradimensional):
 
 ## 🦅 Companion: Raven (Familiar)
 
-```yaml
-Type: Minion / Animal
-HP: 40 / 40
-AC: 29
-Modifiers: Fort +14, Ref +12, Will +13
-Perception: +11 (DC 21)
-Speeds: Fly (Base), Swim 25 ft
+> [!info] Statistics
+> Type: Minion / Animal <br>
+> HP: 40 / 40 <br>
+> AC: 29 <br>
+> Modifiers: Fort +14, Ref +12, Will +13 <br>
+> Perception: +11 (DC 21) <br>
+> Speeds: Fly (Base), Swim 25 ft <br>
 
 ```
 
