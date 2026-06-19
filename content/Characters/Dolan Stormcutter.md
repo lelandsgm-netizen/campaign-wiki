@@ -1,13 +1,20 @@
 ---
-title: ""
+title: "Dolan Stormcutter"
 world: "Eraedal"
 type: "Character"
-ancestry: "Human Aiuvarin"
-class: "Champion"
+ancestry: "Human Aiuvarin (Half Elf)"
+class: "Champion 8"
 player: "Jason"
 campaign: "Prophecy and Balance"
 tags:
   - character
+  - human
+  - half-elf
+  - champion
+  - divine
+  - sorcerer
+  - marshal
+  - dandy
 draft: false
 ---
 
@@ -17,153 +24,107 @@ draft: false
 > | **Ancestry & Heritage** | Human Aiuvarin (Half Elf) |
 > | **Class & Level** | Champion 8 |
 > | **Player** | [[Jason]] |
-> | **Campaign** | [[Prophecy and Balance]]  |
->
----
-![Character Concept](dolan.jpg) <!-- Swap this line out for a local link to your vault's character art if you have one! -->
----
+> | **Campaign** | [[Prophecy and Balance]] |
+> | **Image** | ![[dolan.jpg]] |
+## Core Statistics
 
-## 📊 Core Statistics
+-   **Strength:** 19 (+4)
+-   **Dexterity:** 14 (+2)
+-   **Constitution:** 14 (+2)
+-   **Intelligence:** 10 (+0)
+-   **Wisdom:** 12 (+1)
+-   **Charisma:** 16 (+3)
 
-### Ability Scores
+-   **Perception:** +11 (Trained, DC 21)
+-   **Speed:** 25 feet (implied, not explicitly stated but standard for humanoids with heavy armor)
+-   **Bulk:** 14.39 / 19 (Encumbered)
+-   **Money:** 48 pp, 4,946 gp, 8 sp, 9 cp
+-   **Languages:** Common, Elven (implied by Aiuvarin heritage)
 
-| Attribute | Score | Modifier |
-| --- | --- | --- |
-| 💪 **Strength** | 19 | +4 |
-| 🤸 **Dexterity** | 14 | +2 |
-| 🪵 **Constitution** | 14 | +2 |
-| 🧠 **Intelligence** | 10 | +0 |
-| 🦉 **Wisdom** | 12 | +1 |
-| ✨ **Charisma** | 16 | +3 |
+### Skills
+-   **Master:** Athletics (+18), Sailing Lore (+14)
+-   **Expert:** Medicine (+13)
+-   **Trained:** Diplomacy (+14, +1 item bonus from Diplomat's Badge), Deception (+13), Arcana (+10, +1 circumstance to Identify/Decipher Magic), Nature (+11, +1 circumstance to Identify/Decipher Magic), Occultism (+10, +1 circumstance to Identify/Decipher Magic), Religion (+11, +1 circumstance to Identify/Decipher Magic), Society (+10), Survival (+11), Herbalism Lore (+10), Fortune-Telling Lore (+10)
+-   **Untrained:** (Any not listed above, assumed +0 modifier from Intelligence or +1 for Wisdom, +3 for Charisma)
 
-### Defenses & Vitality
+## Combat & Defenses
 
-* **Hit Points:** 104
-* **Armor Class:** 29 (Expert)
-* **Fortitude Save:** +14 (Expert) | *+1 circumstance vs. inhaled threats*
-* **Reflex Save:** +12 (Trained) | *+1 circumstance vs. inhaled threats*
-* **Will Save:** +13 (Expert) | *+1 circumstance vs. inhaled threats*
-* **Perception:** +11 (Trained) | **DC:** 21
+-   **Hit Points:** 104 / 104
+-   **Armor Class:** 29 (Expert, +1 Splint Mail, Dex Cap +1)
+-   **Key Saves:**
+    -   **Fortitude Save:** +14 (Expert, DC 24) *+1 circumstance vs. inhaled threats*
+    -   **Reflex Save:** +12 (Trained, DC 22) *+1 circumstance vs. inhaled threats*
+    -   **Will Save:** +13 (Expert, DC 23) *+1 circumstance vs. inhaled threats*
 
----
+### Melee Strikes
+-   **Lista's Fork (+1 Striking Holy Thrown, Two-Hand 1d10):** +18 (2d10+6 Piercing + 1d4 Spirit) *+1d6 Electricity + 1d6 persistent Vitality vs. undead*. Crit: Double persistent damage + 1d6 Electricity to 2 targets within 10ft.
+-   **+2 Pacifying Striking Frost Adamantine Longsword (Holy, Magical):** +18 (2d8+6 Slashing + 1d6 Cold). Crit: Slowed 1 (DC 24).
+-   **+1 Brilliant Striking Dawnsilver Warhammer (Holy, Magical, Shove):** +17 (2d8+6 Bludgeoning) *+1d4 Fire / +1d4 Spirit vs. fiends / +1d4 Vitality vs. undead*. Brilliant (DC 29).
+-   **Fist:** +16 (1d4+6 Bludgeoning). Agile, Finesse, Nonlethal, Unarmed.
 
-## ⚔️ Combat & Equipment
-
-### Primary Weapons
-
-| Weapon | Attack | Damage | Traits / Runes |
-| --- | --- | --- | --- |
-| **Lista's Fork** (Melee) | **+18** | 2d10+6 P + 1d4 Spirit<br>
-
-<br>*(+1d6 E + 1d6 pers Vit vs. undead)* | Holy, Magical, Relic, Thrown, Two-Hand (1d10)<br>
-
-<br>🔴 *Crit: Double pers dmg + 1d6 E to 2 targets within 10ft.* |
-| **Lista's Fork** (Ranged) | **+16** | 2d10+6 P + 1d4 Spirit | *Same as above (Range 10 ft)* |
-| **+2 Pacifying Striking Frost Adamantine Longsword** | **+18** | 2d8+6 S + 1d6 Cold | Holy, Magical, High-Grade Adamantine, Frost (DC 24)<br>
-
-<br>🔴 *Crit: Slowed 1 (DC 24)* |
-| **+1 Brilliant Striking Dawnsilver Warhammer** | **+17** | 2d8+6 B<br>
-
-<br>*(+1d4 F / +1d4 Spirit vs. fiends / +1d4 Vit vs. undead)* | High-Grade Dawnsilver, Brilliant (DC 29), Shove |
-| **Fist** | **+16** | 1d4+6 B | Agile, Finesse, Nonlethal, Unarmed |
-
+### Ranged Strikes
+-   **Lista's Fork (Thrown 10 ft.):** +16 (2d10+6 Piercing + 1d4 Spirit). *Same traits/runes as melee, Range 10 ft.*
 ### Defenses & Shielding
+-   **Armor:** +1 Splint Mail (AC +6, Dex Cap +1, Speed Penalty -5). **Resistances:** Piercing 3.
+-   **Shields:**
+    -   **Lesser Reinforcing Swordstealer Shield:** AC +2, HP 72/72. *Deflecting slashing, Archaic.*
+    -   **Lesser Reinforcing Steel Shield (x2): +2 AC, HP 72/72.**
 
-* 👕 **+1 Splint Mail:** AC +6, Dex Cap +1, Speed Pen -5. **Resistances:** Piercing 3.
-* 🛡️ **Lesser Reinforcing Swordstealer Shield:** AC +2 | HP 72/72 | *Deflecting slashing, Archaic*
-* 🛡️ **Lesser Reinforcing Steel Shield (x2):** AC +2 | HP 72/72
-
----
-
-## 🔮 Feats & Special Abilities
-
+## Abilities & Feats
 ### Champion Abilities & Reactions
-
-> [!info] 🕊️ **Liberating Step (Reaction)**
-> **Trigger:** An enemy damages, grabs, or restrains your ally, and both are in your champion’s aura (15 feet).
-> **Effect:** Grant ally **Resistance 10** to the triggering damage. The ally can attempt a free check to escape or step as a free action.
-
-* ✨ **Champion's Aura:** 15-foot aura.
-* ✨ **Blessed Shield:** Enhanced shield capabilities.
-* ✨ **Prophecy's Pawn (Free Action):** Trigger when you fail a saving throw, attack roll, or skill check to reroll (Fortune).
+-   **Liberating Step (Reaction):** Trigger when an enemy damages, grabs, or restrains your ally (both in 15 ft. aura). Grant ally **Resistance 10** to triggering damage. Ally can attempt a free check to escape or Step as a free action.
+-   **Champion's Aura:** 15-foot aura.
+-   **Blessed Shield:** Enhanced shield capabilities.
+-   **Prophecy's Pawn (Free Action):** Trigger when you fail a saving throw, attack roll, or skill check to reroll (Fortune).
 
 ### Archetypes & Class Feats
+-   **Sorcerer Dedication (Genie - Marid Bloodline):** Grants Arcane spellcasting features.
+-   **Marshal Dedication:** `[[Inspiring Marshal Stance]]` (Action 1) to aura-buff allies using Diplomacy.
+-   **Dandy Dedication:** `[[Lie to Me]]`, `[[Influence Rumor]]`.
+-   **Tactical Feats:** `[[Quick Shield Block]]`, `[[Unimpeded Step]]`, `[[Desperate Prayer]]` (1/day).
 
-* **Sorcerer Dedication (Genie - Marid Bloodline):** Grants Arcane spellcasting features.
-* **Marshal Dedication:** `[[Inspiring Marshal Stance]]` (Action 1) to aura-buff allies using Diplomacy.
-* **Dandy Dedication:** `[[Lie to Me]]`, `[[Influence Rumor]]`.
-* **Tactical Feats:** `[[Quick Shield Block]]`, `[[Unimpeded Step]]`, `[[Desperate Prayer]]` (1/day).
+## Spells & Focus Magic
 
----
-
-## 📜 Skills & Lore
-
-| Skill | Modifier | Rank | Notes / Situational Bonuses |
-| --- | --- | --- | --- |
-| **Athletics** | **+18** | **Master** | Underwater Marauder (no penalties underwater) |
-| **Diplomacy** | **+14** | Trained | Includes +1 item bonus from Diplomat's Badge |
-| **Medicine** | **+13** | **Expert** | Battle Medicine, Treat Wounds (2d8, DC 15) |
-| **Deception** | **+13** | Trained | Lie to Me |
-| **Arcana** | **+10** | Trained | +1 circumstance to Identify/Decipher Magic (Seer Elf) |
-| **Nature** | **+11** | Trained | +1 circumstance to Identify/Decipher Magic (Seer Elf) |
-| **Occultism** | **+10** | Trained | +1 circumstance to Identify/Decipher Magic (Seer Elf) |
-| **Religion** | **+11** | Trained | +1 circumstance to Identify/Decipher Magic (Seer Elf) |
-| **Society** | **+10** | Trained |  |
-| **Survival** | **+11** | Trained |  |
-| **Sailing Lore** | **+14** | **Master** | Additional Lore feat |
-| **Herbalism Lore** | **+10** | Trained |  |
-| **Fortune-Telling Lore** | **+10** | Trained |  |
-
----
-
-## ⚡ Spells & Focus Magic
-
-**Spell DC:** 23 | **Spell Attack:** +13 | **Tradition:** Arcane / Divine
-
+-   **Spell DC:** 23
+-   **Spell Attack:** +13
+-   **Tradition:** Arcane / Divine (Champion Lay on Hands is Divine)
 ### Focus Spells (3 Focus Points)
-
-* **Lay on Hands (Rank 4):** Heal 24 HP to a living creature or damage undead via touch. +2 AC bonus for 1 round.
-* **Genie's Veil (Reaction):** Trigger when a creature within 30 feet is attacked. Provide concealment.
-* **Tidal Surge (1 Action):** Target 1 creature within 60 feet. Force movement via water slam (DC 23 Defense).
+-   **Lay on Hands (Rank 4):** Heal 24 HP to a living creature or damage undead via touch. +2 AC bonus for 1 round.
+-   **Genie's Veil (Reaction)::** Trigger when a creature within 30 feet is attacked. Provide concealment.
+-   **Tidal Surge (1 Action):** Target 1 creature within 60 feet. Force movement via water slam (DC 23 Defense).
 
 ### Innate Cantrips (At-Will)
+-   **Detect Magic (Rank 4):** 30-foot emanation area.
+-   **Prestidigitation (Rank 4):** Minor environmental manipulations.
+-   **Ray of Frost (Rank 4):** Ranged Spell Attack **+13**, Damage **5d4 Cold**. *Crit: –10-foot status penalty to Speed for 1 round.*
 
-* **Detect Magic (Rank 4):** 30-foot emanation area.
-* **Prestidigitation (Rank 4):** Minor environmental manipulations.
-* **Ray of Frost (Rank 4):** Ranged Spell Attack **+13**, Damage **5d4 C**. *Crit: –10-foot status penalty to Speed for 1 round.*
+## Inventory & Equipment
 
----
-
-## 🎒 Inventory & Wealth
-
-**Net Wealth:** 48 pp, 4,946 gp, 8 sp, 9 cp | **Bulk:** 14.39 / 19 (Encumbered)
-
+-   **Net Wealth:** 48 pp, 4,946 gp, 8 sp, 9 cp
+-   **Bulk:** 14.39 / 19 (Encumbered)
 ### Consumables & Invested Items
+-   **Elixirs:** Lesser Elixir of Life (x5, heals 3d6+6 HP, +1 bonus vs. diseases/poisons), Lesser Spiderfoot Brew (x1, spider climb modifications).
+-   **Potions:** Lesser Healing Potion (x1, heals 2d8+5 HP).
+-   **Invested Gear:** Diplomat's Badge (allows *Diplomat's Bearing* 1/day, DC 20 skill check), Silver Rod (emblazoned with holy tattoo symbol).
 
-* 🧪 **Lesser Elixir of Life (x5):** Heals 3d6+6 HP, +1 bonus vs. diseases/poisons.
-* 🧪 **Lesser Spiderfoot Brew (x1):** Spider climb modifications.
-* 🧪 **Lesser Healing Potion (x1):** Heals 2d8+5 HP.
-* 🏅 **Diplomat's Badge:** Invested. Allows *Diplomat's Bearing* (1/day, DC 20 skill check).
-* 🥖 **Silver Rod:** Emblazoned with a holy tattoo symbol.
+### Mount
+-   **Warhorse:** Carries bulk gear inside a **Spacious Pouch II** (Extradimensional).
+    -   **Spacious Pouch II Contents:** Floating four-person tent, fine high-fashion clothing, professional fishing tackle, climbing kit, crowbar, rope (50 ft), torches (x5), rations (2 weeks), jar of mushroom spores, and 10 pancake-sized mushrooms.
 
-### 🐴 Mount: Warhorse
+## Companion
 
-Carrying your bulk gear inside a **Spacious Pouch II** (Extradimensional):
+### Raven (Familiar)
+-   **Name:** Gullbert
+-   **Type:** Minion / Seagull
+-   **Hit Points:** 40 / 40
+-   **Armor Class:** 29
+-   **Saves:** Fort +14, Ref +12, Will +13
+-   **Perception:** +11 (DC 21)
+-   **Speeds:** Fly (Base), Swim 25 ft
+-   **Abilities:** Low-Light Vision, Spell Delivery, Familiar Focus (1/day to restore 1 Focus Point to Dolan).
+-   **Skills:** Acrobatics +11, Stealth +11. All other skills baseline +8 modifier.
 
-* Floating four-person tent, fine high-fashion clothing, professional fishing tackle, climbing kit, crowbar, rope (50 ft), torches (x5), rations (2 weeks), jar of mushroom spores, and 10 pancake-sized mushrooms.
+## Character Biography
 
----
+Dolan Stormcutter is a Human Aiuvarin (Half Elf) Champion of Level 8, played by Jason in the "Prophecy and Balance" campaign. His background details are not explicitly provided in the stats but can be inferred from his skills and feats as a martial character with social and magical leanings.
 
-## 🦅 Companion: Raven (Familiar)
-
-> [!info] Statistics
-> Type: Minion / Seagull <br>
-> Known as Gullbert <br>
-> HP: 40 / 40 <br>
-> AC: 29 <br>
-> Modifiers: Fort +14, Ref +12, Will +13 <br>
-> Perception: +11 (DC 21) <br>
-> Speeds: Fly (Base), Swim 25 ft <br>
-> **Abilities:** Low-Light Vision, Spell Delivery, Familiar Focus (1/day to restore 1 Focus Point to Dolan).
-> **Skills:** Acrobatics +11, Stealth +11. All other skills baseline +8 modifier.
->
