@@ -16,7 +16,7 @@ draft: false
 > [!info] Campaign Overview
 > | | |
 > | --- | --- |
-> | **Game Master** | (Not Specified) |
+> | **Game Master** | [[Leland]] |
 > | **System** | Pathfinder 2e Remaster |
 > | **Players** | [[Beau LeFer]], [[Don Keydic]], [[Dolan Stormcutter]], [[Rooster Van Damage]] |
 > | **World** | [[Eraedal]] |
