@@ -5,7 +5,7 @@ type: "Character"
 ancestry: "Elf (Woodland Elf)"
 class: "Magus 8"
 player: ""
-campaign: ""
+campaign: "Prophecy and Balance"
 tags:
   - character
   - elf
@@ -93,3 +93,4 @@ draft: false
 Beau LeFer is a Scholar by background. They possess a reputation for being liked (+5) in the town of Manarola and Spezia Town and Church (rating of 3 in Spezia). They are known to Assistant Administrator Eric Bartol of the Manarola School District. Additionally, they have access to the Church Library, specifically for books about dwarven ruins.
 
 (Further personal story, motivations, and detailed history are not provided in the HLO JSON data.)
+

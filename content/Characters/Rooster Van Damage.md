@@ -5,7 +5,7 @@ type: "Character"
 ancestry: "Human (Versatile Human, Adopted Orc)"
 class: "Fighter 8"
 player: ""
-campaign: ""
+campaign: "Prophecy and Balance"
 tags:
   - character
   - human
@@ -21,8 +21,8 @@ draft: false
 > | --- | --- |
 > | **Ancestry & Heritage** | Human (Versatile Human, Adopted Orc) |
 > | **Class & Level** | Fighter 8 |
-> | **Player** | (Not specified) |
-> | **Campaign** | (Not specified) |
+> | **Player** | [[Brian]] |
+> | **Campaign** | [[Prophecy and Balance]] |
 > | **Image** | ![[rooster.jpg]] |
 
 ## Core Statistics

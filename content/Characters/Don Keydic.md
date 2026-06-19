@@ -5,7 +5,7 @@ type: "Character"
 ancestry: "Halfling (Twilight Halfling)"
 class: "Druid 8"
 player: ""
-campaign: ""
+campaign: "Prophecy and Balance"
 tags:
   - character
   - halfling
@@ -21,8 +21,8 @@ draft: false
 > | --- | --- |
 > | **Ancestry & Heritage** | Halfling (Twilight Halfling) |
 > | **Class & Level** | Druid 8 |
-> | **Player** | (Not specified) |
-> | **Campaign** | (Not specified) |
+> | **Player** | [[Jurney]] |
+> | **Campaign** | [[Prophecy and Balance]] |
 > | **Image** | ![[donkeydic.jpg]] |
 
 ## Core Statistics
@@ -91,3 +91,4 @@ draft: false
 ## Character Biography
 
 Don Keydic is a Halfling with a background as a Scout. He is a worshiper of Hei Feng. He has a notable reputation: liked (+5) by the Sons of Cain, liked (+14) in Manarola, and admired (+15) in Sea Side Rest. He has also garnered attention (currently ignored) from Firestorm Keep and for his involvement in a "Forgotten Books Investigation (FBI)", as well as for some unspecified knowledge. He possesses information related to the town of Spezia and a pirate named Fat Bart. Among his possessions are a dwarven book from a fort safe and various wines.
+
