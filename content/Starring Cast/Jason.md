@@ -19,8 +19,8 @@ Add player background, preferences, and campaign history.
 
 ## Characters
 
-- [[Hiro Jushin]] (The Deck is Stacked / In The Shadow of the Spire)
-- [[Calebrimbor Algarvran]] (The Beginning of the End)
+- [[Hiro Jushin]] ([[The Deck is Stacked]])
+- [[Calebrimbor Algarvran]] ([[In the Shadow of the Spire]])
 
 ## Notes
 
