@@ -151,5 +151,5 @@ tags:
 
 ### Campaign Notes
 
-* [Session 1 Note]
+* [[Silis-2026-06-19-Session]]
 * [Session 2 Note]
