@@ -19,7 +19,7 @@ tags:
 > * 
 > * **Important NPCs Met:**
 >   * Enemy Bard is with us, but has not warmed up to the group yet (He was transported with us)
->   * Moma - Totem warrior outside smoke tent that is fighting withn us.
+>   * Moma - Shaman woman in smoke tent that spoke with us.
 >   * Jon trained on a wooly Rino
 >   * I trained on an Orabu (Jurassic Elk)
 >   * Turok - Totem Warrior
