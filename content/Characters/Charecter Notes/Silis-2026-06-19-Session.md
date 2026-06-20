@@ -45,7 +45,7 @@ tags:
 >   * Boots of Speed (Three times per day the wearer can click his heels together (a limited free action) to gain the benefits of minor speed with the Quickness modifier.) **~ Leland/Silis**
 >   * Boots of Elvinkind (These soft boots grants the wearer a free reroll on all Stealth checks.) **~ Jurney/Donoif**
 >   * Belt of Dwarvenkind (This belt gives the wearer +2 to Persuasion and Intimidation checks when dealing with dwarves, +1 with gnomes and halflings, and −1 with anyone else. The wearer can also understand, speak, and read Dwarven. If the wearer is not a dwarf, he gains darkvision 10”.) **~ Sell it now**
->   * Belt of Physical Perfection Minor (This golden buckle depicts a fearsome animal. Strength and Agility are increased one die type. as long as it’s worn.)
+>   * Belt of Physical Perfection Minor (This golden buckle depicts **World Wrestling Federation Championship** logo). Strength and Agility are increased one die type. as long as it’s worn.)
 >   * Cape of Montebanq (On command, as a limited action, this bright red and gold cape allows the wearer to use minor teleport once per day. When he disappears, he leaves behind a cloud of smoke, appearing in a similar fashion at his destination.) **~ Brian/Dr Rocky Venus**
 
 ### 🪙 Shared Party Treasure Chest
