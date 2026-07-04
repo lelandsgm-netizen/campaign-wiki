@@ -11,7 +11,7 @@ tags:
 > [!todo] Session Goals & Objectives
 > * Turok, the totem warrior with us in trying to settle the spirits in the tribal graveyard.
 > * Destroy the demon infecting the water supply! 🌿👹💧
->   
+> * Ended the session finding a cave that is easily defensible As we approach, hands are coming out of the stone attempting to grab us. 
 >   
 
 ### 📝 My Character Log & Roleplay Recaps
@@ -27,7 +27,7 @@ tags:
 > [!danger] Encounter: [Encounter Name / Enemy Group]
 > * **Giant Kaiju Acid Monster:** Acid dripping from his mouth and cloud of foul acid farts pluming from his A** He is immune to Acid and electricity
 > * **Smaller Kaiju:** Spawned a weaker duplicate 
-> 
+> * Saw what looked like the revanent and 3 large wolves following our trail hours behind us from a cliff vantage point
 
 ---
 
