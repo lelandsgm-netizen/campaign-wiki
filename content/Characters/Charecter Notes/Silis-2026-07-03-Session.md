@@ -26,7 +26,7 @@ tags:
 *A diary of the threats your character survives. Perfect for writing down monster weaknesses for your Arcana or Society Recall Knowledge checks later!*
 > [!danger] Encounter: [Encounter Name / Enemy Group]
 > * **Giant Kaiju Acid Monster:** Acid dripping from his mouth and cloud of foul acid farts pluming from his A** He is immune to Acid and electricity
-> * **Smaller Kaiju:** Spawned a weaker duplicate
+> * **Smaller Kaiju:** Spawned a weaker duplicate 
 > 
 
 ---
