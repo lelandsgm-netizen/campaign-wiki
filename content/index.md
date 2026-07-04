@@ -3,7 +3,7 @@ title: LoreForge Works
 image: "https://loreforge.works/assets/LoreForge-Banner-Clear.png"
 ---
 
-![[loreforgebanner.png]]
+![[LoreForge-Banner-Clear.png]]
 <div style="text-align: center;">
 <h1>Welcome to The Campaign Wiki!</h1>
 </div>
