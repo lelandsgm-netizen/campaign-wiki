@@ -7,7 +7,7 @@ tags:
   - campaign-spus
 ---
 
-## 📅 Session [3]: Purging the Poison]
+## 📅 Session [3]: [Purging the Poison]
 > [!todo] Session Goals & Objectives
 > * Turok, the totem warrior with us in trying to settle the spirits in the tribal graveyard.
 > * Destroy the demon infecting the water supply! 🌿👹💧
