@@ -24,7 +24,7 @@ tags:
 *A diary of the threats your character survives. Perfect for writing down monster weaknesses for your Arcana or Society Recall Knowledge checks later!*
 > [!danger] Encounter: [Encounter Name / Enemy Group]
 > * **Xorn:** Elemental creatures
-> 
+> ![Xorn](Xorn.png)
 
 ---
 
