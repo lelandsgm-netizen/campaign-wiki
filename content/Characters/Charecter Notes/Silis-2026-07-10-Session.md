@@ -25,6 +25,7 @@ tags:
 > [!danger] Encounter: [Encounter Name / Enemy Group]
 > * **Xorn:** Elemental creatures
 > ![Xorn](Xorn.png)
+> *Image Credit: [Xorn] - D&D Beyond / Wizards of the Coast*
 
 ---
 
