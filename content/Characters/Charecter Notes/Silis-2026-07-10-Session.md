@@ -7,7 +7,7 @@ tags:
   - campaign-spus
 ---
 
-## 📅 Session [3]: [Purging the Poison]
+## 📅 Session [4]: [We were Xorn over what to do]
 > [!todo] Session Goals & Objectives
 > * In a fight with Xorn, we lost Turok, the Bard and Adrian underground. We are dealing with dwarves as we look for Adrian
 > * Hotath was the name that the dwarves called out as they turned from us.
@@ -23,9 +23,8 @@ tags:
 ### ⚔️ Encounters Faced (Monster & Hazard Log)
 *A diary of the threats your character survives. Perfect for writing down monster weaknesses for your Arcana or Society Recall Knowledge checks later!*
 > [!danger] Encounter: [Encounter Name / Enemy Group]
-> * **Giant Kaiju Acid Monster:** Acid dripping from his mouth and cloud of foul acid farts pluming from his A** He is immune to Acid and electricity
-> * **Smaller Kaiju:** Spawned a weaker duplicate 
-> * Saw what looked like the revanent and 3 large wolves following our trail hours behind us from a cliff vantage point
+> * **Xorn:** Elemental creatures
+> 
 
 ---
 
