@@ -14,8 +14,7 @@ tags:
 > * We followed the Dwarves into a large cavern wehre we could hear roaring. Pitch black so far.
 
 ### 📝 My Character Log & Roleplay Recaps
-> [!note] What My Character Discovered...
-> * 
+> [!note] What My Character Discovered... 
 > * **Important NPCs Met:**
 >   * Turok - Totem Warrior
 >   * Met some dwarves this session. No names yet.
