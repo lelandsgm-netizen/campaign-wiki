@@ -76,3 +76,7 @@ The rebellion is commanded by a terrifyingly brilliant Orc warlord known as **[[
     
 
 > [!tip] The contract is signed, the drop-point is set, and the winds of war are howling across the southern seas. Welcome to the [[Floenry Isles]], operators. Try to survive the tide.
+
+<br><br>
+> [!done] Campaign Notes
+> [[deck-2026-07-24]]
