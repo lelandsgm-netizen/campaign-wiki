@@ -7,7 +7,7 @@ tags:
   - campaign-spus
 ---
 
-## 📅 Session [5]: [Showdown with the Drow]
+## 📅 Session [7]: [Showdown with the Drow]
 > [!todo] Session Goals & Objectives
 > * Finishing a fight with drow in a broken gnome city
 
