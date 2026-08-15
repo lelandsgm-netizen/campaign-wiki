@@ -31,7 +31,7 @@ tags:
 ### ⚔️ Encounters Faced (Monster & Hazard Log)
 *A diary of the threats your character survives. Perfect for writing down monster weaknesses for your Arcana or Society Recall Knowledge checks later!*
 > [!danger] Encounter: [Encounter Name / Enemy Group]
-> *
+> * We have been asked to perform at the underworld tavern
 
 ---
 
@@ -42,7 +42,7 @@ tags:
 
 ### 🪙 Shared Party Treasure Chest
 > [!faq] Currency Pool
-> * 🪙**Gold:** 15,000 (08/14/2026)
+> * 🪙**Gold:** 15,400 (08/14/2026)
 > * ⚪**Silver:** 2000 (08/14/2026)
 > * 27 Dawnsilver Ingots
 > * 6 healing potions (3 accounted for)
