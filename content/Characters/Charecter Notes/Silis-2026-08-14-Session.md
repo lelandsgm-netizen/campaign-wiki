@@ -1,5 +1,5 @@
 ---
-title: Silis-2026-08-07
+title: Silis-2026-08-14
 system: SWADE
 tags:
   - player/leland
@@ -7,7 +7,7 @@ tags:
   - campaign-spus
 ---
 
-## 📅 Session [7]: [Showdown with the Drow]
+## 📅 Session [8]: [ A Little Deep Purple in Deep Run ]
 > [!todo] Session Goals & Objectives
 > * Night begins with us entering the Dwarven community of Deep Run.
 >   * The city is built in the rock of a 20-30 ft fissure of a cave.
