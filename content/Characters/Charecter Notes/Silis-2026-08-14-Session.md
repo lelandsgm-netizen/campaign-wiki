@@ -31,7 +31,8 @@ tags:
 ### ⚔️ Encounters Faced (Monster & Hazard Log)
 *A diary of the threats your character survives. Perfect for writing down monster weaknesses for your Arcana or Society Recall Knowledge checks later!*
 > [!danger] Encounter: [Encounter Name / Enemy Group]
-> * We have been asked to perform at the underworld tavern
+> * We have been asked to perform at the underworld tavern. We were a hit and made $400.
+> * Donoif gave his belt to Jimmy in an attempt to help him win Ruby over. He dissapeared after the last song.
 
 ---
 
