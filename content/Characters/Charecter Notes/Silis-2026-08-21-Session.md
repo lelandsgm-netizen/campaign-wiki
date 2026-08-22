@@ -44,6 +44,10 @@ tags:
 > [!danger] Encounter: [Encounter Name / Enemy Group]
 > * Making our way up the infected waterway looking for the source.
 > * Fought a twisted undead fish humanoid (Infected) Obliterated by a massive bolt from 🧙‍♂️Donoif. 
+> * Woken up by what was identified as a **stone bug** Seemed harmless.They seemed to be doing something in the water of the river.
+> * After walking further we discovered a giant crevice. we can get up to it, but will have to climb once we get there. We are organizing a climbing group where we rope each other together as we go.
+>   * At one point, I slipped with a critical failure.
+>   * We found at the top of the climb a new area with the tainted water floating between 2 pillars. There are stairs winding up.
 
 ---
 
@@ -55,25 +59,25 @@ tags:
 ### 🪙 Shared Party Treasure Chest
 > [!faq] Currency Pool
 > * 🪙**Gold:** ~~15,400~~ 1530 left after weapon & supply purchases *(08/21/2026)*
-> * ⚪**Silver:** ~~2000~~ converted to Gold (08/21/2026)
+> * ⚪**Silver:** ~~2000~~ converted to Gold *(08/21/2026)*
 > * 27 Dawnsilver Ingots
-> * 6 healing potions (4 accounted for)
+> * 6 healing potions (*4 accounted for*)
 > * Adrian took 2, Donoif took 1, and I took 1
 > * 8 types of potions.
->   * 1 has 8 (Speed Boost) Increase speed by 1 die [200gp per] Total 1600
+>   * 1 has 8 (Speed Boost) Increase speed by 1 die [*200gp per*] Total 1600
 >   * 2 has 2 (Flying) Cast the speel fly [450 gp per] Total 900
->   * 3 has 12 (Energy Resistance) Based on color at the time of drinking [500gp per] 6000
->   * 4 has 7 (Empathy) Like the spell [50gp per] 
->   * 5 has 3 (Boost Trait) Strength By 1 die [100gp per]
->   * 6 has 4 (Major Healing) Heal and remove effect [300gp per]
->   * 7 has 1 (Intagability) as spell [1750gp per]
->   * 8 has 15 (Minor Healing) 1 wnd [100gp per]
-> * Purchased an order of dawnsilver weapons to arm the Indian forces. The order has not been recieved yet (1 wk)
->   * 150 Spears (3000 gp)
->   * 400 Quivers of arrows (8000) for (4000 gp)
->   * 100 Hand Axes (6000 gp)
->   * 100 Daggers (2000 gp)
-> * 6 glow rods
+>   * 3 has 12 (Energy Resistance) Based on color at the time of drinking [*500gp per*] 6000
+>   * 4 has 7 (Empathy) Like the spell [*50gp per*] 
+>   * 5 has 3 (Boost Trait) Strength By 1 die [*100gp per*]
+>   * 6 has 4 (Major Healing) Heal and remove effect [*300gp per*]
+>   * 7 has 1 (Intagability) as spell [*1750gp per*]
+>   * 8 has 15 (Minor Healing) 1 wnd [*100gp per*]
+> * Purchased an order of dawnsilver weapons to arm the Indian forces. The order has not been recieved yet *(1 wk)*
+>   * 150 Spears (*3000 gp*)
+>   * 400 Quivers of arrows (8000) for (*4000 gp*)
+>   * 100 Hand Axes (*6000 gp*)
+>   * 100 Daggers (*2000 gp*)
+> * 6 glow rods 💡
 > * 4 weeks of rations for everyone
 > * Spelunking gear for everyone
 
