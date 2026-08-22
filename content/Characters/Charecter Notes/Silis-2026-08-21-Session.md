@@ -31,7 +31,7 @@ tags:
 >   * Jimmy Stonecleaver (Son and Assayer)
 >   * Ruby (Office assistant) In love with Donoif. Thinks he is an odd gnome.
 >   * Tara, Jimmy's sister, had and experience and spoke in tongues when we shook hands. We were told we needed to follow the river.
-> * **Meisterburger Mike**   
+> * **Meisterburger Mike** City official that hired us to investigate upstream.  
 >   
 > * **Places:**
 >   * **Two Angels Joint** Tavern
@@ -42,7 +42,8 @@ tags:
 
 ### ⚔️ Encounters Faced (Monster & Hazard Log)
 > [!danger] Encounter: [Encounter Name / Enemy Group]
->  
+> * Making our way up the infected waterway looking for the source.
+> * Fought a twisted undead fish humanoid (Infected) Obliterated by a massive bolt from 🧙‍♂️Donoif. 
 
 ---
 
