@@ -1,0 +1,77 @@
+---
+title: Silis-2026-08-21
+system: SWADE
+tags:
+  - player/leland
+  - char/Silisuvari
+  - campaign-spus
+---
+
+## 📅 Session [8]: [ Where are Jimmy & Ruby ]
+> [!todo] Session Goals & Objectives
+> * At the end of the show, we were unable to find Jimmy or Ruby. We were paid well and the show was a success.
+>   * Donoif used a spell to locat Jimmy at the hotel.
+>   * Found out that he and Ruby slipped away to the hotel for a little action. She apparently liked his new beard.
+>   * Found out Jimmy is an unliked step-son of the Stonecutters.
+> * Tara blacked out again when she and Adrian touched hands the possing spirit gave us 3 questions
+>   * What are our enemies weaknesses?
+>     * *Your enemies are many. So are their strengths and weaknesses*
+>   * How do we find our way to the river?
+>     * *Go to the Water. Jimmy mentioned an aqueduct. A big one*
+>   * Must we find the rivers source?
+>     * *yes*
+
+
+
+### 📝 My Character Log & Roleplay Recaps
+> [!note] What My Character Discovered... 
+> * **Important NPCs Met:**
+>   * Captian of the guard (Cap Vergis) Says we are welcome as long as we do not cause trouble.
+>   * Mr. Stonecleaver (Runs the production facility)
+>   * Jimmy Stonecleaver (Son and Assayer)
+>   * Ruby (Office assistant) In love with Donoif. Thinks he is an odd gnome.
+>   * Tara, Jimmy's sister, had and experience and spoke in tongues when we shook hands. We were told we needed to follow the river.
+>   
+>   
+> * **Places:**
+>   * **Two Angels Joint** Tavern
+>   * **Enchanted Evening** Inn
+>   * **Battleborn Outfitters** Adventurers gear Alyss Rockstarr is the proprietor
+>   * **The Overlook** ledge overlooking the city
+>
+
+### ⚔️ Encounters Faced (Monster & Hazard Log)
+> [!danger] Encounter: [Encounter Name / Enemy Group]
+> * 
+
+---
+
+## 🎒 Party Loot & My Inventory Split
+> [!tip] Magic, Items & Gems
+> * Bag of Holding
+
+
+### 🪙 Shared Party Treasure Chest
+> [!faq] Currency Pool
+> * 🪙**Gold:** 15,400 (08/14/2026)
+> * ⚪**Silver:** 2000 (08/14/2026)
+> * 27 Dawnsilver Ingots
+> * 6 healing potions (3 accounted for)
+> * Adrian took 2, Donoif took 1, and I took 1
+> * 8 types of potions.
+>   * 1 has 8 (Speed Boost) Increase speed by 1 die [200gp per] Total 1600
+>   * 2 has 2 (Flying) Cast the speel fly [450 gp per] Total 900
+>   * 3 has 12 (Energy Resistance) Based on color at the time of drinking [500gp per] 6000
+>   * 4 has 7 (Empathy) Like the spell [50gp per] 
+>   * 5 has 3 (Boost Trait) Strength By 1 die [100gp per]
+>   * 6 has 4 (Major Healing) Heal and remove effect [300gp per]
+>   * 7 has 1 (Intagability) as spell [1750gp per]
+>   * 8 has 15 (Minor Healing) 1 wnd [100gp per]
+> * ~~5 types of ammunition smite, blind, slumber, sloth, stun~~ [Sold for 1000] added to loot totals
+> * ~~4 small guns (gnome size) He will offer 8000gp in dawnsilver weapons~~ | We completed the deal added to loot totals
+
+### 🧪 Items Added To My Inventory
+> [!caution] Session Changes
+> * 
+> 
+> 
