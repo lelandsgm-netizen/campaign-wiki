@@ -31,7 +31,7 @@ tags:
 >   * Jimmy Stonecleaver (Son and Assayer)
 >   * Ruby (Office assistant) In love with Donoif. Thinks he is an odd gnome.
 >   * Tara, Jimmy's sister, had and experience and spoke in tongues when we shook hands. We were told we needed to follow the river.
->   
+> * **Meisterburger Mike**   
 >   
 > * **Places:**
 >   * **Two Angels Joint** Tavern
@@ -42,7 +42,7 @@ tags:
 
 ### ⚔️ Encounters Faced (Monster & Hazard Log)
 > [!danger] Encounter: [Encounter Name / Enemy Group]
-> * 
+>  
 
 ---
 
@@ -53,10 +53,10 @@ tags:
 
 ### 🪙 Shared Party Treasure Chest
 > [!faq] Currency Pool
-> * 🪙**Gold:** ~~15,400~~ 335 left after weapon & supply purchases *(08/21/2026)*
+> * 🪙**Gold:** ~~15,400~~ 1530 left after weapon & supply purchases *(08/21/2026)*
 > * ⚪**Silver:** ~~2000~~ converted to Gold (08/21/2026)
 > * 27 Dawnsilver Ingots
-> * 6 healing potions (3 accounted for)
+> * 6 healing potions (4 accounted for)
 > * Adrian took 2, Donoif took 1, and I took 1
 > * 8 types of potions.
 >   * 1 has 8 (Speed Boost) Increase speed by 1 die [200gp per] Total 1600
@@ -78,6 +78,6 @@ tags:
 
 ### 🧪 Items Added To My Inventory
 > [!caution] Session Changes
-> * 
+>  
 > 
 > 
