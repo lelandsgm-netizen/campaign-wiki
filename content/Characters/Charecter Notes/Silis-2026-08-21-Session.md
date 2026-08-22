@@ -53,7 +53,7 @@ tags:
 
 ### 🪙 Shared Party Treasure Chest
 > [!faq] Currency Pool
-> * 🪙**Gold:** 15,400 (08/14/2026)
+> * 🪙**Gold:** ~~15,400~~ 150 left after weapon purchases *(08/21/2026)*
 > * ⚪**Silver:** 2000 (08/14/2026)
 > * 27 Dawnsilver Ingots
 > * 6 healing potions (3 accounted for)
@@ -67,8 +67,14 @@ tags:
 >   * 6 has 4 (Major Healing) Heal and remove effect [300gp per]
 >   * 7 has 1 (Intagability) as spell [1750gp per]
 >   * 8 has 15 (Minor Healing) 1 wnd [100gp per]
-> * ~~5 types of ammunition smite, blind, slumber, sloth, stun~~ [Sold for 1000] added to loot totals
-> * ~~4 small guns (gnome size) He will offer 8000gp in dawnsilver weapons~~ | We completed the deal added to loot totals
+> * Purchased an order of dawnsilver weapos to arm the Indian forces
+>   * 150 Spears (3000 gp)
+>   * 400 Quivers of arrows (8000) for (4000 gp)
+>   * 100 Hand Axes (6000 gp)
+>   * 100 Daggers (2000 gp)
+> * 6 glow rods
+> * 4 weeks of rations for everyone
+> * Spelunking gear for everyone
 
 ### 🧪 Items Added To My Inventory
 > [!caution] Session Changes
