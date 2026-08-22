@@ -53,8 +53,8 @@ tags:
 
 ### 🪙 Shared Party Treasure Chest
 > [!faq] Currency Pool
-> * 🪙**Gold:** ~~15,400~~ 150 left after weapon purchases *(08/21/2026)*
-> * ⚪**Silver:** 2000 (08/14/2026)
+> * 🪙**Gold:** ~~15,400~~ 335 left after weapon & supply purchases *(08/21/2026)*
+> * ⚪**Silver:** ~~2000~~ converted to Gold (08/21/2026)
 > * 27 Dawnsilver Ingots
 > * 6 healing potions (3 accounted for)
 > * Adrian took 2, Donoif took 1, and I took 1
@@ -67,7 +67,7 @@ tags:
 >   * 6 has 4 (Major Healing) Heal and remove effect [300gp per]
 >   * 7 has 1 (Intagability) as spell [1750gp per]
 >   * 8 has 15 (Minor Healing) 1 wnd [100gp per]
-> * Purchased an order of dawnsilver weapos to arm the Indian forces
+> * Purchased an order of dawnsilver weapons to arm the Indian forces. The order has not been recieved yet (1 wk)
 >   * 150 Spears (3000 gp)
 >   * 400 Quivers of arrows (8000) for (4000 gp)
 >   * 100 Hand Axes (6000 gp)
