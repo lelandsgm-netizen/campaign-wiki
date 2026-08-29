@@ -49,7 +49,7 @@ tags:
 
 ### 🪙 Shared Party Treasure Chest
 > [!faq] Currency Pool
-> * 🪙**Gold:** 1530  *(08/28/2026)*
+> * 🪙**Gold:** 13530  *(08/28/2026)*
 > * ⚪**Silver:** *(08/28/2026)*
 > * 27 Dawnsilver Ingots
 > * 5 healing potions (*4 accounted for*)
@@ -71,6 +71,10 @@ tags:
 > * 6 glow rods 💡
 > * 4 weeks of rations for everyone
 > * Spelunking gear for everyone
+> * 2 lightning bombs
+> * 2 sonic bombs
+> * Alchemist formula book (Disguise/Growth/shrink/lighting bomb)
+> * 3 lighting bullets (3d6-3d4-2d4) | 3 ice bullets (1/2 speed or sheet of ice) + formulas for both
 
 ### 🧪 Items Added To My Inventory
 > [!caution] Session Changes
