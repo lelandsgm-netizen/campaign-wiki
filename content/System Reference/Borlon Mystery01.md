@@ -70,3 +70,4 @@ Anya’s patrol finally arrives on the scene, feigning shock and outrage at the 
 * **The Social Danger:** If the characters openly lose their tempers and accuse Anya or her watchmen of being intentionally late, she won't arrest them immediately in front of a rioting camp . Instead, she coldly marks them as political agitators and subversives. This political targeting ensures that in **Episode 2**, the city's official channels will be locked down tight against them, forcing them to operate from the shadows .
 
 ---
+```

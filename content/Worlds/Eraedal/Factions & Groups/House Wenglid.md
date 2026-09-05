@@ -11,11 +11,12 @@ draft: false
 ---
 
 > ###### Information
-> | | | 
-> | --- | --- |
-> | **Hierarchy** | Regional House |
-> | **Region** | [[Tarldet Plains]] |
-> | Loyal To | Emperor [[Rehobath Ylestos]] |
+>
+> |                 |                                                                         |
+> | --------------- | ----------------------------------------------------------------------- |
+> | **Hierarchy**   | Regional House                                                          |
+> | **Region**      | [[Tarldet Plains]]                                                      |
+> | Loyal To        | Emperor [[Rehobath Ylestos]]                                            |
 > | Notable Figures | [[Tyree Wenglid]], [[Ramo Wenglid]], [[Kang Wenglid]], [[Jaya Wenglid]] |
 
 ### 🦅 Overview & Cultural Alignment
@@ -37,38 +38,34 @@ This alignment bridges the 1,000-year history of the frontier plains directly wi
 #### Regional Overlord [[Tyree Wenglid]]
 
 - **Immersive Persona Description:** A weathered, stone-faced warlord pushing 70 years of age, whose once-legendary physical power has given way to the scarred, brittle reality of an aging knight. Tyree is an uncompromising hardcase who rules through barking absolute orders, frequently conducting personal, abrasive inspections of frontline garrisons to chew out underperforming officers.
-    
+
 - **Current Temporal Alignment:** As the Elder Lord of the house, Tyree is completely consumed by the impending war, though his advanced age keeps him relegated to betting astronomical fortunes on arena games. He possesses a spooky, borderline supernatural ability to manipulate others into ruinous wagers, holding hundreds of thousands of gold pieces in uncollected markers over rival provincial houses. He is fiercely supportive of the emancipation conscription, viewing the newly freed Orcs and Goblins merely as fresh steel to be ground against his enemies.
-    
+
 - **Pathfinder 2e Stat Block Registry Key:** `Level 9 Human Knight (Anarchist)`
-    
 
 #### Lord [[Ramo Wenglid]]
 
 - **Immersive Persona Description:** A robust, straightforward warrior-crusader nearing his fiftieth year, defined by an impressive, muscular frame and a lifetime spent seeking glory on distant battlefields. Ramo is the designated heir to the Overlord title, having spent his long wait adventuring, overseeing the construction of grand coloseums, and restructuring the regional army.
-    
+
 - **Current Temporal Alignment:** Ramo views the outbreak of the civil war with unbridled enthusiasm. He lacks the political nuance of his brother or the cunning of his father; he is a martial purist who genuinely believes the legendary Tarldet cavalry will easily trample the rebel kingdoms. He is utterly blind to the fact that centuries of peace have left his regular foot soldiers out of practice, operating at an atrophied 2nd to 3rd level. He treats the newly freed conscripts as a temporary necessity to win his glorious war.
-    
+
 - **Pathfinder 2e Stat Block Registry Key:** `Level 10 Human Knight (Scrupulous)`
-    
 
 #### Lord [[Kange Wenglid]]
 
 - **Immersive Persona Description:** Ramo's younger brother, a sharp-featured, analytical diplomat whose cool demeanor stands in stark contrast to his family's roughneck reputation. Possessing a mind brought to a razor-sharp edge by decades of playing complex games of strategy, Kange is an exceptional politician, cool-headed gambler, and the true intellectual spine of the house.
-    
+
 - **Current Temporal Alignment:** Kange is deeply alarmed by his family's blind arrogance. While he has spent years embedded in high-level politics to currying favor with the aristocracy, he sees his brother Ramo as an impatient, short-sighted blunt instrument. Kange does not share the house's confidence regarding the military's preparedness, recognizing that their fighting skills have severely atrophied. He secretly engineered the structural shift in the Wenglid Charter, viewing the emancipation of fighting-age slaves as the only viable way to prevent the total annihilation of their house.
-    
+
 - **Pathfinder 2e Stat Block Registry Key:** `Level 8 Human Noble / Level 3 Knight (Anarchist/Unprincipled)`
-    
 
 #### [[Lady Jaya Wenglid]]
 
 - **Immersive Persona Description:** A stunningly fetching, 23-year-old noblewoman and distant cousin of the main family line, recently returned from elite finishing schools. Outwardly radiating immaculate social grace, Jaya is secretly a highly trained, wily master spy who utilizes seduction and brainwashing to completely compromise the staffs of rival lords.
-    
+
 - **Current Temporal Alignment:** Jaya acts as a dangerous wildcard within the court, tracking Kange’s political movements while mastering strategic games of chance. However, her supreme confidence in her ability to smooth-talk her way out of danger conceals a fatal naivety. She is currently operating as a pawn for her biological father—a shadowy minor noble who, entirely unknown to Jaya, is using her intercepted intelligence to sell state secrets directly to the [[Middle Kingdoms]].
-    
+
 - **Pathfinder 2e Stat Block Registry Key:** `Level 6 Human Spy / Noblewoman (Anarchist/Miscreant)`
-    
 
 ### 🪓 Frontline Military Registry
 
@@ -77,14 +74,13 @@ The standing Wenglid Regional Army is currently **30,000 strong**, supplemented 
 The regular army forces break down into the following operational divisions:
 
 - **The Vanguard Shield (40% Foot Soldiers):** Composed of standard infantry units operating at **2nd to 3rd level**; they are currently out-of-practice and face a brutal awakening on the front lines.
-    
+
 - **The Iron Hooves (25% Cavalry):** The legendary pride of the Tarldet Plains, operating at a more formidable **3rd to 5th level**.
-    
+
 - **The Border Skirmishers (25% Archers):** Formidable frontline marksmen operating at **3rd to 4th level**.
-    
+
 - **The Arcane Battery (5% Practitioners of Magic):** Primarily low-level casters (**1st to 3rd level**) marshaled by a rare few elite tactical spellcasters of **5th to 7th level**.
-    
+
 - **Command Structure:** The vast majority of ranking Wenglid officers are direct family members, capped at a maximum of **6th level**.
 
 ---
-

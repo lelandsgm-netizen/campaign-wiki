@@ -7,10 +7,11 @@ draft: false
 ---
 
 > [!info] Player Profile
-> | | |
-> | --- | --- |
-> | **Name** | Jon |
-> | **Role** | Player |
+>
+> |               |                                                         |
+> | ------------- | ------------------------------------------------------- |
+> | **Name**      | Jon                                                     |
+> | **Role**      | Player                                                  |
 > | **Campaigns** | [[The Deck is Stacked]], [[In The Shadow of the Spire]] |
 
 ## About

@@ -11,14 +11,15 @@ draft: false
 ---
 
 > ###### Information
-> |||
-> |---|---|
-> | **Location Tier**|Region / Imperial Center |
-> | **Former Governing Power** | [[House Itomas]] |
-> | **Current Governing Power** |Contested ([[The Cyclopean Vanguard]] & [[Free Slave Coalition]]) |
-> | **Demographics (Pre-War)** | 43% Human, 19% Elf, 14% Dwarf, 10% Orc, 4% Goblin, 10% Other |
-> | Provinces | [[Waterfall]], [[Rallian]], [[Obrod]], [[Iaendria]], [[Imperial]] |
-> | **Status** | Active Warzone |
+>
+> |                             |                                                                   |
+> | --------------------------- | ----------------------------------------------------------------- |
+> | **Location Tier**           | Region / Imperial Center                                          |
+> | **Former Governing Power**  | [[House Itomas]]                                                  |
+> | **Current Governing Power** | Contested ([[The Cyclopean Vanguard]] & [[Free Slave Coalition]]) |
+> | **Demographics (Pre-War)**  | 43% Human, 19% Elf, 14% Dwarf, 10% Orc, 4% Goblin, 10% Other      |
+> | Provinces                   | [[Waterfall]], [[Rallian]], [[Obrod]], [[Iaendria]], [[Imperial]] |
+> | **Status**                  | Active Warzone                                                    |
 
 ## 📍 Overview
 
@@ -38,8 +39,8 @@ Today, the once-flawless paved roads and lush farmlands of West Kighfalton are t
 
 - **[[Ruins of Syrefald]]**
 - The recently captured capital in the [[Koerdian Mountains]]. Its fall marks the dangerous expansion of the Cyclopes' war machine beyond the borders of West Kighfalton.
- 
+
 - **[[The Undercity Catacombs]]**
 - The sprawling, flawless sewers beneath West Kighfalton's cities are plagued by a massive population of Ratlings (numbering roughly 30% of the original free population). With the human authorities gone, the Ratlings have become a dangerous, unpredictable wild card in the ongoing urban warfare.
-   
+
 - **[[The Bloodied Roads]]** - The famous interlocking brick roads that connect the region's cities and ports. Once the arteries of unmatched imperial commerce, they are now heavily contested supply lines, lined with the wreckage of [[House Decurance]] and [[House Milaszc]] caravans.

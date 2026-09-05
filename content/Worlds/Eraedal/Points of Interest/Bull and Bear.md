@@ -17,7 +17,7 @@ The Bull and Bear is the designated location in the square for purchasing tradit
 ## Prominent Personalities
 
 - **[[Hirus Feek]] & [[Sholum Feek]]:** The two brother blacksmiths who own and operate the armory. They do not forge anything overly fancy, but they are masters of custom-to-order mundane fittings and regularly buy or sell salvaged gear.
-    
+
 - **[[Iltumar Shon]]:** An overeager young human clerk employed at the shop to tend the front counter, manage sales, and assist customers with armor trade-ins.
 
 ## The Iron Alliance Partnership
@@ -25,5 +25,5 @@ The Bull and Bear is the designated location in the square for purchasing tradit
 The Bull and Bear’s partnership with **[[Rastor's Weapons]]** is what keeps it competitive against the massive mass-production industrial foundries of the [[Guildsman District]]:
 
 - **The Steel Reciprocity:** [[Hirus Feek | Hirus]] and [[Sholum Feek | Sholum]] refuse to sell weapons, strictly honoring their pact with [[Cornellius Rastor | Rastor]]. If an adventurer walks in looking for a shield-spike or a gauntlet-dagger, [[Hirus Feek | Hirus]] and [[Sholum Feek | Sholum]] sends them directly to [[Cornellius Rastor | Rastor]] with an armor-smith's voucher ensuring a priority fitting on their next shield purchase.
-    
+
 - **The Custom Fitting Integration:** If a party commissions a custom suit of plate armor from The [[Bull and Bear]], [[Cornellius Rastor | Rastor]] will personally walk over to evaluate the customer's weapon reach and fighting style, ensuring the armor's gauntlets and pauldrons are perfectly articulated to match the player's weapon traits (such as removing penalties for _Agile_ or _Two-Handed_ weapon switching).

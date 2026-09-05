@@ -15,7 +15,7 @@ draft: false
 
 > [!QUOTE]
 > "A stout shield and a heavy hammer are nothing without the heart to push forward. Stand firm, hold the line, and let your laughter shatter the enemy's terror."
-> — *The Strong Hand, Holy Verse of Trudd*
+> — _The Strong Hand, Holy Verse of Trudd_
 
 Trudd is the energetic, jovial god of bravery, active defense, and physical strength. As the youngest son of Torag and Folgrit, he represents the raw, unyielding power of the mountains translated into martial excellence. While his father constructs permanent stone fortifications, Trudd is the mobile wall—throwing himself directly onto the frontlines to act as a shield for those who cannot defend themselves. Unlike the rest of his solemn divine family, Trudd is defined by his easygoing nature, infectious humor, and boisterous lust for life, making him an exceptionally approachable protector.
 
@@ -24,24 +24,27 @@ Trudd is the energetic, jovial god of bravery, active defense, and physical stre
 ## Divine Profile
 
 ### Core Mechanics
-* **Titles:** The Mighty, The Line Breaker, The Shortbeard
-* **Areas of Concern:** Bravery, physical strength, active defense, and protective guardianship.
-* **Divine Font:** *Heal*
-* **Divine Attribute:** Strength or Constitution
-* **Divine Skill:** Athletics
-* **Favored Weapon:** Warhammer
-* **Divine Sanctification:** Must choose Holy
-* **Domains:** Confidence, Duty, Might, Protection
-* **Alternate Domains:** Earth, Zeal
+
+- **Titles:** The Mighty, The Line Breaker, The Shortbeard
+- **Areas of Concern:** Bravery, physical strength, active defense, and protective guardianship.
+- **Divine Font:** _Heal_
+- **Divine Attribute:** Strength or Constitution
+- **Divine Skill:** Athletics
+- **Favored Weapon:** Warhammer
+- **Divine Sanctification:** Must choose Holy
+- **Domains:** Confidence, Duty, Might, Protection
+- **Alternate Domains:** Earth, Zeal
 
 ### Devotee Benefits
-* **1st-Level Spells:** *Endure*
-* **3rd-Level Spells:** *Haste*
-* **4th-Level Spells:** *Mountain resilience* (formerly *Stoneskin*)
+
+- **1st-Level Spells:** _Endure_
+- **3rd-Level Spells:** _Haste_
+- **4th-Level Spells:** _Mountain resilience_ (formerly _Stoneskin_)
 
 ### Edicts & Anathema
-* **Edicts:** Offer your physical strength to aid communities in need; protect those who are weaker or vulnerable; maintain peak physical conditioning; face danger with a brave, joyful heart.
-* **Anathema:** Engage in petty, arrogant demonstrations of strength to humiliate others; use your strength to tyrannize, extort, or take advantage of the weak; allow fear to make you abandon a defensive line you swore to hold.
+
+- **Edicts:** Offer your physical strength to aid communities in need; protect those who are weaker or vulnerable; maintain peak physical conditioning; face danger with a brave, joyful heart.
+- **Anathema:** Engage in petty, arrogant demonstrations of strength to humiliate others; use your strength to tyrannize, extort, or take advantage of the weak; allow fear to make you abandon a defensive line you swore to hold.
 
 ---
 
@@ -56,9 +59,11 @@ His holy symbol is a heavy dwarven warhammer set directly in front of a polished
 ## Canonical Eraedal History & Mythos
 
 ### The Mountain's Gift
+
 Divine myth states that when Torag was crafting his family, he stepped back and realized he had not yet given his beloved wife, Folgrit, a child who inherited the raw, dynamic momentum of the tectonic stone. To fill this void, Torag forged Trudd. From his first breath, Trudd was designated as his father's strong left hand, appointed as the high general of heaven’s armies. Whenever Torag must travel across the Great Beyond on cosmic business, it is Trudd who sits upon the auxiliary anvil, standing watch over the planar fortress of **Forgeheart** to smash back any abyssal or infernal breaches.
 
 ### Out of the Mountains
+
 For thousands of years, Trudd's worship was strictly contained within subterranean dwarven vaults and Sky Citadels. However, everything changed during the modern cataclysms when Tar-Baphon, the Whispering Tyrant, shattered his seals. Dwarven knights fighting alongside the Knights of Lastwall brought their shrines of Trudd to the surface camps to bolster morale. His message of joy in the face of absolute doom resonated deeply on the blood-soaked surface. Today, his faith is steadily spreading to humans, half-elves, and even open-minded orcs. Trudd has warmly accepted these diverse surface groups, acting as a loving, protective adoptive father to anyone willing to hold the shield line.
 
 ---
@@ -67,11 +72,11 @@ For thousands of years, Trudd's worship was strictly contained within subterrane
 
 Trudd is a universal favorite in the halls of Forgeheart, acting as a breath of fresh air amidst the rigid protocols of his older siblings.
 
-| Deity / Faction | Dynamic & Lore |
-| --- | --- |
-| **Torag & Folgrit** | **The Loyal Son.** Trudd respects his parents completely and executes his military duties with absolute joy. Folgrit quietly worries about his frontline recklessness, while Torag commands his left hand with absolute tactical trust. |
-| **Cayden Cailean** | **The Drunken Tryst.** Trudd loves to slip away from his rigid family duties to travel the multiverse. He has struck up a friendly, highly competitive Bromance with the Drunken God, frequently sharing drinks, brawls, and adventures. |
-| **Bolka** | **Maternal Nagging.** As the goddess of marriage and committed relationships, his sister Bolka is utterly fascinated—and deeply annoyed—by Trudd's casual flings. She is constantly meddling, trying to force Trudd to turn to a serious, traditional dwarven union. |
+| Deity / Faction       | Dynamic & Lore                                                                                                                                                                                                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Torag & Folgrit**   | **The Loyal Son.** Trudd respects his parents completely and executes his military duties with absolute joy. Folgrit quietly worries about his frontline recklessness, while Torag commands his left hand with absolute tactical trust.                                         |
+| **Cayden Cailean**    | **The Drunken Tryst.** Trudd loves to slip away from his rigid family duties to travel the multiverse. He has struck up a friendly, highly competitive Bromance with the Drunken God, frequently sharing drinks, brawls, and adventures.                                        |
+| **Bolka**             | **Maternal Nagging.** As the goddess of marriage and committed relationships, his sister Bolka is utterly fascinated—and deeply annoyed—by Trudd's casual flings. She is constantly meddling, trying to force Trudd to turn to a serious, traditional dwarven union.            |
 | **Kols & Grundinnar** | **Sibling Friction.** Kols constantly follows Trudd around to audit his logs and make sure he isn't shirking his eternal contracts, while the missing Grundinnar used to exhaust him with endless diplomatic talk. Despite finding them infuriating, Trudd loves them fiercely. |
 
 ---

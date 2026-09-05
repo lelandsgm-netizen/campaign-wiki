@@ -11,14 +11,15 @@ draft: true
 ---
 
 > ###### Information
-> | | |
-> | --- | --- |
-> | **World** | "" |
-> | **Type** | "Point of Interest" |
-> | **Location** | "" |
-> | **Associated location** | "" |
-> | **Tags** | `#eraedal`, `#point-of-interest` |
-> | **Draft** | true |
+>
+> |                         |                                  |
+> | ----------------------- | -------------------------------- |
+> | **World**               | ""                               |
+> | **Type**                | "Point of Interest"              |
+> | **Location**            | ""                               |
+> | **Associated location** | ""                               |
+> | **Tags**                | `#eraedal`, `#point-of-interest` |
+> | **Draft**               | true                             |
 >
 > Use `location:` for the broader area and `associated_location:` for the specific site or neighborhood.
 

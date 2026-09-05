@@ -12,12 +12,13 @@ draft: false
 ---
 
 > [!info] Character Profile
-> | | |
-> | --- | --- |
-> | **Ancestry & Heritage** | |
-> | **Class & Level** | |
-> | **Player** | |
-> | **Campaign** | |
+>
+> |                         |     |
+> | ----------------------- | --- |
+> | **Ancestry & Heritage** |     |
+> | **Class & Level**       |     |
+> | **Player**              |     |
+> | **Campaign**            |     |
 
 ## Core Statistics
 

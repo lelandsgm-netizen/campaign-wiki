@@ -9,4 +9,3 @@ tags:
   - npc
 draft: true
 ---
-

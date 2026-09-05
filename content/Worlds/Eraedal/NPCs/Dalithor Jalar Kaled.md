@@ -10,9 +10,7 @@ tags:
 draft: false
 ---
 
-> "Dwarvenhearth isn't a tomb to be wept over. It's a house with the Hearth out. I intend to Light the fire." 
-> 
-> 
+> "Dwarvenhearth isn't a tomb to be wept over. It's a house with the Hearth out. I intend to Light the fire."
 
 ### Overview
 
@@ -23,17 +21,14 @@ Cast out by his father to prevent him from leading the dwarven youth on a "suici
 ---
 
 ### Profile
-* 
-**Ancestry:** Stonelost Dwarf (Pathfinder 2e) 
-* 
-**Background:** Artisan / Prince (Exile) 
-* 
-**Class/Role:** Fighter / Master Mason 
-* 
-**Location:** Midtown Enclave (Northern cluster near the river bridge) 
-* 
-**Factions:** Stonelost Exiles (Leader) , Delver's Guild (Secret Ally/Informant) 
-* 
+
+-
+
+**Ancestry:** Stonelost Dwarf (Pathfinder 2e) *
+**Background:** Artisan / Prince (Exile) *
+**Class/Role:** Fighter / Master Mason *
+**Location:** Midtown Enclave (Northern cluster near the river bridge) *
+**Factions:** Stonelost Exiles (Leader) , Delver's Guild (Secret Ally/Informant) *
 **Primary Motivation:** To gather the resources, historical relics, and frontline allies necessary to clear out the defilement of Dwarvenhearth, proving his family's generational guilt wrong.
 
 ---
@@ -64,7 +59,7 @@ Dalithor is highly invested in the actions of the party's **War Cleric of Trudd 
 
 ### Vault Links & Tags
 
-* **Tags:** `#NPC/Midtown` `#Faction/Stonelost` `#Plot/Dwarvenhearth`
-* **Internal Links:** `[[Midtown]]`, `[[Dwarvenhearth]]`, `[[Kaled Del]]`, `[[Delver's Guild]]`, `[[Delver's Square]]`, `[[Trudd the Mighty]]`, `[[Wilgard (Willie) Gramm]]`
+- **Tags:** `#NPC/Midtown` `#Faction/Stonelost` `#Plot/Dwarvenhearth`
+- **Internal Links:** `[[Midtown]]`, `[[Dwarvenhearth]]`, `[[Kaled Del]]`, `[[Delver's Guild]]`, `[[Delver's Square]]`, `[[Trudd the Mighty]]`, `[[Wilgard (Willie) Gramm]]`
 
 ---

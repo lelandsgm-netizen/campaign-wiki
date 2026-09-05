@@ -11,13 +11,14 @@ draft: true
 ---
 
 > [!info] Campaign Overview
-> | | |
-> | --- | --- |
-> | **Game Master** | |
-> | **System** | |
-> | **Players** | |
-> | **World** | |
-> | **Tools** | |
+>
+> |                 |     |
+> | --------------- | --- |
+> | **Game Master** |     |
+> | **System**      |     |
+> | **Players**     |     |
+> | **World**       |     |
+> | **Tools**       |     |
 
 ---
 

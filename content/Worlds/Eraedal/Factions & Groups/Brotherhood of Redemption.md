@@ -15,4 +15,3 @@ tags:
   - faction
 draft: true
 ---
-

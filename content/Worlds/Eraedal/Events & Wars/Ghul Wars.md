@@ -22,7 +22,7 @@ draft: false
 > BE = Before the Empire
 > <br>
 > IA = Imperial Age
-<br><br>
+> <br><br>
 
 > [!faq]
 > **350 BE:** The dwarves of Dwarvenhearth observe that someone has moved onto the Spire near their city and has begun building a fortress. Their spies reveal it to be Ghul the Half God, the Skull King who claims to be the son of Eslathagos Malkith, an evil lord from the distant past. Ghul calls his fortress Goth Gulgamel and builds it by the labor of orcs he created (the Toruk-Rul tribe, whose name means “closing fist”).
@@ -78,4 +78,4 @@ draft: false
 
 > [!tip]
 > **1 IA:** The Lion-Guarded Throne proclaims Imperial control over the lands around the Western Empire. The Age of the Imperial Order begins.
-See [[Western Empire]] to continue timeline.
+> See [[Western Empire]] to continue timeline.

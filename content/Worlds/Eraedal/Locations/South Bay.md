@@ -36,10 +36,10 @@ There is no formal human or civilized governance on South Bay. The island is eff
 
 ### Habitat and Ecology
 
--   **Tatzelwurms:** These legless, draconic beasts are the dominant species. They are most abundant in the rocky hills, open grasslands, the abandoned ghost town, and the nearby shipwreck. They are least common in the dense jungle areas.
-    -   **Pack Dynamics:** Tatzelwurms are highly territorial and aggressive, forming packs ranging from two dozen to as many as eighty individuals. These packs roam the land, conducting ferocious night-hunts that make no traveler safe.
-    -   **Diet:** Their primary diet consists of lizards, small rodents, and birds' eggs.
--   **Local Wildlife:** In addition to the tatzelwurms, the island supports typical Floenry chain wildlife, including white-tailed deer, monkeys, small rodents, lizards, snakes, and birds. Notably, South Bay is entirely free of larger apex monsters like drakes or wyverns, allowing the tatzelwurms to fill that ecological niche.
+- **Tatzelwurms:** These legless, draconic beasts are the dominant species. They are most abundant in the rocky hills, open grasslands, the abandoned ghost town, and the nearby shipwreck. They are least common in the dense jungle areas.
+  - **Pack Dynamics:** Tatzelwurms are highly territorial and aggressive, forming packs ranging from two dozen to as many as eighty individuals. These packs roam the land, conducting ferocious night-hunts that make no traveler safe.
+  - **Diet:** Their primary diet consists of lizards, small rodents, and birds' eggs.
+- **Local Wildlife:** In addition to the tatzelwurms, the island supports typical Floenry chain wildlife, including white-tailed deer, monkeys, small rodents, lizards, snakes, and birds. Notably, South Bay is entirely free of larger apex monsters like drakes or wyverns, allowing the tatzelwurms to fill that ecological niche.
 
 ### Historical Context
 

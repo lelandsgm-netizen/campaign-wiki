@@ -17,7 +17,7 @@ draft: false
 > **Colonized Islands:** 3
 
 ![Floenry Isles](floenry-isles.png)
-*Image Credit: Art by [Will Ervin](https://www.deviantart.com/will-erwin)*
+_Image Credit: Art by [Will Ervin](https://www.deviantart.com/will-erwin)_
 
 ## Overview
 
@@ -52,71 +52,57 @@ The Floenry Isles archipelago comprises fourteen distinct islands, each with uni
 ### 1. [[Oen]] Island
 
 One of the three successfully colonized islands, home to roughly 43,000 residents. White sand beaches give way to scattered fishing villages and vast sugar cane fields. The capital is Port [[Oen]].
-    
 
 ### 2. [[Enry]] Island
 
 The largest and most heavily populated island in the chain, with approximately 78,000 residents. Features the supply harbor of [[Port Miro]].
-    
 
 ### 3. [[Lyrd]] Isle
 
 A dense, suffocating jungle territory. Historical attempts at colonization have resulted in unexplained deaths and disappearances.
-    
 
 ### 4. [[Dragon's Roost]]
 
 A lush tropical island rimmed by jagged cliffs that make naval landings nearly impossible. Known to harbor populations of large, dangerous creatures in its interior valleys.
-    
 
 ### 5. [[South Bay]] Island
 
 Rocky, rolling hills that once hosted a failed Western Empire settlement attempt. Now largely abandoned and infested.
-    
 
 ### 6. [[Grimbor Island]]
 
 Located in the center of the Floenry chain, this island is the primary homeland of the giant, ape-like Grimbor. The jungle contains massive stone megaliths and an ancient 300-foot-tall pyramid structure at the island's center.
-    
 
 ### 7. [[East Mnn]]
 
 A small, pristine stretch of beach and untouched jungle approximately 50 miles long. Features a self-sufficient farming and lobster-trapping community. Deep within its interior stand three beautifully preserved 300-foot-tall ancient stone pyramids.
-    
 
 ### 8. [[West Mnn]]
 
 Situated at the edge of the island chain. The southern port town serves as a haven for fishermen and traders. Known for rum production.
-    
 
 ### 9. Isle of [[Burcee]]
 
 The second of the three successfully colonized islands. Claimed firmly by the [[Land of the South Winds]], the native rainforest has been largely clear-cut to make way for massive banana and sugar cane farms.
-    
 
 ### 10. Island of [[Totugo]]
 
 A notable stronghold and staging harbor in the southern seas.
-    
 
 ### 11. The Serpent’s Tooth
 
 Located 26 miles off the coast of [[Oen]], this island is dry, rocky, and barren. The surrounding waters are heavily infested with aggressive sea serpents.
-    
 
 ### 12. [[The Rock]]
 
 A completely barren, 10-mile-wide mound of solid volcanic rock and dried lava jutting from the ocean. Entirely devoid of plant or animal life.
-    
 
 ### 13. [[Osto]]
 
 A pristine tropical paradise untouched by colonial expansion. Dense rain forests alive with populations of monkeys and exotic jungle birds. Small, isolated tribes inhabit the interior.
-    
 
 ### 14. [[The Finger]]
 
 - **Status:** Wilderness Outpost
-    
+
 - **Summary:** A tiny, isolated island sitting just off the coast of [[Osto]]. It functions essentially as a miniature clone of its sister island—completely wild, densely forested, and entirely free of civilized settlements or colonial footprints.
-    

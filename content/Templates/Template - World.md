@@ -10,15 +10,16 @@ draft: true
 ---
 
 > ###### Information
-> | | |
-> | --- | --- |
-> | **World** | "" |
-> | **Type** | "World" |
-> | **Location** | "" |
-> | **Associated location** | "" |
-> | **Tags** | `#world` |
-> | **Draft** | true |
 >
+> |                         |          |
+> | ----------------------- | -------- |
+> | **World**               | ""       |
+> | **Type**                | "World"  |
+> | **Location**            | ""       |
+> | **Associated location** | ""       |
+> | **Tags**                | `#world` |
+> | **Draft**               | true     |
+
 ## Overview
 
 Describe the world, its major scope, themes, and major regions.

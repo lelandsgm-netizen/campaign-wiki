@@ -22,7 +22,6 @@ Rastor looks exactly like the life he has led. He is a broad-shouldered, barrel-
 
 His most defining physical trait is his left leg, which was taken off below the knee during an imperial siege. Instead of a standard, fragile wooden peg, Rastor sports a heavy, custom-forged iron and darkwood prosthetic. He moves around his shop with a rhythmic, heavy _clank-thud_ that gives everyone in the square fair warning of his approach. He typically wears a heavy, grease-stained leather smithing apron over plain, hard-wearing wool clothes, with a pair of fine, steel-reinforced gloves permanently tucked into his belt.
 
-
 ## The Party’s Relationship & Dynamic
 
 For your party, Rastor is the pragmatic muscle of Delver's Square commerce. He treats them with a gruff but genuine professional respect, especially as they prove they aren't just decorative surface-dwellers.
@@ -30,14 +29,13 @@ For your party, Rastor is the pragmatic muscle of Delver's Square commerce. He t
 ### What Rastor Will Do For the Party:
 
 1. **The Reliable Armorer:** He sells common traditional weapons up to **Item Level 8**, specializing in masterwork craftsmanship, cold iron, and silver weapons perfectly suited to bypass the resistances of dungeon terrors.
-    
+
 2. **Used Gear Liquidation:** Through his **Iron Alliance** partnership with Jeron at the [[Bull and Bear]], Rastor will evaluate and buy used magical or mundane martial weapons salvaged by the party at a flat **50% of market value**, providing an easy cash pipeline for their extra battlefield loot.
-    
+
 3. **The Iron Token:** Whenever the party buys a primary martial weapon from him, he slips them a stamped iron token, granting them a **5% discount on custom armor refitting** across the square at the [[Bull and Bear]].
-    
 
 ### What Rastor Will NOT Do:
 
 1. **No Soft Goods:** If the party walks in looking for spell scrolls, magical rings, or silk ropes, Rastor will merely point a calloused finger out the window toward [[Myraeth's Oddities]] or [[Ebbert's Outfitters]].
-    
+
 2. **No Free Handouts:** He doesn't offer lines of credit to "unproven blood." If the party is short on gold pieces, Rastor will happily hold a weapon for them under a strict layout plan, but it doesn't leave his high-security racks until the last copper is paid.

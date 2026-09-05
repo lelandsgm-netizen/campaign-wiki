@@ -23,27 +23,25 @@ Behind the GM screen, use this framework to govern how the party interacts with 
 ### The Buying and Selling Matrix
 
 - **Magic Items, Consumables, and Curiosities:** [[Myraeth Thistlebrush | Myraeth]] will purchase identified magic items, potions, rings, wands, and scrolls from the party at the standard **50% of the item's gold piece value**.
-    
+
 - **The Non-Martial Rule:** If the party attempts to sell magical longswords, enchanted breastplates, or firearms, [[Myraeth Thistlebrush | Myraeth]] will entirely refuse the transaction.
-    
+
 - **Inventory Level:** As a premier shop in a major high-magic metropolis, [[Myraeth Thistlebrush | Myraeth]]'s Oddities typically carries common magic items up to **Item Level 10** in stock. Uncommon or higher-level items rotate frequently based on what local delvers have recently salvaged.
-    
 
 ### Specialized Services: Item Identification
 
 If the party brings in an item with the _Magical_ trait that requires identification, [[Myraeth Thistlebrush | Myraeth]] can be hired to perform the _Identify Magic_ exploration activity using his advanced skill in Arcana, Occultism, Religion, or Nature.
 
 - **Cost:** 10% of the item's standard market value (minimum 5 gp).
-    
+
 - **Benefit:** Using [[Myraeth Thistlebrush | Myraeth]] bypasses the party's daily check limits and guarantees an accurate identification, completely removing the risk of a critical failure misidentifying a cursed item.
-    
 
 ## Under-the-Hood: Security & Wards
 
 Because magic is culturally ubiquitous in Ptolus and low-level spells surprise no one, [[Myraeth Thistlebrush | Myraeth]]'s shop is protected like an absolute vault to deter invisible thieves and magical compulsion.
 
 - **The Anti-Compulsion Ward:** The entire interior is under a permanent magical ward that heightens the Will DCs of all creatures inside against _Mental_, _Charm_, and _Compulsion_ traits. Attempting to cast a spell like _charm_ to lower prices is an immediate city crime and triggers a silent alarm directly connected to Midtown Watchhouse Post 4.
-    
+
 - **True Sight Scanners:** Suspended above the main counter is a localized, clockwork-mounted glass lens enchanted with a permanent _See the Unseen_ effect, mapping out the presence of any invisible or shifted entities trying to pocket inventory.
-    
+
 - **Physical Backup:** [[Myraeth Thistlebrush | Myraeth]] employs two silent, heavily armored stone golems disguised as decorative statues in the corners of the room, ready to physically subdue any rowdy mercenaries who think a wizard's shop is an easy target.

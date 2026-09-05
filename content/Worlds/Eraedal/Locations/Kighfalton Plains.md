@@ -15,12 +15,13 @@ otherInformation: ""
 ---
 
 > ###### Information
-> | | |
-> | --- | --- |
-> | **Location Tier** | "" |
-> | **Region** | "" |
-> | **Governing Power** | "" |
-> | **Other information** | "" |
+>
+> |                       |     |
+> | --------------------- | --- |
+> | **Location Tier**     | ""  |
+> | **Region**            | ""  |
+> | **Governing Power**   | ""  |
+> | **Other information** | ""  |
 
 ## Overview
 

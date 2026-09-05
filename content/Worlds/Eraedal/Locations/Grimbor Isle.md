@@ -17,14 +17,15 @@ draft: false
 ---
 
 > ###### Information
-> | | |
-> | --- | --- |
-> | **World** | Eraedal |
-> | **Type** | Location |
-> | **Location** | Island in the center of the Floenry chain, namesake of the Grimbor. |
-> | **Associated location** | Floenry Isles |
-> | **Tags** | `#eraedal`, `#location`, `#island`, `#grimbor`, `#ruins`, `#dangerous`, `#ape-men`, `#primal` |
-> | **Draft** | false |
+>
+> |                         |                                                                                               |
+> | ----------------------- | --------------------------------------------------------------------------------------------- |
+> | **World**               | Eraedal                                                                                       |
+> | **Type**                | Location                                                                                      |
+> | **Location**            | Island in the center of the Floenry chain, namesake of the Grimbor.                           |
+> | **Associated location** | Floenry Isles                                                                                 |
+> | **Tags**                | `#eraedal`, `#location`, `#island`, `#grimbor`, `#ruins`, `#dangerous`, `#ape-men`, `#primal` |
+> | **Draft**               | false                                                                                         |
 
 ## Overview
 
@@ -40,10 +41,10 @@ Grimbor Isle is governed by the powerful Grimbor tribe, led by a chieftain. Thei
 
 ## Points of Interest
 
--   **The Massive Temple Pyramid**
-    -   A colossal, ancient structure in the southern part of the island, partially toppled but still an impressive 300 feet tall. It serves as the primary home and defensive stronghold for the majority of the Grimbor tribe, particularly its summit. Numerous dark doorways lead into hollow chambers and tunnel networks, though these are rarely inhabited.
--   **The Canopy Scaffold**
-    -   An intricate, multi-tiered network of wooden platforms, vine suspension bridges, and hidden hunting blinds constructed by the agile Charau-ka Grimbor variant within the flowering green canopy surrounding the pyramid. This scaffold allows for three-dimensional warfare, rapid repositioning, and provides tactical advantages like cover and surprise attacks.
+- **The Massive Temple Pyramid**
+  - A colossal, ancient structure in the southern part of the island, partially toppled but still an impressive 300 feet tall. It serves as the primary home and defensive stronghold for the majority of the Grimbor tribe, particularly its summit. Numerous dark doorways lead into hollow chambers and tunnel networks, though these are rarely inhabited.
+- **The Canopy Scaffold**
+  - An intricate, multi-tiered network of wooden platforms, vine suspension bridges, and hidden hunting blinds constructed by the agile Charau-ka Grimbor variant within the flowering green canopy surrounding the pyramid. This scaffold allows for three-dimensional warfare, rapid repositioning, and provides tactical advantages like cover and surprise attacks.
 
 ## Notes
 
@@ -61,4 +62,4 @@ The Grimbor are believed to be the direct, regressed descendants of the pyramid'
 
 ### The Grimbor Chieftain
 
-The tribe is led by a powerful **Level 6 leader** who wields a prized trophy, a unique ***+1 striking shocking heavy mace*** embedded with primal runes, which the tribe calls the "demon's own war club." This weapon leverages the Chieftain's immense Strength for devastating bludgeoning blows and electrical crackle. Three times per day, it can unleash a concentrated bolt of electricity (40 ft range) or cast ***translocation***, allowing the Chieftain to instantaneously reposition across the battlefield to defend the pyramid with exceptional skill.
+The tribe is led by a powerful **Level 6 leader** who wields a prized trophy, a unique _**+1 striking shocking heavy mace**_ embedded with primal runes, which the tribe calls the "demon's own war club." This weapon leverages the Chieftain's immense Strength for devastating bludgeoning blows and electrical crackle. Three times per day, it can unleash a concentrated bolt of electricity (40 ft range) or cast _**translocation**_, allowing the Chieftain to instantaneously reposition across the battlefield to defend the pyramid with exceptional skill.

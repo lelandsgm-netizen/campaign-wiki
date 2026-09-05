@@ -11,16 +11,18 @@ draft: false
 ---
 
 > ###### Information
-> | | | 
-> | --- | --- |
-> | **Location Tier** | City |
-> | **Region** | [[Oceanside]] |
-> | Other information | N/A
+>
+> |                     |                     |
+> | ------------------- | ------------------- |
+> | **Location Tier**   | City                |
+> | **Region**          | [[Oceanside]]       |
+> | Other information   | N/A                 |
 > | **Governing Power** | [[Council of Coin]] |
 
 ---
+
 ![Map of Ptolus](ptolus-map.jpg)
-*Image Credit: Art from [Ptol.us site Admin Ellis Benus](https://www.ptol.us)*
+_Image Credit: Art from [Ptol.us site Admin Ellis Benus](https://www.ptol.us)_
 
 ## Ptolus: City by the Spire
 
@@ -33,13 +35,12 @@ The setting represents a world where the mechanics of traditional fantasy rolepl
 Despite being a distant edge of the Empire, Ptolus boasts a highly structured and heavily guarded society.
 
 - **[[Council of Coin| The City Council]]:** The city is ostensibly ruled by this council, which locals refer to as the "Council of Coin" due to the immense wealth of its members.
-    
+
 - **[[Igor Urnst | The Commissar]]:** Igor Urnst is the Imperial representative and the true ruler of the city.
-    
+
 - **[[City Watch | The City Watch]]:** Operating out of the ancient fortress of [[Dalenguard]], the Watch consists of over eight hundred well-trained guards, mages, and clerics who actively police the streets.
-    
+
 - **[[Sisterhood of Silence]]:** A self-appointed order of nonspeaking female monks who patrol the city to apprehend criminals.
-    
 
 ### The City Districts
 
@@ -65,26 +66,25 @@ Ptolus is built across varying elevations, separated by sheer cliffs and connect
 The true draw of Ptolus is the vast, labyrinthine network of subterranean ruins located beneath the city streets, collectively referred to by locals as "the [[Dungeon]]".
 
 - The first layer consists of the city's active sewer system.
-    
+
 - Deeper down lies the [[Undercity Market]], a subterranean staging ground where adventurers buy supplies, hire guides, and interact with outcast races.
-    
+
 - The deeper levels contain subterranean [[Labyrinth | chambers built by the ancient Half God, Ghul]].
-    
+
 - Explorers also seek the ruins of an even older, forgotten city buried in the depths.
-    
+
 - One of the greatest prizes is [[Dwarvenhearth]], a massive, abandoned underground dwarven settlement.
-    
 
 ### Key Factions and Organizations
 
 The city is deeply layered with political intrigue, driven by inherited wealth, magical guilds, and organized crime.
 
 - **[[The Noble Houses]]:** Ten ancestral families—such as the mercantile [[House Abanar]], the shadow-magic wielding [[House Sadar]], and the dragon-affiliated [[House Dallimothan]]—hold immense wealth and hereditary seats on the [[Council of Coin | City Council]].
-    
+
 - **The [[Delver's Guild]]:** A powerful association boasting hundreds of members that provides maps, bounties, and retrieval insurance for adventurers exploring the Dungeon.
-    
+
 - **The [[Dreaming Apothecary]]:** A secretive, highly powerful group of spellcasters that monopolizes the creation of magic items by conducting transactions directly within their clients' dreams.
-    
+
 - **[[House Balacazar | Balacazar Crime Family]]:** The city's oldest and most powerful criminal syndicate, deeply involved in smuggling, assassination, and dark magic.
-    
+
 - **[[Fallen | The Fallen]]:** A faction of actual demons residing in the Dark Reliquary of the Necropolis alongside a death-cult known as the Forsaken.

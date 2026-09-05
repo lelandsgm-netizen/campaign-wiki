@@ -7,10 +7,11 @@ draft: false
 ---
 
 > [!info] Player Profile
-> | | |
-> | --- | --- |
-> | **Name** | Jason |
-> | **Role** | Player / Game Master |
+>
+> |               |                                                                                       |
+> | ------------- | ------------------------------------------------------------------------------------- |
+> | **Name**      | Jason                                                                                 |
+> | **Role**      | Player / Game Master                                                                  |
 > | **Campaigns** | [[The Deck is Stacked]], [[In The Shadow of the Spire]], [[The Beginning of the End]] |
 
 ## About

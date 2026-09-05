@@ -38,13 +38,14 @@ Dragon Roost possesses no civilized governance. The island's harsh environment a
 ## Notes
 
 ### Inhabitants
+
 Dragon Roost is home to a diverse and dangerous array of primordial creatures:
 
--   **Horned Dragons:** Mighty Primal-tradition dragons, typically found in groups of up to two dozen adults and a handful of young, roaming the deepest jungle valleys. They are terrifying, localized apex predators, characterized by raw physical brutality, tracking abilities, and the capacity to impale victims on their massive horns. Their magic ties directly to nature, weather, and the elements. They are known for being extremely territorial, mean-tempered, and aggressive.
--   **Harpies:** Frequently seen circling the hills, preying on the young and weak among the island's creatures, possibly including young dragons.
--   **Drakes, Basilisks, Wyverns, Chimeras, and Sphinx:** Other dangerous creatures that have been reported by survivors of past expeditions.
--   **Sea Devils:** A large tribe resides under the waves along the rocky north coast.
--   **Deep-sea Serpents:** Commonly sighted around the south, north, and eastern shores, potentially preying on the local sea devil population.
+- **Horned Dragons:** Mighty Primal-tradition dragons, typically found in groups of up to two dozen adults and a handful of young, roaming the deepest jungle valleys. They are terrifying, localized apex predators, characterized by raw physical brutality, tracking abilities, and the capacity to impale victims on their massive horns. Their magic ties directly to nature, weather, and the elements. They are known for being extremely territorial, mean-tempered, and aggressive.
+- **Harpies:** Frequently seen circling the hills, preying on the young and weak among the island's creatures, possibly including young dragons.
+- **Drakes, Basilisks, Wyverns, Chimeras, and Sphinx:** Other dangerous creatures that have been reported by survivors of past expeditions.
+- **Sea Devils:** A large tribe resides under the waves along the rocky north coast.
+- **Deep-sea Serpents:** Commonly sighted around the south, north, and eastern shores, potentially preying on the local sea devil population.
 
 ### Danger Level
 

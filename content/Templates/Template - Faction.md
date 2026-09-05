@@ -11,14 +11,15 @@ draft: true
 ---
 
 > ###### Information
-> | | |
-> | --- | --- |
-> | **World** | "" |
-> | **Type** | "Faction" |
-> | **Location** | "" |
-> | **Associated location** | "" |
-> | **Tags** | `#eraedal`, `#faction` |
-> | **Draft** | true |
+>
+> |                         |                        |
+> | ----------------------- | ---------------------- |
+> | **World**               | ""                     |
+> | **Type**                | "Faction"              |
+> | **Location**            | ""                     |
+> | **Associated location** | ""                     |
+> | **Tags**                | `#eraedal`, `#faction` |
+> | **Draft**               | true                   |
 
 ## Overview
 

@@ -12,20 +12,20 @@ draft: false
 ---
 
 > [!info] Campaign Overview
-> | | |
-> | --- | --- |
-> | **Game Master** | [[Leland]] |
-> | **System** | [[Pathfinder 2E Remaster]] |
-> | **Players** | [[Jason]], [[Jon]], [[Brian]], [[Jurney]] |
-> | **Tools** | [[Quest Portal]], [[Herolab Online]] |
-> | **World** | [[Eraedal]] |
 >
+> |                 |                                           |
+> | --------------- | ----------------------------------------- |
+> | **Game Master** | [[Leland]]                                |
+> | **System**      | [[Pathfinder 2E Remaster]]                |
+> | **Players**     | [[Jason]], [[Jon]], [[Brian]], [[Jurney]] |
+> | **Tools**       | [[Quest Portal]], [[Herolab Online]]      |
+> | **World**       | [[Eraedal]]                               |
 
 ---
+
 ![[eraedal.png]]
 <br><br>
+
 > [!done] Campaign Notes
 > [[spire-2026-06-05]]
 > [[spire-2026-06-12]]
->
->

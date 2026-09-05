@@ -7,11 +7,12 @@ draft: false
 ---
 
 > [!info] Player Profile
-> | | |
-> | --- | --- |
-> | **Name** | |
-> | **Role** | |
-> | **Campaigns** | |
+>
+> |               |     |
+> | ------------- | --- |
+> | **Name**      |     |
+> | **Role**      |     |
+> | **Campaigns** |     |
 
 ## About
 

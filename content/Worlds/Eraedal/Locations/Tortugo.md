@@ -29,33 +29,33 @@ The Pirate Federation officially governs Tortugo, having usurped control five ye
 
 ## Points of Interest
 
--   **Port Town of Tortugo**
-    -   The bustling heart of the island, prospering immensely on plundered wealth and black-market commerce. It caters to the main Federation fleet and numerous independent privateers. Features Federation-managed counting houses, pawn shops, gambling dens, rowdy taverns, fortified inns, and secure meeting halls.
--   **Harbor Facilities**
-    -   Capable of handling formal shipping traffic, with expansive warehouses, modern dry docks, and comprehensive repair facilities capable of refitting heavy warships.
--   **Black-Market Bazaar**
-    -   A massive, sprawling market where virtually any legal or illicit item can be purchased for the right price.
--   **Federation Safehouses**
-    -   Secure, hidden safehouses scattered across the interior, utilized for high-profile fugitives or high-value, identifiable cargo.
+- **Port Town of Tortugo**
+  - The bustling heart of the island, prospering immensely on plundered wealth and black-market commerce. It caters to the main Federation fleet and numerous independent privateers. Features Federation-managed counting houses, pawn shops, gambling dens, rowdy taverns, fortified inns, and secure meeting halls.
+- **Harbor Facilities**
+  - Capable of handling formal shipping traffic, with expansive warehouses, modern dry docks, and comprehensive repair facilities capable of refitting heavy warships.
+- **Black-Market Bazaar**
+  - A massive, sprawling market where virtually any legal or illicit item can be purchased for the right price.
+- **Federation Safehouses**
+  - Secure, hidden safehouses scattered across the interior, utilized for high-profile fugitives or high-value, identifiable cargo.
 
 ## Notes
 
 ### Economy and Services
 
--   The Pirate Federation directly owns and operates approximately 80% of all businesses on the island. Through this syndicate, they provide specialized services to the criminal underworld, including professional scribes, a deniable message delivery network, elite mercenary bodyguards for hire, and disjointed networks of divine or primal spellcasters offering paid magical healing.
+- The Pirate Federation directly owns and operates approximately 80% of all businesses on the island. Through this syndicate, they provide specialized services to the criminal underworld, including professional scribes, a deniable message delivery network, elite mercenary bodyguards for hire, and disjointed networks of divine or primal spellcasters offering paid magical healing.
 
 ### Port Law and Order
 
--   Visiting vessels not formally aligned with the Pirate Federation must pay a standard docking fee of 50 gold pieces (gp) per week to anchor in the sheltered harbor.
--   While public drunkenness, tavern brawls, and formal duels are daily occurrences, a strict order is enforced, with no open defiance of the Federation's mandates tolerated.
+- Visiting vessels not formally aligned with the Pirate Federation must pay a standard docking fee of 50 gold pieces (gp) per week to anchor in the sheltered harbor.
+- While public drunkenness, tavern brawls, and formal duels are daily occurrences, a strict order is enforced, with no open defiance of the Federation's mandates tolerated.
 
 ### Demographics and Infrastructure
 
--   **Civilian Population:** Roughly 500 full-time residents, with approximately 80% being descendants of original colonists. They primarily work as honest farmers, shipwrights, and artisans, often assisting non-pirate travelers to avoid trouble.
--   **Raider Population:** At any given time, 600 to 1,000 active pirates are present in the city, associated with at least six major pirate warships anchored in the deep docks.
+- **Civilian Population:** Roughly 500 full-time residents, with approximately 80% being descendants of original colonists. They primarily work as honest farmers, shipwrights, and artisans, often assisting non-pirate travelers to avoid trouble.
+- **Raider Population:** At any given time, 600 to 1,000 active pirates are present in the city, associated with at least six major pirate warships anchored in the deep docks.
 
 ### Military and Arcane Defenses
 
--   **Coastal Patrols:** The waters surrounding Tortugo are under a permanent, rotating blockade by at least two fully armed pirate warships.
--   **Lookout Towers:** High-Perception coastal lookout towers ensure early detection of approaching threats, allowing the defending fleet ample time to react.
--   **Naval Spellcasters:** Almost every warship in the Federation fleet carries at least one dedicated magical officer (elite arcane, divine, or primal spellcasters) tasked with wind-shaping, counter-spelling, or heavy artillery to counter rival naval spellcasters. The number of high-level spellcasters on the island varies with the fleets in port.
+- **Coastal Patrols:** The waters surrounding Tortugo are under a permanent, rotating blockade by at least two fully armed pirate warships.
+- **Lookout Towers:** High-Perception coastal lookout towers ensure early detection of approaching threats, allowing the defending fleet ample time to react.
+- **Naval Spellcasters:** Almost every warship in the Federation fleet carries at least one dedicated magical officer (elite arcane, divine, or primal spellcasters) tasked with wind-shaping, counter-spelling, or heavy artillery to counter rival naval spellcasters. The number of high-level spellcasters on the island varies with the fleets in port.

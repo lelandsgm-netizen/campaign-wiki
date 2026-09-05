@@ -11,14 +11,15 @@ draft: true
 ---
 
 > ###### Information
-> | | |
-> | --- | --- |
-> | **World** | "" |
-> | **Type** | "Event" |
-> | **Location** | "" |
-> | **Associated location** | "" |
-> | **Tags** | `#eraedal`, `#event` |
-> | **Draft** | true |
+>
+> |                         |                      |
+> | ----------------------- | -------------------- |
+> | **World**               | ""                   |
+> | **Type**                | "Event"              |
+> | **Location**            | ""                   |
+> | **Associated location** | ""                   |
+> | **Tags**                | `#eraedal`, `#event` |
+> | **Draft**               | true                 |
 
 ## Overview
 
