@@ -79,4 +79,4 @@ The rebellion is commanded by a terrifyingly brilliant Orc warlord known as **[[
 
 <br><br>
 > [!done] Campaign Notes
-> [[deck-2026-07-24]]
+> [[deck-2026-07-24]], [[deck-2026-09-04]]
