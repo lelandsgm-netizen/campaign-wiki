@@ -58,7 +58,7 @@ tags:
 > - Bag of Holding
 > * Opened the chest (advanced players guide 2)(Players Guide 1)
 >   * Golden Goblet with gems (🪙1000gp)
->   * **Aegis of the Eternal Moon** (Attuned) Pitted Steel
+>   * **Aegis of the Eternal Moon** (Attuned) Pitted Steel advanced society trials and treasures.
 >   * **Mirror Shield** Reflects a spell (counterspell)
 >   * 2 coconut halves (Of Haste)
 >   * 🟠 ~~929 CP~~ *pooled*
