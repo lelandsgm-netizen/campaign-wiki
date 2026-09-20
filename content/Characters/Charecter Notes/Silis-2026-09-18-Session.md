@@ -53,39 +53,39 @@ tags:
 > [!tip] Magic, Items & Gems
 > * **Rod of Bouncing** *Attuned* **[Price 32,500 gp | Weight 5 lbs]**
 >    * Once per encounter, when a caster wielding this rod successfully casts a single target spell that fails to affect the target (either due to immunities or failed opposed roll), it may be redirected to another eligible target within Range. The redirected spell behaves in all ways as if the new target were the original. Spells that affect a target in any way may not be redirected in this manner.
-> </br></br>
+> </br>
 > * **Rod of Improved Metamagic (Major)** *Attuned* **[Price 64,000 gp | Weight 5 lbs]**
 >    * The wielder of this rod reduces the cost of their Power Modifiers by 2. This may be done three times per day.
-> </br></br>
+> </br>
 > * **All Tools Vest** *Attuned* **[Price 1,800 | Weight 5 lbs]**
 >    * The stitching along the many pockets of this light leather vest depicts cheerful laborers going about their daily work. Once per day, the wearer can order it to bring forth all the standard tools required to craft an object. These tools appear in the countless pockets of the vest, or if too heavy, on the floor, on a nearby shelf, on a workbench, or in a toolbox that appears nearby. Once summoned, they remain for 24 hours or until another creature touches them.
-> </br></br>
+> </br>
 > * **Magic painting set [Unkown Information]**
-> </br></br>
+> </br>
 > * **Undercutting Axe** *Attuned* **[Price 23,310 | Weight 6 lbs]**
 >    * This battleaxe (Str+d8 + 1 , AP 1, Bane (Giant), Damaging) feels unusually heavy, as if it were made from something far heavier than mere wood and steel. Once per day, when its wielder gets a raise on a Fighting roll, the target is affected by lower Trait (Strength) (as if it were cast with a raise).
 > * **Ricochet Hammer** *Attuned* **[Price 20,301 | Weight 10lbs]**
 >    * This throwing hammer functions as a hand axe (Range: 3/6/12, Damage: Str+d6, AP 1, Returning) that can strike multiple foes with a single throw. If the wielder takes multiple actions to attack with the hammer, he may throw the hammer so it rebounds off the first target to strike at a second target, and so on for each of the wielder’s additional attacks. The distance to each target adds to the total range of the weapon.
 >    * For example, a dwarf can throw the hammer at a target 3" away; if it hits, he ricochets it to a second target 6" away from the first target (within medium range). The hammer can only ricochet if it successfully hits a target; if it misses, it stops ricocheting, has no further attacks that round, and returns as normal for a weapon with the returning property. Because ricocheting attacks are treated as separate attacks, modifiers that only apply to one attack roll only apply to the first attack and not the others.
-> </br></br> 
+> </br>
 > * **Bag of Holding [Previous item]**
-> </br></br>
+> </br>
 > * **Golden Goblet with gems (🪙1000gp)**
-> </br></br>
+> </br>
 > * **Aegis of the Eternal Moon *Attuned* From advanced society trials and treasures. Unable to find.
-> </br></br>
+> </br>
 > * **Mirror Shield** *Attuned* Reflects a spell (counterspell) Unable to find
-> </br></br>
+> </br>
 >   * **2 coconut halves (Of Haste)**
-> </br></br>
+> </br>
 >   * 🟠 ~~929 CP~~ *pooled*
 >   * ⚪ ~~3250 SP~~ *pooled*
 >   * 🪙 ~~2793 GP~~ *pooled*
 >   * ⚪ ~~51 PP~~ *pooled*
-> </br></br>
+> </br>
 > * **Mithral Full Plate of Speed** *Attuned* **Armor Value 4 [Price 26,500 | Weight 25 lbs]**
 >    * Twice per day, as a free action, the wearer of this mithral full plate (Aegis) can gain the effects of minor speed. This full plate is considered medium armor.
-> </br></br>
+> </br>
 > * **Staff of Enchantment applewood & clear crystal** *Attuned* **[Price 82,000 | Weight 5 lbs]**
 >    * Often made from applewood and topped with a clear crystal, this staff allows use of the following spells: (Smarts or Spellcasting) *Charges Smarts/2*
 >       * Empathy (1 charge)
@@ -93,13 +93,13 @@ tags:
 >       * Puppet (2 charge)
 >       * Puppet with 3 targets (4 charge)
 >       * Slumber (1 charge)
-> </br></br>
+> </br>
 > * **~~Burrowiung Bullet [Rifle | Price 1722 each] Box of 100~~**
 >    * This firearm bullet deals normal damage, but when it hits a living creature, it burrows into the creature’s flesh, causing wracking pain until removed or until the bullet burrows its way out of the creature. Until the bullet is removed or the combat ends, the creature is Distracted.
-> </br></br>
+> </br>
 > * **~~DustBurst Bullet [Pistol | Price 196 each] Box of 100~~**
 >    * This gritty and irregular pistol bullet (Damaging) explodes into a cloud of choking dust when it successfully strikes its target. This fills a Small Blast Template and follows the target for 1d6 rounds before dispersing. Any creature ending its turn in the cloud is affected by major blind.
-> </br></br>
+> </br>
 > * **Beads of the goose**
 
 ### 🪙 Shared Party Treasure Chest
