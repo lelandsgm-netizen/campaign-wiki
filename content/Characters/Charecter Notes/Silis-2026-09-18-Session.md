@@ -100,7 +100,7 @@ tags:
 > * **~~DustBurst Bullet [Pistol | Price 196 each] Box of 100~~**
 >    * This gritty and irregular pistol bullet (Damaging) explodes into a cloud of choking dust when it successfully strikes its target. This fills a Small Blast Template and follows the target for 1d6 rounds before dispersing. Any creature ending its turn in the cloud is affected by major blind.
 > </br></br>
-> * Beads of the goose.
+> * **Beads of the goose**
 
 ### 🪙 Shared Party Treasure Chest
 
