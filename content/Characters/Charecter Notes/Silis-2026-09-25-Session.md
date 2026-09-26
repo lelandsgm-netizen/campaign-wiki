@@ -76,7 +76,7 @@ tags:
 > * **Mirror Shield** *Attuned* Reflects a spell (counterspell) Unable to find
 > </br>
 > * **2 coconut halves** (Of Haste)
-> **Vorpal Sword** No negatives to striking the head. Any tarket that is incapacitated by an attack is completely decapitated.
+> * **Vorpal Sword** [Price 50,000] No negatives to striking the head. Any tarket that is incapacitated by an attack is completely decapitated.
 > </br>
 >
 > * **Mithral Full Plate of Speed** *Attuned* Armor Value 4 [Price 26,500 | Weight 25 lbs]
