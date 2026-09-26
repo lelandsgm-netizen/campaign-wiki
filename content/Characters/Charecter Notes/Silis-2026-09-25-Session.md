@@ -65,6 +65,7 @@ tags:
 > * **Ricochet Hammer** *Attuned* **[Price 20,301 | Weight 10lbs]**
 >    * This throwing hammer functions as a hand axe (Range: 3/6/12, Damage: Str+d6, AP 1, Returning) that can strike multiple foes with a single throw. If the wielder takes multiple actions to attack with the hammer, he may throw the hammer so it rebounds off the first target to strike at a second target, and so on for each of the wielder’s additional attacks. The distance to each target adds to the total range of the weapon.
 >    * For example, a dwarf can throw the hammer at a target 3" away; if it hits, he ricochets it to a second target 6" away from the first target (within medium range). The hammer can only ricochet if it successfully hits a target; if it misses, it stops ricocheting, has no further attacks that round, and returns as normal for a weapon with the returning property. Because ricocheting attacks are treated as separate attacks, modifiers that only apply to one attack roll only apply to the first attack and not the others.
+
 > [!tip] Magic, Items & Gems
 > </br>
 > * **Bag of Holding [Previous item]**
