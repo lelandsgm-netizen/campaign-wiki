@@ -65,22 +65,24 @@ tags:
 > * **Ricochet Hammer** *Attuned* **[Price 20,301 | Weight 10lbs]**
 >    * This throwing hammer functions as a hand axe (Range: 3/6/12, Damage: Str+d6, AP 1, Returning) that can strike multiple foes with a single throw. If the wielder takes multiple actions to attack with the hammer, he may throw the hammer so it rebounds off the first target to strike at a second target, and so on for each of the wielder’s additional attacks. The distance to each target adds to the total range of the weapon.
 >    * For example, a dwarf can throw the hammer at a target 3" away; if it hits, he ricochets it to a second target 6" away from the first target (within medium range). The hammer can only ricochet if it successfully hits a target; if it misses, it stops ricocheting, has no further attacks that round, and returns as normal for a weapon with the returning property. Because ricocheting attacks are treated as separate attacks, modifiers that only apply to one attack roll only apply to the first attack and not the others.
+> [!tip] Magic, Items & Gems
 > </br>
 > * **Bag of Holding [Previous item]**
 > </br>
 > * **Golden Goblet with gems (🪙1000gp)**
 > </br>
-> * **Aegis of the Eternal Moon *Attuned* From advanced society trials and treasures. Unable to find.
+> * **Aegis of the Eternal Moon** *Attuned* From advanced society trials and treasures. Unable to find.
 > </br>
 > * **Mirror Shield** *Attuned* Reflects a spell (counterspell) Unable to find
 > </br>
->   * **2 coconut halves (Of Haste)**
->
+> * **2 coconut halves** (Of Haste)
+> **Vorpal Sword** No negatives to striking the head. Any tarket that is incapacitated by an attack is completely decapitated.
 > </br>
-> * **Mithral Full Plate of Speed** *Attuned* **Armor Value 4 [Price 26,500 | Weight 25 lbs]**
+>
+> * **Mithral Full Plate of Speed** *Attuned* Armor Value 4 [Price 26,500 | Weight 25 lbs]
 >    * Twice per day, as a free action, the wearer of this mithral full plate (Aegis) can gain the effects of minor speed. This full plate is considered medium armor.
 > </br>
-> * **Staff of Enchantment applewood & clear crystal** *Attuned* **[Price 82,000 | Weight 5 lbs]**
+> * **Staff** **of** **Enchantment** applewood & clear crystal *Attuned* [Price 82,000 | Weight 5 lbs]
 >    * Often made from applewood and topped with a clear crystal, this staff allows use of the following spells: (Smarts or Spellcasting) *Charges Smarts/2*
 >       * Empathy (1 charge)
 >       * Mind wipe (3 charge)
