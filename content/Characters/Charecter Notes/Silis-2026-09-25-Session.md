@@ -1,5 +1,5 @@
 ---
-title: Silis-2026-09-18
+title: Silis-2026-09-25
 system: SWADE
 tags:
   - player/leland
@@ -7,7 +7,7 @@ tags:
   - campaign-spus
 ---
 
-## 📅 Session [11]: [ Dragonborn Boss Fight ]
+## 📅 Session [12]: [ Camfires & Spores ]
 
 > [!todo] Session Goals & Objectives
 >
@@ -41,10 +41,8 @@ tags:
 ### ⚔️ Encounters Faced (Monster & Hazard Log)
 
 > [!danger] Encounter: [Encounter Name / Enemy Group]
-> * We encountered a huge group of Kobolds and Dragon Born. Some had acid arrows and acid armor. Faced 2 imps in this group as well.
-> * - **Dragonborn Boss:** 6 kobolds and 2 beefy Dragon born when we play next.
->    * **Round 1:** I hit one. wounded/shaken. Jurney did massive damage. Turok moved in an attacked with a bow. Adrian moved in and blocked half of the walkway around the pit.
->    * Defeated the group and boss
+> * Walking in to the webbing room after carefully burning off the webs blocking us, we discovered what looked like giant pods. Donoif sensed emotion in the pods abd used empathy to calm them. As we began to move through, an enormous spider descended from the ceiling and a Necrotic warlock came out seemingly in control of them. He commanded 3 spider swarms down to atteck, but the giant spider seemed to counter.
+> * Adrian and I moved in after the warlock cast a burst of necrotic energy at us. We did some damage and Adrian broke his armor apart. Rocky, shot him to finish him off. The spiders  
 
 ---
 
@@ -77,11 +75,7 @@ tags:
 > * **Mirror Shield** *Attuned* Reflects a spell (counterspell) Unable to find
 > </br>
 >   * **2 coconut halves (Of Haste)**
-> </br>
->   * 🟠 ~~929 CP~~ *pooled* </br>
->   * ⚪ ~~3250 SP~~ *pooled* </br>
->   * 🪙 ~~2793 GP~~ *pooled* </br>
->   * ⚪ ~~51 PP~~ *pooled* </br>
+>
 > </br>
 > * **Mithral Full Plate of Speed** *Attuned* **Armor Value 4 [Price 26,500 | Weight 25 lbs]**
 >    * Twice per day, as a free action, the wearer of this mithral full plate (Aegis) can gain the effects of minor speed. This full plate is considered medium armor.
@@ -94,21 +88,16 @@ tags:
 >       * Puppet with 3 targets (4 charge)
 >       * Slumber (1 charge)
 > </br>
-> * **~~Burrowiung Bullet [Rifle | Price 1722 each] Box of 100~~**
->    * This firearm bullet deals normal damage, but when it hits a living creature, it burrows into the creature’s flesh, causing wracking pain until removed or until the bullet burrows its way out of the creature. Until the bullet is removed or the combat ends, the creature is Distracted.
-> </br>
-> * **~~DustBurst Bullet [Pistol | Price 196 each] Box of 100~~**
->    * This gritty and irregular pistol bullet (Damaging) explodes into a cloud of choking dust when it successfully strikes its target. This fills a Small Blast Template and follows the target for 1d6 rounds before dispersing. Any creature ending its turn in the cloud is affected by major blind.
-> </br>
 > * **Beads of the goose**
 
 ### 🪙 Shared Party Treasure Chest
 
 > [!faq] Currency Pool
-> - ⚪**Platinum:** 51 _(09/18/2026)_
-> - 🪙**Gold:** 16352 _(09/18/2026)_
-> - ⚪**Silver:** 3610 _(09/18/2026)_
-> - 🟠**Copper:** 1708 _(09/18/2026)_
+> - ⚪**Platinum:** 28,835 _(09/25/2026)_
+> - 🪙**Gold:** 62,431 _(09/25/2026)_
+> - ⚪**Silver:** 3610 _(09/25/2026)_
+> - 🟠**Copper:** 1708 _(09/25/2026)_
+> - 💎**Gems:** 4100 GP _(09/25/2026)_
 > 
 > - 27 Dawnsilver Ingots
 > - 1 healing potion
@@ -131,8 +120,7 @@ tags:
 > - Spelunking gear for everyone
 > - 2 lightning bombs
 > - 2 sonic bombs
-> - Alchemist formula book (Disguise/Growth/shrink/lighting bomb)
-> - 3 lighting bullets (3d6-3d4-2d4) | 3 ice bullets (1/2 speed or sheet of ice) + formulas for both
+> - Alchemist formula book (Disguise/Growth/shrink/lighting bomb)  
 > - Leather quality map titled "Flying Dutchman Mine" Allegedly the largest diamond mine ever discovered. It was lost.
 > - 
 
@@ -140,3 +128,6 @@ tags:
 > [!caution] Session Changes
 > * Burrowiung Bullets (rifle) 100 box (burrows into flesh) Distracted
 > * Dust burst bullets (Pistol) 50 box (Blinds)
+> * 3 lighting bullets (3d6-3d4-2d4)
+> * 3 ice bullets (1/2 speed or sheet of ice)
+> * + formulas for both
