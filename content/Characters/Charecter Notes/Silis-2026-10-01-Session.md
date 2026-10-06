@@ -1,5 +1,5 @@
 ---
-title: Silis-2026-09-25
+title: Silis-2026-10-01
 system: SWADE
 tags:
   - player/leland
@@ -7,9 +7,9 @@ tags:
   - campaign-spus
 ---
 
-## 📅 Session 12: Campfires & Spores
+## 📅 Session 13: The Kobold Warrens
 
-**Story Context:** We are exploring the caves after meeting what seemed like three possessed kobolds speaking for a goddess or entity of some kind.
+**Story Context:** The party has arrived in the kobold warrens and is making their way through the various tunnels and chambers, looking for a way to bypass the various obstacles and find their way to the river.
 
 ### 🎯 Session Goals & Objectives
 
