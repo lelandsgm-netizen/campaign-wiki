@@ -60,6 +60,7 @@ When a mortal swings a sword, casts a spell, or kneels to pray, they are using t
 ## 🗺️ Key Continents, Regions, & Hubs
 
 - **The Heartland:** [[Western Empire]], [[West Kighfalton]], [[Caer Itom]], [[Kighfalton Plains]], [[Tarldet Plains]]
+- **The Southern Empire:** [[Timro|Timro Kingdom]], [[Credia]], [[Old Timiro]], [[Aracho]], [[Acoroc]]
 - **Oceanside & The Frontier:** [[Ptolus]], [[Bay of Ptolus]], [[Spire]], [[Dalenguard]], [[Dwarvenhearth]]
 - **The Ancient Lands:** [[Old Kingdom]], [[Old Kingdom Frontier]], [[Middle Kingdoms]]
 - **The Wilds & Frontiers:** [[Northern Wilderness]], [[Northern Frontiers]], [[Eastern Territories]], [[Yin-Sloth Jungles]], [[Ophid Grasslands]]

@@ -43,7 +43,7 @@ The visible world—its continents, mountains, rivers, kingdoms, and sovereign p
 - **The Old Kingdom & Frontier (`Library/Palladium - Book 02 - Old Ones`):** The ruined birthplace of human and elven empires, now an overgrown wilderness littered with ancient tombs, monoliths, and wandering monstrosities.
 - **The Northern Wilderness & The Wolfen Empire (`Library/Palladium - Book 20 - Wolfen Empire`, `Books 04 & 05`):** A cold expanse where the disciplined, honorable Wolfen tribes forge an emerging empire that challenges human supremacy.
 - **The Baalgor Wastelands & Mount Nimro (`Library/PFRPG_09_The_Baalgor_Wastelands`, `Book 10`):** Harsh volcanic plains and mountain strongholds dominated by giant-clans, nomadic tribes, and scorched ruins.
-- **The Timiro Kingdom & Eastern Territories (`Library/Palladium - Book 11 - Eastern Territory`):** Maritime kingdoms and rugged colonial settlements carving out new lives along ancient borders.
+- **[[Timro|The Timro Kingdom]] & Eastern Territories (`Library/Palladium - Book 02 - Old Ones`, `Book 11`):** The second-oldest human realm, renowned for chivalric knights, imperial navies, and the sovereign dwarven freehold of [[Acoroc]], but shadowed by massive chattel slavery and the ancient fiends sealed beneath its capital [[Credia]].
 - **The Land of the Damned (`Library/Palladium - Book 20 - Land Of The Damned`):** An isolated, frozen nightmare realm surrounded by mountains of ice and madness, quarantined from the rest of mortal civilization.
 
 ---
