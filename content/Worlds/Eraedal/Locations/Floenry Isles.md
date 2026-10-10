@@ -35,15 +35,29 @@ The islands' waters are treacherous, filled with aggressive sea monsters and pro
 
 Ancient ruins—crumbling pyramids, monoliths, and stone structures—can be found on nearly every island in the chain. Western scholars believe these predate even Elves and Dwarves, built by a forgotten archaic race that perished during the cataclysmic battle with the dreaded Old Ones aeons past. These same scholars theorize that the ape-like giants known as the **[[Grimbor]]** are the de-evolved (cursed) descendants of this lost civilization. The Southern Kingdoms find such notions ludicrous and reject them entirely.
 
-## Governance
+## Governance & The Grand Equilibrium
 
-Historically, the Timro Kingdom, Land of the South Winds, and Western Empire have all contended for control of the islands. The Western Empire has largely abandoned its claims, leaving the Timro Kingdom and Land of the South Winds in an ongoing dispute over the territory. However, the islands' lack of strategic value and the threat posed by pirates, sea monsters, and environmental hazards have prevented any kingdom from establishing effective military control.
+Historically, the **[[Timro Kingdom]]**, **[[Land of the South Winds]]**, and **[[Western Empire]]** have all contended to claim all or part of the archipelago. However, the islands' true political status is governed by a delicate **Grand Equilibrium** (as documented in *Library/PFRPG_03_Adventures_on_the_High_Seas*):
 
-The islands remain politically contested but practically independent, with various factions and powers maintaining only loose influence over specific settlements.
+> [!warning] The Balance of Power
+> Any overt attempt by a single mainland superpower to establish a permanent, sovereign military stronghold across the Floenry Isles would trigger an immediate world war. Such an expansion would drag in not only the Timiro Kingdom and Land of the South Winds, but also the Western Empire, the Eastern Territories, the naval realm of **[[Bizantium]]**, and even the northern **[[Wolfen Empire]]**. Consequently, while the mainland crowns posture, grumble, and finance local proxies, none dare commit their grand battlefleets.
 
-### Historical Context
+This political stalemate leaves the islands as an independent, lawless frontier where proxy wars, privateers, and ancient cults clash in the shadows.
 
-Over recent decades, the Western Empire has increasingly lost interest in the islands. However, Empire slavers continue to frequent remote islands to capture Grimbor for use in gladiatorial arenas and as exotic animals for zoos and markets. Grimbor safaris by nobles of the Western Empire and Land of the South Winds continue as well, threatening to eradicate the giants entirely.
+### The Pirate Republics & Corsair Codes
+Because of their isolation, the Floenry Isles serve as the primary sanctuary for privateers, smugglers, and pirate syndicates operating along the southern trade lanes:
+- **[[Tortugo]]**: The de facto capital of the Pirate Federation, where corsairs repair vessels and divide plunder.
+- **[[Captain Lebrac]]**: An honorable Elven corsair captain who preys exclusively upon Western Empire and South Winds slave ships to liberate captives, operating from a hidden sanctuary centered around an ancient 800-foot tree inhabited by a woodland Will-O'-The-Wisp.
+
+### Wildlife & Primordial Perils
+Beyond mortal politics, the archipelago harbors unique, primeval wildlife found nowhere else in Eraedal:
+- **Mighty Wooly Dragons**: Primitive, flightless, furred/feathered prehistoric behemoths that graze in secluded volcanic valleys (most notably on [[Dragon Roost]]).
+- **Serpent Rats & Tatzelwurms**: Voracious, nocturnal scavengers that have overrun abandoned settlements on islands like [[South Bay]].
+- **Krel & Hytrils**: Cunning, tree-dwelling reptilian predators and mischievous simian scavengers who stalk jungle paths.
+- **Flying Turtles**: Rare, benevolent mystical creatures that nest along isolated shores (such as [[East Mnn]]).
+
+### Historical Context & Grimbor Safaris
+Over recent decades, the Western Empire has officially withdrawn its territorial claims. However, Empire slavers and decadent aristocrats continue to sponsor brutal **"Grimbor Safaris"** to capture the ape-like giants for Caer Itom's gladiatorial arenas and exotic menageries—a practice that threatens to eradicate the gentle giants from Eraedal entirely.
 
 ## The Islands
 

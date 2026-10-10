@@ -3,8 +3,8 @@ title: "Prophecy and Balance"
 world: "Eraedal"
 type: "Campaign"
 system: "Pathfinder 2e Remaster"
-location: ""
-associated_location: ""
+location: "[[Vernazza]]"
+associated_location: "[[Oen]]"
 tags:
   - campaigns
   - eraedal
@@ -15,19 +15,23 @@ draft: false
 
 > [!info] Campaign Overview
 >
-> |                 |                                                                               |
-> | --------------- | ----------------------------------------------------------------------------- |
-> | **Game Master** | [[Leland]]                                                                    |
-> | **System**      | Pathfinder 2e Remaster                                                        |
-> | **Players**     | [[Beau LeFer]], [[Don Keydic]], [[Dolan Stormcutter]], [[Rooster Van Damage]] |
-> | **World**       | [[Eraedal]]                                                                   |
-> | **Tools**       | (Not Specified)                                                               |
+> |                  |                                                                               |
+> | ---------------- | ----------------------------------------------------------------------------- |
+> | **Game Master**  | [[Leland]]                                                                    |
+> | **System**       | Pathfinder 2e Remaster                                                        |
+> | **Players**      | [[Beau LeFer]], [[Don Keydic]], [[Dolan Stormcutter]], [[Rooster Van Damage]] |
+> | **World**        | [[Eraedal]]                                                                   |
+> | **Active Hub**   | [[Vernazza]], [[Oen]] ([[Floenry Isles]])                                     |
 
 ---
 
 ## Campaign Summary
 
 This campaign delves into a narrative centered around a prophecy and the delicate balance of power within Eraedal. The player characters are drawn into a series of events that will challenge their understanding of the world and their roles within it. Themes of destiny, free will, ancient forces, and the struggle for equilibrium will be explored as they navigate political intrigue, monstrous threats, and moral dilemmas across various islands and factions.
+
+## Key Figures & Patrons
+
+- [[Berkshire Hathaway]] (Primary Patron & Arcane Mentor; secretly watches over [[Dolan Stormcutter]] from [[Vernazza]]'s Belforte Tower)
 
 ## Factions & Powers
 
@@ -44,6 +48,10 @@ This campaign delves into a narrative centered around a prophecy and the delicat
 
 - [[Floenry Isles]] (Primary setting)
   - [[Oen]] (Active Insurgency War Zone)
+    - [[Vernazza]] (Current Staging Base — The Defiant Shield on the Southwestern Coast)
+    - [[Port Oen]] (Rebel Stronghold, Order of the Indomitable Shield)
+    - [[Borlon]] (Fortified Timro Sovereign Port)
+    - [[Manarola]] (Independent Cliffside Harbor)
   - [[Enry]] (Religious War Zone, Cult of Devouring Void)
   - [[Lyrd]] (Were-beast infested jungle)
   - [[Dragon Roost]] (Horned Dragon territory)

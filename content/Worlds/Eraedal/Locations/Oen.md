@@ -47,9 +47,10 @@ Operations on Oen are entirely shaped by its vertical, cliffside topography and 
 
 ### 4. [[Vernazza]] (The Defiant Shield)
 
-- **Status:** Independent Sovereignty
+- **Status:** Independent Sovereignty / Active Staging Base for [[Prophecy and Balance]]
+- **Location:** Southwestern Coast
 - **Defensive Force:** Standing Professional Army (~100), Local Coastal Navy
-- **Summary:** Mirroring the dramatic coastal beauty of the south, [[Vernazza]] is a rugged, proudly independent maritime town that has successfully resisted falling into the grasp of [[Timro]] corporate interests or South Winds expansion. Nestled against defensive coastal cliffs, Vernazza protects its sovereignty with a highly disciplined standing army of nearly one hundred elite soldiers and a small, highly aggressive localized navy. They maintain a fragile neutrality, viewing both the greedy foreign colonists and the fanatical insurgents with extreme suspicion.
+- **Summary:** Mirroring the dramatic coastal beauty of the south and modeled on the real-world cliffside architecture of Liguria, [[Vernazza]] is a rugged, proudly independent maritime town that has successfully resisted falling into the grasp of [[Timro]] corporate interests or South Winds expansion. Nestled within a steep ravine against defensive coastal cliffs, Vernazza protects its sovereignty with a highly disciplined standing army of nearly one hundred elite soldiers and a small, highly aggressive localized navy. They maintain a fragile neutrality, viewing both the greedy foreign colonists and the fanatical insurgents with extreme suspicion. See full dossier: **[[Vernazza]]**.
 
 ### 5. [[La Spezia]] (The Aligned Haven)
 

@@ -48,6 +48,20 @@ While the surface politics look like Palladium, the _metaphysical history_ belon
 
 When a mortal swings a sword, casts a spell, or kneels to pray, they are using the rule laws and divine network of Paizo.
 
-- **The Gods:** The traditional Western Empire pantheon is replaced or syncretized with the Golarion Pantheon. Clerics in Caer Itom pray to **Iomedae** for justice, **Abadar** to protect the Imperial Mint, **Asmodeus** to maintain the rigid slave contracts, or **Lamashtu** down in the dark, monster-infested sewers.
+- **The Gods:** The traditional Western Empire pantheon is replaced or syncretized with the Golarion Pantheon. Clerics in Caer Itom pray to **[[Iomedae]]** for justice, **[[Abadar]]** to protect the Imperial Mint, **[[Asmodeus]]** to maintain the rigid slave contracts, or **[[Lamashtu]]** down in the dark, monster-infested sewers.
 
-- **The Rules:** All classes, ancestries, feats, and monsters use Pathfinder rules. A Wolfen is modeled with custom ancestry rules or as an optimized Beastkin/Gnoll variant; the Free Slave Coalition fights using Pathfinder tactical rules, utilizing martial maneuvers, occult summoners, and divine champions.
+- **The Rules:** All classes, ancestries, feats, and monsters use Pathfinder 2e Remaster rules. A Wolfen is modeled with custom ancestry rules or as an optimized Beastkin/Gnoll variant; the Free Slave Coalition fights using Pathfinder tactical rules, utilizing martial maneuvers, occult summoners, and divine champions.
+
+---
+
+> [!tip] Canonical Source & Deep Lore
+> For the comprehensive cosmological breakdown, ancient epochs, and sourcebook references, see **[[lore|Eraedal Lore & Cosmology]]**. Primary geographic and faction annals are preserved in `Library/`.
+
+## 🗺️ Key Continents, Regions, & Hubs
+
+- **The Heartland:** [[Western Empire]], [[West Kighfalton]], [[Caer Itom]], [[Kighfalton Plains]], [[Tarldet Plains]]
+- **Oceanside & The Frontier:** [[Ptolus]], [[Bay of Ptolus]], [[Spire]], [[Dalenguard]], [[Dwarvenhearth]]
+- **The Ancient Lands:** [[Old Kingdom]], [[Old Kingdom Frontier]], [[Middle Kingdoms]]
+- **The Wilds & Frontiers:** [[Northern Wilderness]], [[Northern Frontiers]], [[Eastern Territories]], [[Yin-Sloth Jungles]], [[Ophid Grasslands]]
+- **The Seas & Isles:** [[Inner Sea]], [[Sea of Despair]], [[Sea of Dread]], [[Floenry Isles]], [[Bizantium]]
+

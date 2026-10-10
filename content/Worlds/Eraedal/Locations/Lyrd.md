@@ -63,3 +63,33 @@ A new set of "friendly" natives (were-panthers in human form) will appear, invit
 ### Were-panther Combat & Survival
 
 Were-panthers play cat-and-mouse, initially attacking with 1-3 individuals. If invaders are strong, they attack en masse, outnumbering defenders two to one (up to 30 were-panthers may lurk). They use hit-and-run tactics to wear down victims. Survival is only possible by enduring until daylight, when they retreat, but they return each night with double numbers. The only way to ensure survival is to **leave the island before the next nightfall** after the were-jaguars have departed.
+
+### Tribal Distinctions & Physical Tells
+
+While both tribes appear as exceptionally handsome, athletic humanoids with golden-bronze skin during daylight hours, distinct cultural and physical markers reveal their true lineages:
+
+- **The Were-Jaguars (The Protectors)**
+  - **Physical Marks**: Roughly 75% exhibit a subtle spray of dark freckles across their cheeks, shoulders, and forearms that only become noticeable in direct sunlight. Both men and women tie bright pink and turquoise seashells around their wrists and ankles with cured white leather cords.
+  - **Armament**: They invariably carry two spears: a heavy fighting spear for close combat and a balanced javelin for hunting birds in the canopy.
+  - **Names**: Spoken in soft, rhythmic whispers. Female names invariably end in *-na* or *-ma* (Talma, Hyanna, Loana, Payona, Judina), while male names terminate in *-ta* or *-ka* (Koata, Jimta, Hukata, Myta, Oka).
+  - **Philosophy**: Reclusive and self-aware. They recognize the primal savagery within their own blood and seek seclusion to avoid the blood-frenzy provoked by outsiders.
+
+- **The Were-Panthers (The Stalkers)**
+  - **Physical Marks**: Noticeably taller and more muscular than their jaguar cousins. They paint their torsos with chalky white-green clay, often spending hours tracing intricate "living skeleton" designs over their ribs and limbs. They drape themselves in tanned deer hides or, for pack champions, the spotted pelts of slain were-jaguars.
+  - **Armament**: Each carries a personalized spear adorned with vividly colored raptor feathers lashed along the shaft.
+  - **Names**: Distinctive doubled phonetic syllables. Female names include *Ininima*, *Unana*, *Totoana*, *Wimama*, and *Xuxuanna*; male names include *Katata*, *Jijika*, *Susuta*, *Votata*, and *Yoyotaka*.
+  - **Philosophy**: Sadistic predators who view humanoid flesh as delicacies and outside adventurers as playthings. They deliberately seed false rumors of gold in port towns to lure fresh prey to Lyrd.
+
+### The Were-Creature Caches
+
+Scattered across the island's interior are hundreds of shallow tree-hollow and rock caches containing the belongings of previous victims:
+- Each cache typically yields 60–360 silver and gold coins, rusted boarding axes, cutlasses, and tarnished jewelry.
+- The were-panthers have no use for coin or metal weapons, treating them merely as bait to lure greedy adventurers deep into their ambush zones.
+
+> [!tip] Pathfinder 2e Remaster Adaptation: Werebeasts of Lyrd
+> In accordance with Eraedal's **[[lore#The Tri-System Synthesis|Tri-System Synthesis]]**, the werebeasts of Lyrd are mechanically governed by PF2e Remaster rules:
+> - **Traits**: Humanoid, Beast, Werecreature, Primal.
+> - **Vulnerability**: **Weakness to Silver** (Weakness 5 for hunters, Weakness 10 for pack leaders). Non-magical, non-silver physical strikes deal reduced effectiveness.
+> - **Nocturnal Metamorphosis**: By daylight, they are mundane mortals in form. However, if slain by day, their corpse will revive and transform at nightfall unless the head is decapitated, burned with fire or holy oil, and buried away from the torso.
+> - **Senses**: Darkvision, Imprecise Scent 60 feet.
+> - **Regeneration**: Fast bio-regeneration (deactivated for 1 round whenever they take damage from a silver weapon or consecrated magic).

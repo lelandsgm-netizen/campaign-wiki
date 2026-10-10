@@ -143,4 +143,10 @@ draft: false
 
 ## Character Biography
 
-Dolan Stormcutter is a Human Aiuvarin (Half Elf) Champion of Level 8, played by Jason in the "Prophecy and Balance" campaign. His background details are not explicitly provided in the stats but can be inferred from his skills and feats as a martial character with social and magical leanings.
+Known among close confidants and cryptic prophecies as **"The Chosen One,"** Dolan Stormcutter's life was shaped before he drew conscious breath. 
+
+Over twenty years ago, an infant Dolan was discovered in the frozen, perilous hinterlands of the [[Northern Wilderness]], held within a dark redoubt by forces intending to shape him for ruin. A courageous adventuring band—including the Bizantian wizard **[[Berkshire Hathaway]]**—stormed the stronghold and rescued the child. 
+
+Understanding that relentless hunters and shadowy cabals would comb the mainland to reclaim the boy, Berkshire carried the infant across the oceans to the furthest edge of civilization: the tropical archipelago of the [[Floenry Isles]]. Dolan was placed in the fiercely independent cliffside republic of **[[Vernazza]]** on the island of **[[Oen]]**, growing to manhood sheltered behind its natural basalt defenses. 
+
+Under the discreet guidance of Berkshire (who took up secret residence in Vernazza's [[Castello Doria|Belforte Tower]]), Dolan grew into a formidable Champion, Marshal, and master mariner. Now at Level 8, Dolan stands as a beacon of martial defense, oblivious to the full scope of the cosmic balance that rests upon his shoulders as the ancient hunters begin to turn their gaze once more toward the southern seas.

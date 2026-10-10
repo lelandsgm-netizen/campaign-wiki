@@ -27,10 +27,14 @@ The chief ruling body of Enry Island is affiliated with the Order of Light. The 
 ## Points of Interest
 
 - **Miro (Main Port)**
-  - A small, no-frills harbor town serving as a crucial rest and supply stop for merchant ships from the west. It features numerous docks, piers, warehouses, a half-dozen inns, taverns, and brothels. Shops deal in common tools, utensils, clothes, food, and drink. Basic weapons and poor-quality armor can be purchased, but magic items are unavailable. Healing and mystic services are exclusively provided by the Order of Light, marking those who use them as aligned with "Erastil the Galchutt" by the opposing factions.
+  - A small, no-frills harbor town serving as a crucial rest and supply stop for merchant ships from the west and Timiro. It features numerous docks, piers, warehouses, a half-dozen inns, taverns, and brothels. Shops deal in common tools, utensils, clothes, food, and drink. Basic weapons and poor-quality armor can be purchased, but magic items are unavailable. Healing and mystic services are exclusively provided by the Order of Light, marking those who use them as aligned with "Erastil the Galchutt" by the opposing factions.
+  - Harbor life is tense and fraught with suspicion. Militia patrols inspect incoming manifests for seditious anti-clerical tracts, while drunken Western Empire sailors frequently incite tavern brawls against Wolfen, Orc, and Goblin travelers.
 
-- **Ancient Pyramid-like Structure**
-  - An ancient ruin deep within the jungle, believed to be a former Grimbor site situated on a nexus of three ley lines. Use today is unknown if any.
+- **The Ancient Sun Pyramid of the Nexus**
+  - An ancient, 300-foot-wide stone pyramid-like ruin deep within the eastern jungle, situated precisely atop the intersection of three converging [[lore#The Tri-System Synthesis|ley lines]]. Long abandoned by its original archaic Grimbor architects, the sanctum has been secretly claimed by the fanatical **Cult of the Devouring Void** (the Cult of Yin-Sloth).
+  - A cadre of black priests and several dozen cannibalistic zealots maintain continuous vigil here, daubed in ceremonial ash and jungle war paint. On conjunction nights—when the lunar orbit of Vallis stirs the deep entity slumbering in the world's mantle—the priests conduct blood sacrifices atop the apex altar, attempting to open planar conduits directly into the nightmares of the sleeping Galchutt.
+
+---
 
 ## Notes
 
@@ -40,14 +44,26 @@ A decade ago, a mage named Noah, claiming to seek retreat after battling Galchut
 
 ### Factions and Conflict
 
-The island is now tragically divided into two primary factions:
+The island is now tragically divided into three contending factions:
 
-- **The Order of Light (60% of population)**
-  - Remains the majority, still devoutly worshipping Iomedae, Seranae, and Erastil. They hold unofficial control over the island's infrastructure and maintain strict religious laws, persecuting those who defy their beliefs, especially regarding Erastil.
+- **The Order of Light (Approx. 60% of population)**
+  - Remains the majority, still devoutly worshipping Iomedae, Sarenrae, and Erastil. They hold unofficial control over the island's infrastructure and maintain strict religious laws, persecuting those who defy their beliefs, especially regarding Erastil. They view the island as a sacred frontier parish founded by Cardinal Beliphont.
 
-- **The Anti-Erastil Cult (40% of population)**
-  - Believes Erastil is a Galchutt and that his continued worship will lead to the world's end. Forsaking the Pantheon of Order, they now worship elemental forces and jungle gods. Persecuted by the Order of Light, they've formed secret societies and meeting places. Their initial peaceful movement has devolved into frustration and violence, with an obsession to eradicate Erastil's followers. Temples, shrines, and worshippers of Erastil are constant targets of vandalism, theft, fires, murder, kidnapping, magic attacks, riots, and armed assaults. Many members, though not inherently evil, view their violent actions as self-preservation and enlightenment.
+- **The Anti-Erastil Cult (Approx. 40% of population)**
+  - Believes Erastil is a Galchutt and that his continued worship will lead to the world's end. Forsaking the Pantheon of Order, they now worship elemental forces and primordial jungle gods. Persecuted by the Order of Light, they've formed secret societies and meeting places. Their initial peaceful movement has devolved into frustration and violence, with an obsession to eradicate Erastil's followers. Temples, shrines, and worshippers of Erastil are constant targets of vandalism, theft, fires, murder, kidnapping, magic attacks, riots, and armed assaults. Many members, though not inherently evil, view their violent actions as self-preservation and enlightenment.
+
+- **The Secret Cult of Yin-Sloth / The Devouring Void (Approx. 1,000 Fanatics)**
+  - The most dangerous and murderous faction on Enry. While tiny in comparison to the two main bodies, this fanatical death cult actively orchestrates the island's spiral into bloodshed.
+  - **The Twisted Irony**: The Yin-Sloth cultists *agree* with the Anti-Erastil schismatics—they also believe Erastil's worship funnels psychic energy to the slumbering Old Ones/Galchutt. *However, they want the Galchutt to wake.* To ensure that prayers and sacrifices to Erastil never cease, they seek the utter destruction of the Anti-Erastil faction.
+  - **False-Flag Atrocities**: To achieve their goals, the cult stages horrifying atrocities—ritual flaying, mutilation, arson, and assassinations—deliberately dressed in the white vestments and golden sun sigils of the Order of Light. These staged acts convince the Anti-Erastil schismatics that the Church is irredeemably monstrous, driving both sides into homicidal hysteria.
 
 ### Traveling on Enry Island
 
 Enry Island is highly dangerous for visitors regardless of their alignment. Expressing strong sentiments or even casual comments can provoke hostile reactions from either faction. The Cult of Devouring Void also exploits unwitting visitors, using them as pawns to stir trouble or framing them for their atrocities. The main port of Miro offers the safest haven for travelers, but venturing into the interior or expressing opinions can quickly lead to deadly confrontations.
+
+> [!danger] Urban Flashpoints & Random Encounters
+> Traveling the cobblestones of Miro or the plantation roads carries severe environmental risks:
+> - **Inquisitorial Mobs & Public Floggings**: Fanatical Church mobs accosting non-human laborers or suspected schismatics.
+> - **Temple Raids & Arson**: Masked raiders assaulting holy sites with alchemical fire.
+> - **Yin-Sloth Infiltrators**: Drug-crazed assassins armed with scorpion-venom blowguns and obsidian sacrificial daggers stalking lone travelers.
+> - **Deep Jungle Refugees**: Hidden camps of terrified families from both factions fleeing the holy war, eking out survival amidst Krel hunting packs and wandering Grimbor.

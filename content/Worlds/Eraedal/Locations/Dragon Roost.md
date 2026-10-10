@@ -42,10 +42,31 @@ Dragon Roost possesses no civilized governance. The island's harsh environment a
 Dragon Roost is home to a diverse and dangerous array of primordial creatures:
 
 - **Horned Dragons:** Mighty Primal-tradition dragons, typically found in groups of up to two dozen adults and a handful of young, roaming the deepest jungle valleys. They are terrifying, localized apex predators, characterized by raw physical brutality, tracking abilities, and the capacity to impale victims on their massive horns. Their magic ties directly to nature, weather, and the elements. They are known for being extremely territorial, mean-tempered, and aggressive.
-- **Harpies:** Frequently seen circling the hills, preying on the young and weak among the island's creatures, possibly including young dragons.
+- **Mighty Wooly Dragons:** Primeval, flightless dinosaurian titans (standing up to 90 feet tall and 60 feet long), covered in fine tan-reddish hair with a dark, bristling mane trailing down their spines. Unlike their arcane and horned kin, Wooly Dragons possess no spellcasting abilities; instead, they are raw, terrifying engines of muscle and momentum. They run with astounding overland speed, trample jungle trees like dry grass, and nest in communal 20-foot shallow burrows holding 90-pound, three-foot-tall dragon eggs coveted by alchemists across the Megaverse.
+- **Harpies:** Frequently seen circling the hills, preying on the young and weak among the island's creatures, including young dragon hatchlings.
 - **Drakes, Basilisks, Wyverns, Chimeras, and Sphinx:** Other dangerous creatures that have been reported by survivors of past expeditions.
 - **Sea Devils:** A large tribe resides under the waves along the rocky north coast.
 - **Deep-sea Serpents:** Commonly sighted around the south, north, and eastern shores, potentially preying on the local sea devil population.
+
+---
+
+### The Old Rogue & The Hoard of Osiris
+
+At the extreme southwestern tip of the island's dense canopy dwells a 947-year-old **Rogue Wooly Dragon** (50 feet tall, 87 feet long). Scarred from centuries of coastal combat against harpy flocks and wyverns, this ancient terror possesses rare psionic sensitivity and savage cunning.
+
+- **Kiplo the Hytril**: The Rogue Dragon's unlikely companion and hoard-keeper is a deceptively charming, treacherous Hytril simian named Kiplo. Kiplo grooms the dragon's fur, cleans meat from between its fangs, and polishes the hoard. Armed with an enchanted returning dagger of blinding flash and a jade ward charm, Kiplo delights in whispering malicious lies into the dragon's ears to whip the behemoth into destructive frenzies against trespassers.
+- **The Hoard & The Holy Relic**: Half-buried beneath the roots of a colossal ironwood tree within the Rogue's lair—amidst hundreds of harpy skulls, crushed suits of plate armor, and thousands of gold and silver coins—lies an extraordinary prize:
+  - **The Left Foot of Osiris**: A petrified, ivory-white divine relic from the elder Pantheon of Osiris. 
+  - **Relic Properties**: When carried or attuned by a mortal, the foot grants supernatural agility: a +3 circumstance bonus to Reflex saves and AC against physical strikes, the ability to leap 15 feet horizontally or vertically without a check, and the doubling of the bearer's base Land Speed.
+
+---
+
+### Ecological Hazards & Fauna
+
+Venture beyond the eastern beaches into the island interior introduces lethal wilderness perils:
+- **Bush Pig Sounders**: Massive 400-pound boars that serve as the primary prey for the Wooly Dragons; fiercely aggressive if cornered.
+- **Deceptive Quicksand Fields**: Vast swamps of silt and mud where lead scouts sink within moments without magical flight or tether lines.
+- **The Northern Cockatrice**: A sadistic, diabolic avian terror nesting in the crags of the northern cliffs, hunting shore parties for sport.
 
 ### Danger Level
 
