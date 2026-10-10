@@ -96,7 +96,7 @@ Built just outside the city walls by the Timro Crown to symbolize imperial "prot
 As the undisputed producers of the finest armaments in Eraedal, the dwarves enforce unyielding trade protocols:
 - **No Haggling**: Dwarves consider attempting to bargain or dicker over price as a direct insult to their craftsmanship. Haggling causes the price to instantly double, and persistent complainers are bodily ejected into the street.
 - **Bulk Sales**: Bulk shipments of weapons and armor are sold exclusively to native Timro merchants bearing an official writ signed and sealed by royal allotment agents in Credia, Old Timiro, or Aracho.
-- **Foreign & Non-Human Embargoes**: Bulk arms sales are strictly forbidden to Western Empire merchants, the Land of the South Winds, or non-humans. Individual Orcs, Ogres, or Goblins may purchase a maximum of four mundane weapons, under heavy dwarven scrutiny.
+- **Foreign & Non-Human Embargoes**: Bulk arms sales are strictly forbidden to [[Western Empire]] merchants, the [[Land of the South Winds]], or non-humans. Individual Orcs, Ogres, or Goblins may purchase a maximum of four mundane weapons, under heavy dwarven scrutiny.
 - **Superior Items**: Masterwork weapons, resilient armor with enhanced durability, and enchanted alloy shields are priced at substantial premiums and never discounted.
 
 ---

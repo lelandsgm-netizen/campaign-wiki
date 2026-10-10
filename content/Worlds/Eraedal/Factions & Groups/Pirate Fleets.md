@@ -3,7 +3,7 @@ title: "Pirate Fleets"
 world: "Eraedal"
 type: "Faction"
 location: "Floenry Islands (main hideouts), Strait of Relar (primary hunting ground)"
-associated_location: "Kingdom of the South Winds, Timiro Kingdom, Eastern Territories, Western Empire, Bizantium, Pendaltor, Sulanok, Ramsbottom, Totugo, Dragon's Roost, Serpent's Tooth, Grimbor Island, South Bay, Enry, Cyclone."
+associated_location: "[[Land of the South Winds]], [[Timro|Timro Kingdom]], [[Eastern Territories]], [[Western Empire]], [[Bizantium]], [[Pendaltor]], [[Sulanok]], [[Burcee]], [[Totugo]], [[Grimbor Isle]], [[Enry]]"
 tags:
   - eraedal
   - faction
@@ -33,13 +33,13 @@ A diverse collection of freebooters and corsairs operating throughout Eraedal, p
 
 ## Locations
 
-- **Headquarters:** Floenry Island hideouts (currently ~150 vessels), Island of Totugo (heavily fortified sanctuary), potentially extradimensional safe havens (Vunoon's Raiders).
+- **Headquarters:** Floenry Island hideouts (currently ~150 vessels), Island of [[Totugo]] (heavily fortified sanctuary), potentially extradimensional safe havens (Vunoon's Raiders).
 - **Strongholds:** Secret bases across the Floenry Islands, potentially in areas like Osto (sheltered bays).
 - **Associated locations:**
   - **Strait of Relar:** Primary maritime trade lane.
-  - **Sulanok (Pendaltor peninsula):** Free port with black-market fences for stolen cargo.
+  - **[[Sulanok]] ([[Pendaltor|Pendaltor Peninsula]]):** Free port with black-market fences for stolen cargo under the [[Land of the South Winds]].
   - **Ramsbottom (near Sulanok):** "Deadeye Suli's" tavern, a recruiting station for the Pirate Federation.
-  - **Oen, Lyrd, South Bay, Grimbor Isle, Dragon's Roost, Serpent's Tooth, The Rock, Osto, The Finger, West Mnn:** Various Floenry Islands used for hiding, resupply, or avoidance.
+  - **[[Oen]], [[Lyrd]], [[South Bay]], [[Grimbor Isle]], [[Dragon Roost]], Serpent's Tooth, The Rock, Osto, The Finger, West Mnn:** Various Floenry Islands used for hiding, resupply, or avoidance.
   - **Cyclone:** Neutral merchant port that welcomes pirate crews for resupply.
 
 ## Plot Hooks

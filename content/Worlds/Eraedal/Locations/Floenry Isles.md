@@ -97,7 +97,7 @@ Situated at the edge of the island chain. The southern port town serves as a hav
 
 ### 9. Isle of [[Burcee]]
 
-The second of the three successfully colonized islands. Claimed firmly by the [[Land of the South Winds]], the native rainforest has been largely clear-cut to make way for massive banana and sugar cane farms.
+The second of the three successfully colonized islands in the chain. Held with an iron fist by the **[[Land of the South Winds]]**, the native rainforest has been clear-cut to make way for massive, industrialized banana and sugarcane plantations worked by twelve thousand enslaved non-humans. Following the catastrophic loss of [[Oen]] to [[Drogon Deathbringer]]'s rebellion, Burcee now serves as the South Winds Crown's sole surviving naval garrison and logistical staging base in the archipelago. See full dossier: **[[Burcee]]**.
 
 ### 10. Island of [[Totugo]]
 

@@ -3,7 +3,7 @@ title: "Tortugo"
 world: "Eraedal"
 type: "Location"
 location: "The Haven and Capital of the Pirate Federation in the Floenry Island chain."
-associated_location: "Floenry Isles, Western Empire, Kingdom of the South Winds, Timiro Kingdom, Eastern Territories"
+associated_location: "[[Floenry Isles]], [[Western Empire]], [[Land of the South Winds]], [[Timro|Timro Kingdom]], [[Eastern Territories]]"
 tags:
   - eraedal
   - location

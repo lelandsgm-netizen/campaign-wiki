@@ -18,7 +18,7 @@ This document details several minor islands within the Floenry chain, each posse
 
 ## Individual Islands
 
-### Burcee
+### [[Burcee|Isle of Burcee]]
 
 > ###### Information
 >
@@ -27,30 +27,15 @@ This document details several minor islands within the Floenry chain, each posse
 > | **World**               | Eraedal                                                           |
 > | **Type**                | Location                                                          |
 > | **Location**            | An agricultural plantation island within the Floenry chain.       |
-> | **Associated location** | Floenry Isles, Kingdom of the South Winds                         |
+> | **Associated location** | [[Floenry Isles]], [[Land of the South Winds]]                    |
 > | **Tags**                | `#eraedal`, `#location`, `#island`, `#plantation`, `#agriculture` |
 > | **Draft**               | false                                                             |
 
 #### Overview
 
-Burcee is the third largest of the Floenry Islands, a rugged and rocky land characterized by rolling, grass-covered hills and areas of light rainforest. Approximately 200 years ago, a distant empire attempted to colonize the island, establishing a town along its northern bay and bringing in thousands of settlers. However, the poor, rock-laden soil was only suitable for sheep and goat farming. This colonization inadvertently introduced common rodents and **tatzelwurms** to the ecosystem. These nocturnal, legless, draconic predators and scavengers thrived, quickly infesting the island. Today, the settlement is a rotting ghost town, its settlers long fled, leaving the tatzelwurms as the undisputed lords of their domain.
+Burcee is the second of the three successfully colonized islands in the Floenry chain, claimed and held with an iron grip by the **[[Land of the South Winds]]**. Most of the ancient rainforest has been systematically clear-cut to make way for massive, industrialized plantations of bananas and sugarcane worked by twelve thousand enslaved non-humans. Following the rebellion on [[Oen]], Burcee now functions as the South Winds Crown's sole remaining military supply depot and naval staging base in the archipelago.
 
-#### Geography
-
-The island is entirely covered with thick, lush, tropical forest. Jagged rocks rise out of the deep coastal waters along the low cliffs (80 to 120 feet tall) that rim the north and west shores, making landing by ships extremely dangerous. Only the eastern tip of the island is safe for approach by ships. The island's interior is divided by a series of hills which point in a "V" shape to the west. Roaming here, in the shadowy valleys, are the mighty **Horned Dragons**.
-
-#### Governance
-
-Burcee is an agricultural plantation island claimed by the Kingdom of the South Winds. It operates as a quiet agrarian community completely dedicated to production for its parent kingdom, with no standing military, formal merchant towns, business districts, magical institutions, or outside tourism.
-
-#### Points of Interest
-
-- **Expansive Farms and Plantations:** Vast areas dedicated to cash-crops like bananas and sugar cane, which are the primary exports.
-
-#### Notes
-
-- **Population:** Total 6,140 (Humans 4,040, other ancestries 900, enslaved laborers, mostly Orcs, 1,200).
-- **Ecological Impact:** The native jungle has been systematically cleared, and original Grimbor and boggard populations thoroughly displaced due to extensive logging for agricultural expansion.
+See the canonical master dossier: **[[Burcee]]**.
 
 ### Island of Totugo
 
