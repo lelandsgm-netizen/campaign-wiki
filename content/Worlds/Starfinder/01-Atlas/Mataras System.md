@@ -55,7 +55,7 @@ The following astrogation intelligence reports map out the primary inhabited wor
 
 ##### 5. [[Akiton]] (The Red Planet)
 * **Status:** Full Pact Member / Post-Industrial Frontier
-* **Summary:** Once the wealthy mining powerhouse of the system due to its massive deposits of *thasteron* starship fuel, [[Akiton]] suffered catastrophic economic collapse when Drift engines rendered thasteron obsolete. Today, its rust-red deserts and freezing canyons are a lawless frontier of abandoned corporate ghost towns, nomadic **[[Shobhads]]** (four-armed giants), clever **[[Ysoki]]** salvagers, and bloodthirsty gladiatorial arenas in hubs like **[[Arliss]]** and **[[Maro]]**.
+* **Summary:** Once the wealthy mining powerhouse of the system due to its massive deposits of *thasteron* starship fuel, [[Akiton]] suffered catastrophic economic collapse when Drift engines rendered thasteron obsolete. Today, its rust-red deserts and freezing canyons are a lawless frontier of abandoned corporate ghost towns, nomadic **[[Shobhads]]** (four-armed giants), clever **[[Ysoki]]** salvagers, and bloodthirsty gladiatorial arenas in hubs like **[[Arl]]** and **[[Maro]]**.
 
 ##### 6. [[Verces]] (The Ring of Nations)
 * **Status:** Full Pact Member / Cybernetic Confederacy
