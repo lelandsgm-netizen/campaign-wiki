@@ -157,16 +157,39 @@ plugins:
   - source: "@quartz-community/content-page"
     enabled: true
   - source: "@quartz-community/folder-page"
-    enabled: true
+    enabled: false
   - source: "@quartz-community/tag-page"
     enabled: true
   - source: "@quartz-community/explorer"
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
+    options:
+      localGraph:
+        depth: 2
+        scale: 1.1
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        showTags: false
+        removeTags: []
+        focusOnHover: true
+      globalGraph:
+        depth: -1
+        scale: 0.9
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        showTags: false
+        removeTags: []
+        focusOnHover: true
     layout:
       position: right
       priority: 10
@@ -182,7 +205,7 @@ plugins:
     enabled: true
     layout:
       position: right
-      priority: 50
+      priority: 20
   - source: "@quartz-community/article-title"
     enabled: true
     layout:
@@ -216,7 +239,7 @@ plugins:
       priority: 35
       group: toolbar
   - source: "@quartz-community/breadcrumbs"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 5
@@ -253,7 +276,7 @@ plugins:
     options: {}
     order: 50
   - source: "@quartz-community/note-properties"
-    enabled: true
+    enabled: false
     options:
       includeAll: false
       includedProperties:
