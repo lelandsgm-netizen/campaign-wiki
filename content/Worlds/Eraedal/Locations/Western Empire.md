@@ -17,8 +17,8 @@ draft: false
 > | **Location Tier**    | Region                                                                                                                                                                                                                                   |
 > | **World**            | [[Eraedal]] (Air-eh-dall)                                                                                                                                                                                                                |
 > | **Region/Continent** | Current                                                                                                                                                                                                                                  |
-> | **Governing Power**  | [[Three-way Civil War]]                                                                                                                                                                                                                  |
-> | **Regions**          | [[West Kighfalton]] / [[Upper Kighfalton]] / [[Koerdian Mountains]] / [[Lower Barraduk]] / [[Vequerrel Woodlands]] / [[Kighfalton Plains]] / [[Middle Kingdoms]] / [[Scarlet Mountains]] / [[Tarldet Plains]] / [[Old Kingdom Frontier]] |
+> | **Governing Power**  | [[Three-way Civil War]]                                                                                                                                                                                                                                                                  |
+> | **Regions**          | [[West Kighfalton]] / [[Upper Kighfalton]] / [[Koerdian Mountains]] / [[Lower Barraduk]] / [[Vequerrel Woodlands]] / [[Kighfalton Plains]] / [[Middle Kingdoms]] / [[Scarlet Mountains]] / [[Tarldet Plains]] / [[Old Kingdom Frontier]] / [[Sea of Scarlet Waters]] / [[Bay of Ptolus]] |
 
 ![[western-empire.png]]
 _Image Credit: Art by [Will Ervin](https://www.deviantart.com/will-erwin)_
@@ -30,6 +30,18 @@ _This empire stands as the oldest and most powerful human civilization within it
 ---
 
 ## 🗺️ Points of Interest
+
+- **[[Ptolus]] (The Holy Capital & City by the Spire)**
+  _A monumental coastal metropolis of 75,000 perched atop the jagged sea-cliffs of the [[Tarldet Plains]] and the [[Bay of Ptolus]]. Declared the Holy Capital of the Western Empire in 702 IA by Holy Emperor [[Rehobath Ylestos]] following the catastrophic fall of Caer Itom. Towering beneath the ancient, three-thousand-foot [[Spire]], the city is guarded from the citadel of [[Dalenguard]] by Commissar [[Igor Urnst]], while thousands of delvers plumb the depths of [[Dwarvenhearth]] and the cosmic ruins slumbering below._
+
+- **[[Dalenguard]]**
+  _A monolithic Prustan fortress towering over the historic bluffs of [[Ptolus]]. Originally constructed over five centuries ago as a lone imperial frontier outpost, it now serves as the administrative seat of Commissar [[Igor Urnst]] and the headquarters of the 800-strong [[City Watch]], garrisoning seasoned Imperial Janissaries and sealing the iron Dungeon Gate against subterranean abominations._
+
+- **[[Bay of Ptolus]]**
+  _A sheltered, deep-water embayment carved into the eastern bluffs beneath the shadow of the [[Spire]]. It connects the eastern frontier to the [[Inland Sea]] and serves as the primary imperial naval gateway for trade with Bizantium, the Eastern Territory, and southward channels into the [[Sea of Scarlet Waters]]._
+
+- **[[Sea of Scarlet Waters]]**
+  _A volatile, geothermal inland basin situated south of the [[Scarlet Mountains]]. Renowned for its boiling undersea vents, sunken ruins, and thick blooms of crimson toxic algae, it serves as the contested maritime barrier between the Western Empire, the [[Baalgor Wastelands]], and the jagged peaks of [[Mount Nimro]]._
 
 - **[[Vequerrel Woodlands]]**
   _A massive, ancient forest highly prized by the Empire for its incredibly valuable exotic hardwoods. However, imperial logging operations and settlements here are constantly under siege due to the ongoing "[[Faerie War]]"—a bitter, deadly conflict against the woodland's highly aggressive fey and magical inhabitants who violently refuse to let their home be harvested._
@@ -82,12 +94,12 @@ _This empire stands as the oldest and most powerful human civilization within it
 > <br><br>
 > **700 IA:** The mysterious and ornately armored Urthon Aedar begin to appear in Ptolus, prophesying doom.
 > <br><br>
-> **702 IA:** Caer Itom is overrun by the Cyclopean Vanguard including barbarians and Coyle hordes from the Ophid Grasslands. Holy Emperor Rehoboth of the Imperial Church of Aroden declares himself as the true Emperor flees to Ptolus to stay with the Prince of the Church, his son Kirian. He declares Ptolus as the Holy Capital of the Western Empire.
+> **702 IA:** Caer Itom is overrun by the Cyclopean Vanguard including barbarians and Coyle hordes from the Ophid Grasslands. Holy Emperor [[Rehobath Ylestos|Rehobath]] of the Imperial Church of Aroden declares himself the true Emperor and flees to [[Ptolus]] to stay with the Prince of the Church, his son Kirian. He declares Ptolus as the Holy Capital of the Western Empire.
 > <br><br>
 > **704 IA:** Lord Skluud Ne'Klosh declares himself Emperor Ne'Klosh from his fortified citadel Caer Kurgas in Upper Kighfalton He is holding back the Cyclopean Vanguard to his west while the barbarian hordes move freely among the middle kingdoms.
 > **705 IA:** The Empire is in chaos, with three different people claiming the LionGuarded Throne. Empress Lasha Itomas attempts to move the capital to Caer Glaverius in the Yin-Sloth Periphery, her current safehaven and home. The Western Empire is severely fractured with the Middle Kingdoms in open rebellion in addition the the fractured claims to the throne.
 > <br><br>
-> **713 IA:** Explorers plumbing down into ancient Dwarvenhearth discover great treasures and begin bringing them to the surface.
+> **713 IA:** Explorers plumbing down into ancient [[Dwarvenhearth]] discover great treasures and begin bringing them to the surface.
 > <br><br>
 > **714 IA:** The barbarian and Coyle hordes continue to roam the middle kindgoms. Large swaths have become their domain. Emperor Ne'Kosh enters into talks with the Vequerrel Woodlands and what remains of the Ophid Grasslands Colonies. Restarts finiancial and Military aid to both.
 > <br><br>

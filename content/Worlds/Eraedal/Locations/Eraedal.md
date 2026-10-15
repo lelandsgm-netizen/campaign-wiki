@@ -63,7 +63,8 @@ When a mortal swings a sword, casts a spell, or kneels to pray, they are using t
 - **The Southern Empire:** [[Timro|Timro Kingdom]], [[Credia]], [[Old Timiro]], [[Aracho]], [[Acoroc]]
 - **The Southern Realms & Seas:** [[Land of the South Winds]], [[Pendaltor]], [[Sulanok]], [[Burcee]]
 - **Oceanside & The Frontier:** [[Ptolus]], [[Bay of Ptolus]], [[Spire]], [[Dalenguard]], [[Dwarvenhearth]]
-- **The Ancient Lands:** [[Old Kingdom]], [[Old Kingdom Frontier]], [[Middle Kingdoms]]
-- **The Wilds & Frontiers:** [[Northern Wilderness]], [[Northern Frontiers]], [[Eastern Territories]], [[Yin-Sloth Jungles]], [[Ophid Grasslands]]
+- **The Ancient Lands & Desolations:** [[Old Kingdom]], [[Old Kingdom Frontier]], [[Middle Kingdoms]], [[Baalgor Wastelands]], [[Mount Nimro]]
+- **The Southern Wilds & Wyrm-Peaks:** [[Yin-Sloth Jungles]], [[Dragon's Gate]], [[Yin-Sloth Periphery]]
+- **The Northern & Eastern Frontiers:** [[Northern Wilderness]], [[Northern Frontiers]], [[Eastern Territories]], [[Ophid Grasslands]]
 - **The Seas & Isles:** [[Inner Sea]], [[Sea of Despair]], [[Sea of Dread]], [[Floenry Isles]], [[Bizantium]]
 

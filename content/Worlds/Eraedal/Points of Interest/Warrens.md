@@ -7,12 +7,13 @@ associated_location: ""
 tags:
   - eraedal
   - point-of-interest
-draft: true
+  - ptolus
+draft: false
 ---
 
 **The Warrens** is a terrible, crime-ridden slum that festers on the southwestern edge of [[Ptolus]]. It is an anarchic, highly dangerous maze of squalor, completely abandoned by the city's urban planners and largely ignored by the [[City Watch]]. The streets here have no names, the ramshackle buildings have no numbers, and the open ditches flow freely with raw sewage and hazardous alchemical waste from the neighboring [[Guildsman District]].
 
-In your _[[Eraedal]]_ setting, the Warrens represents the desperate rock-bottom of the [[Western Empire]]. It is populated by the city's poorest beggars, refugees, outcasts, and those hiding from Imperial law. Because the government provides zero public safety, the district is entirely governed by the rule of the blade. Violent criminal gangs, underground gladiator rings, and desperate cutpurses control separate blocks, making it an incredibly hostile environment for outsiders. For adventurers, it is a place where one can disappear entirely—or be murdered in a dark alleyway for a handful of copper pieces.
+Within [[Eraedal]], the Warrens represents the desperate rock-bottom of the [[Western Empire]]. It is populated by the city's poorest beggars, refugees, outcasts, and those hiding from Imperial law. Because the government provides zero public safety, the district is entirely governed by the rule of the blade. Violent criminal gangs, underground gladiator rings, and desperate cutpurses control separate blocks, making it an incredibly hostile environment for outsiders. For adventurers, it is a place where one can disappear entirely—or be murdered in a dark alleyway for a handful of copper pieces.
 
 ### Prominent Locations
 
