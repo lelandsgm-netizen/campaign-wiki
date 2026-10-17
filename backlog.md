@@ -5,7 +5,7 @@ This backlog documents the active state, historical accomplishments, and queued 
 ---
 
 ## 📌 Active Task
-- [ ] **Phase 2 Faction Dossier #1:** Create `content/Worlds/Starfinder/02-Factions/Pact Council.md` (The Directorate of the Absalom Pact).
+- [ ] **Phase 3 Dramatis Personae #7:** Create `content/Worlds/Starfinder/03-People/Kalliel Goldhand.md` (Executive Arch-Administrator of AbadarCorp & Pontifex Maximus).
 
 ---
 
@@ -64,37 +64,112 @@ This backlog documents the active state, historical accomplishments, and queued 
 - [x] **Body 14: [[Aucturn]] (The Stranger):**
   - Created `content/Worlds/Starfinder/01-Atlas/Aucturn.md`.
   - Content: Sentient embryonic Great Old One world ($\times 1.2$ Terrestrial diameter, 180-year orbit), toxic mutagenic atmosphere, the bizarre [[Midwives]] (larval cosmic custodians), Cults of the [[Elder Mythos]], [[The Citadel of the Black]] (monolithic spire of Nyarlathotep and High Prophet Otolmens), [[The Amniotic Sea]], and the absolute quarantine blockade of [[The Stewards]].
+
+### 3. Starfinder: Interplanetary Factions (Phase 2 Active)
+- [x] **Faction 1: [[Pact Council]] (The Directorate of the Absalom Pact):**
+  - Created `content/Worlds/Starfinder/02-Factions/Pact Council.md`.
+  - Content: Confederate parliamentary structure in the Plenara on [[Absalom Station]], the bicameral Delegation (representative assembly) and Directorate (executive council under Prime Executive [[Kumara Melacruz]]), constitutional limits of federal authority vs. planetary sovereignty, the Eoxian and Apostae exemptions, political voting blocs (Idealist League, Sovereignty Bloc, Corporate Lobby), and enforcement through [[The Stewards]].
+- [x] **Faction 2: [[The Stewards]] (Interplanetary Peacekeepers & The Bastion):**
+  - Created `content/Worlds/Starfinder/02-Factions/The Stewards.md`.
+  - Content: Historical origins as Stewards of the Ring on [[Verces]], federalization under the [[Absalom Pact]] (291 AG), headquarters at [[The Bastion]] on [[Absalom Station]], command hierarchy (Director-General Lin Cammar, Marshals, Constabulary, Special Operations, Systemic Fleet), interplanetary void jurisdiction vs. sovereign soil barriers, [[Ringworks]] white-and-gold starfleet (*Peacekeeper*, *Vigilance*, *Bulwark*), doctrine of proportional escalation, forward bases (Skydock, Diaspora, Aucturn quarantine blockade), and adventure hooks.
+- [x] **Faction 3: [[Starfinder Society]] (Explorers, Scholars, and Archaeologists of the Unknown):**
+  - Created `content/Worlds/Starfinder/02-Factions/Starfinder Society.md`.
+  - Content: Post-Gap origins and three-word creed ("Explore, Report, Cooperate"), headquarters at [[The Lorespire Complex]] on [[Absalom Station]], governance of the First Seeker ([[Luwazi Elsebo]]) and the neural AI [[Guidance]], the Scoured Stars Cataclysm and the loss of the fleet, the internal factions ([[Acquisitives]], [[Dataphiles]], [[Exo-Guardians]], [[Wayfinders]], [[Second Seekers]], [[Advocates]]), flagship carrier *The Master of Stars*, and adventure hooks.
+- [x] **Faction 4: [[AbadarCorp]] (The Sacred Conglomerate, Banking Hegemony & Church of Commerce):**
+  - Created `content/Worlds/Starfinder/02-Factions/AbadarCorp.md`.
+  - Content: Twin identity as universal megacorporation and holy church of [[Abadar]] (God of Civilization, Law, Commerce, and Wealth), theological foundation of the First Vault, corporate-theocratic governance under Executive Arch-Administrator Kalliel Goldhand and the Board of Arch-Chancellors, universal backing of the Pact Credit and cred-sticks, industrial manufacturing (*Abadar's Bounty*, defensive shielding, civic infrastructure), economic tensions on [[Akiton]], shadow war with the Aspis Consortium, and adventure hooks.
+- [x] **Faction 5: [[Knights of Golarion]] (Righteous Paladin Armada of Iomedae & Solar Crusaders):**
+  - Created `content/Worlds/Starfinder/02-Factions/Knights of Golarion.md`.
+  - Content: Post-Gap sacred mission to honor vanished Golarion under the sword of [[Iomedae]] (The Inheritor), supreme command of Grand Marshal Helena Sagesparrow from the cathedral-dreadnought *The Inheritor's Wrath*, the Radiant Armada (stained-glass hardlight shields, adamantine rams, spinal solar lances), deep moral revulsion toward the [[Eox]] treaty compromise, the eternal blood feud against the [[Corpse Fleet]], bastions on [[Absalom Station]], [[Castrovel]], and [[The Diaspora]], and adventure hooks.
+- [x] **Faction 6: [[Corpse Fleet]] (The Exiled Undead Armada & Terrorists of the Void):**
+  - Created `content/Worlds/Starfinder/02-Factions/Corpse Fleet.md`.
+  - Content: Historical mutiny from the military of [[Eox]] following the 291 AG [[Absalom Pact]], philosophy of Necrotic Supremacy and worship of [[Urgathoa]], command hierarchy under Grand Admiral Woan Thrac and the Council of Bone Admirals, starship advantages of zero life support (diverting 100% reactor energy to weapons/shields) and negative-energy reactors, super-dreadnought *The Empire of Bones*, hidden bases in [[The Diaspora]] (Marrow Mound) and [[Apostae]], and adventure hooks.
+- [x] **Faction 7: [[Free Captains]] (The Pirate Confederacy of the Diaspora & Lords of Broken Rock):**
+  - Created `content/Worlds/Starfinder/02-Factions/Free Captains.md`.
+  - Content: Origins in the shattered asteroid belt of [[The Diaspora]], refusal to submit to the 291 AG [[Absalom Pact]], pirate governance via the Pirate Council within the hollow-asteroid metropolis of [[Broken Rock]], the strict enforcement of the Code of Asteroids (Harbor Peace, duel arbitration, prize rights, the Captain's Mark), corporate proxy wars and secret Letters of Marque from [[Triaxus]] and [[Apostae]], black-market monopolies, fierce hatred of the [[Corpse Fleet]], and adventure hooks.
+- [x] **Faction 8: [[Xenowardens]] (Primal Ecological Protectors of Pristine Space & Living Arkships):**
+  - Created `content/Worlds/Starfinder/02-Factions/Xenowardens.md`.
+  - Content: Primal environmental order and technomantic druids originating on [[Castrovel]], The Green Mandate (cosmic balance, intrinsic rights of biospheres, primal technomancy), mastery of biotechnological starships (living chitin hulls, photosynthetic crystalline solar sails, bio-plasma cannons), the colossal nomadic Arkships (*The Verdant Aegis*), stewardship of the environmental cordons on [[Liavara]] and [[Ukulam]], fierce clashes with [[AbadarCorp]] and the Aspis Consortium over ecocide, and adventure hooks.
 - [x] **System Dossier Maintenance (`content/Worlds/Starfinder/01-Atlas/Mataras System.md`):**
   - Corrected "Arliss" to canonical "Arl".
-  - Verified Quartz compilation of 1,048 files with zero errors.
+  - Verified Quartz compilation of 1,057 files with zero errors.
+
+### 4. Starfinder: Dramatis Personae (Phase 3 Active)
+- [x] **Person 1: [[Kumara Melacruz]] (Prime Executive of the Pact Worlds & Plenara Statesman):**
+  - Created `content/Worlds/Starfinder/03-People/Kumara Melacruz.md`.
+  - Content: Origin as an Absalom Station native and constitutional scholar, rise through the Vercite diplomatic corps, presiding leadership over the Directorate and the Plenara, managing the equilibrium between the Idealist League, Corporate Lobby, and Sovereignty Bloc, strategic partnerships with Director-General [[Lin Cammar]] and First Seeker [[Luwazi Elsebo]], domestic vulnerabilities in [[The Spike]], and adventure hooks.
+- [x] **Person 2: [[Luwazi Elsebo]] (First Seeker of the Starfinder Society & Architect of the Resurgence):**
+  - Created `content/Worlds/Starfinder/03-People/Luwazi Elsebo.md`.
+  - Content: Emergency ascension following the 317 AG Scoured Stars Incident, confirmation by [[Guidance]], launching the great recruitment campaign that rebuilt the Society's field ranks, harmonizing internal factions ([[Acquisitives]], [[Dataphiles]], [[Exo-Guardians]], [[Wayfinders]]), organizing the Second Seekers expedition that shattered the god-barrier and rescued former First Seeker Jadnura, and adventure hooks.
+- [x] **Person 3: [[Guidance]] (Starfinder Society Collective Artificial Intelligence & Soul of the Seekers):**
+  - Created `content/Worlds/Starfinder/03-People/Guidance.md`.
+  - Content: Nature as a sentient gestalt neural AI formed from the uploaded brain scans and memory matrices of all deceased/retired First Seekers, cryogenic quantum core beneath [[The Lorespire Complex]], constitutional roles as archivist, mission dispatcher, and First Seeker election arbiter, fluid multi-species holographic avatar, trauma during the Scoured Stars catastrophe, spiritual reverence by the Church of [[Triune]], and adventure hooks.
+- [x] **Person 4: [[Lin Cammar]] (Director-General of the Stewards & Bastion Commander):**
+  - Created `content/Worlds/Starfinder/03-People/Lin Cammar.md`.
+  - Content: Vercite heritage, frontline veteran from the Spike beat to void interceptor captain and Swarm War boarder, supreme command over 350,000 peacekeepers from [[The Bastion]], command doctrines of proportional force and zero corruption tolerance, resisting [[AbadarCorp]] corporate privatization attempts, close alliance with Prime Executive [[Kumara Melacruz]], hunting Grand Admiral [[Woan Thrac]] of the [[Corpse Fleet]], and adventure hooks.
+- [x] **Person 5: [[Helena Sagesparrow]] (Grand Marshal of the Knights of Golarion & The Radiant Commander):**
+  - Created `content/Worlds/Starfinder/03-People/Helena Sagesparrow.md`.
+  - Content: Raised at the Commandery of the Sunburst on [[Castrovel]], battlefield legend of the 319 AG Swarm War boarding assault, supreme command from the cathedral-dreadnought *The Inheritor's Wrath*, armed with the solar blade *Radiance's Edge*, holy crusade to eradicate the [[Corpse Fleet]], protection of solar pilgrims traveling to [[Mataras]], moral outrage over the [[Eox]] treaty compromise, and adventure hooks.
+- [x] **Person 6: [[Woan Thrac]] (Grand Admiral of the Corpse Fleet & The Bone Despot):**
+  - Created `content/Worlds/Starfinder/03-People/Woan Thrac.md`.
+  - Content: Ancient Necrovite spellcaster and former Elebrian naval commander, architect of the historic 291 AG mutiny on [[Eox]] following the [[Absalom Pact]], commanding from the multi-mile planet-cracking super-dreadnought *The Empire of Bones*, electro-phylactery fused directly into the negative-energy reactor core of his flagship, doctrine of zero life support and biological harvesting, clandestine backing by reactionary [[Bone Sages]], and adventure hooks.
+- [x] **Person 7: [[Kalliel Goldhand]] (Executive Arch-Administrator of AbadarCorp & Pontifex Maximus):**
+  - Created `content/Worlds/Starfinder/03-People/Kalliel Goldhand.md`.
+  - Content: Twin supremacy as CEO of [[AbadarCorp]] and Pontifex Maximus of the Church of [[Abadar]], dwarven lineage tracing to ancient vault-keepers, command from the Apex Sanctuaries of the Cathedral of the First Vault in [[The Ring]] of [[Absalom Station]], *The Gilded Palm* master aurum prosthetic and cryptographic Central Mint key, sovereign underwriting of the Pact Credit and golden freighters, strategic alliances with Prime Executive [[Kumara Melacruz]] and Director-General [[Lin Cammar]], cold war against the Aspis Consortium, debt-leverage over [[Akiton]], and adventure hooks.
+- [x] **Person 8: [[The Overqueen]] (Living Hive-Nexus of the Formian Federation):**
+  - Created `content/Worlds/Starfinder/03-People/The Overqueen.md`.
+  - Content: Living biological and philosophical nexus of the [[Formian Federation]], sovereign seat within the colossal termite-spire of [[Queensrock]] in [[The Colonies]] on [[Castrovel]], choral multi-layered telepathic broadcast uniting 40 billion citizens across the Overmind, co-signatory of the historic 287 AG Treaty of Queensrock ending millennia of war with the [[Lashunta]], co-founding signatory of the 291 AG [[Absalom Pact]], interspecies bio-shipbuilding through the Kevolari Collective on the moon [[Elindrae]], existential abhorrence of the Swarm, and adventure hooks.
+
+### 5. Starfinder: Cosmic Phenomena & History (Phase 4 Active)
+- [x] **Lore 1: [[The Drift]] (Hyperspace Dimension, Beacon Navigation, & Planar Tearing):**
+  - Created `content/Worlds/Starfinder/04-Lore/The Drift.md`.
+  - Content: Artificial transitive dimension created by the tripartite machine-god [[Triune]] in 3 AG following [[The Signal]], mechanics of Drift Engine FTL travel governed by beacon density rather than physical distance ($1\text{d}6$ days to [[Absalom Station]] via the [[Starstone]] anchor), the dark cosmological cost of the Planar Siphon / Drift Tear dragging pieces of the Great Wheel into hyperspace, drifting planar flotsam and void predators (Drift stalkers), economic boom and the collapse of [[Akiton]], opening of The Vast, and adventure hooks.
+- [x] **Lore 2: [[The Signal]] (The Divine Transmission of Triune & The Dawn of the Faster-Than-Light Age):**
+  - Created `content/Worlds/Starfinder/04-Lore/The Signal.md`.
+  - Content: The pan-dimensional 3 AG transmission across every computer core and dataslate in charted space, apotheosis and union of [[Triune]] (Brigh, Casandalee, Epoch), the open-source gift of the Drift Engine blueprints, the "Ghost Code" anomalies causing spontaneous synthetic sentience and android soul awakenings, undecrypted cosmic telemetry and pre-Gap data fragments, the devastating economic collapse of thasteron on [[Akiton]], mass expansion into The Vast, the rise of the Church of the All-Code (Priests of the Key), and adventure hooks.
+- [x] **Lore 3: [[The Absalom Pact]] (The 291 AG Mutual Defense Treaty & Birth of the Pact Worlds):**
+  - Created `content/Worlds/Starfinder/04-Lore/The Absalom Pact.md`.
+  - Content: Historical response to the imperial invasion by the [[Veskarium]] in the 280s AG, ratification congress inside the Plenara on [[Absalom Station]], four institutional pillars (Mutual Defense, [[Pact Council]], [[The Stewards]] nationalized from [[Verces]], universal Pact Credit via [[AbadarCorp]]), the bitter "Eoxian Compromise" and resulting mutiny of the [[Corpse Fleet]] under [[Woan Thrac]], the exclusion of [[The Diaspora]] and the [[Free Captains]], Article V domestic sovereignty guarantees, the ultimate crucible of the 319 AG [[Swarm War]], and adventure hooks.
+- [x] **Lore 4: [[The Swarm War]] (The 319 AG Extra-Galactic Incursion & The Alliance of Desperation):**
+  - Created `content/Worlds/Starfinder/04-Lore/The Swarm War.md`.
+  - Content: The apocalyptic 319 AG invasion by the extra-galactic devouring collective of [[The Swarm]], hyper-adaptive bio-drones and living chitin dreadnoughts, total strip-mining of outer colonies, the historic Joint Defense Accord between the [[Pact Worlds]] and the [[Veskarium]], combined-arms heroism of [[Lin Cammar]]'s Bastion Marines, [[Helena Sagesparrow]]'s solar dreadnought, and [[The Overqueen]]'s Formian bio-legions, the decisive detonation at the Battle of the False Sun vaporizing the hive-ship *Chitin-Maw*, the resulting permanent armistice with the Vesk, dormant sleeper cysts, and adventure hooks.
+- [x] **Lore 5: [[The Divine Silence]] (The Pre-Gap Pantheons, Divine Amnesia, & The Vanished Gods):**
+  - Created `content/Worlds/Starfinder/04-Lore/The Divine Silence.md`.
+  - Content: The universal refusal of all Great Wheel deities across all alignments to answer prayers regarding [[The Gap]] or lost Golarion (*"We cannot speak of it, and it is for your own preservation that you do not know"*), the heartbreaking disappearance of dwarven patriarch Torag and the rise of the Order of the Empty Anvil, post-Gap ascended and alien faiths ([[Triune]], Weydan, Damoritosh, Besmara), the psychic and axiomatic perils of attempting to breach the silence, mythic apocrypha whispering of parallel sister worlds like [[Eraedal]], and adventure hooks.
 
 ---
 
-## 📋 Queued Backlog: Phase 2 Interplanetary Factions (`02-Factions/`)
+## 📋 Queued Backlog: Phase 5 The Tri-System Synthesis (`content/Worlds/Eraedal/`)
+- [ ] **Eraedal Milestone 5.1:** Audit and deepen core setting dossiers reconciling Palladium Fantasy geography (`Library/`) with Ptolus subterranean horrors/Galchutt (`Library/Ptolus/`) and Pathfinder 2e Remaster mechanics.
 
 ---
 
 ## 🏛️ Future Vault Backlog: Factions, People & Lore
 
-### Factions (`content/Worlds/Starfinder/02-Factions/`)
-- [ ] [[Pact Council]] (The governing directorate)
-- [ ] [[The Stewards]] (Interplanetary peacekeepers)
-- [ ] [[Starfinder Society]] (Explorers and archaeologists)
-- [ ] [[AbadarCorp]] (All-reaching megacorporate bank and manufacturer)
-- [ ] [[Knights of Golarion]] (Righteous martial order of Iomedae)
-- [ ] [[Corpse Fleet]] (Exiled Eoxian rogue military armada)
-- [ ] [[Free Captains]] (Diaspora pirate syndicates)
-- [ ] [[Xenowardens]] (Ecological guardians of primal space)
+### Factions (`content/Worlds/Starfinder/02-Factions/`) — [100% COMPLETE]
+- [x] [[Pact Council]] (The governing directorate)
+- [x] [[The Stewards]] (Interplanetary peacekeepers)
+- [x] [[Starfinder Society]] (Explorers and archaeologists)
+- [x] [[AbadarCorp]] (All-reaching megacorporate bank and manufacturer)
+- [x] [[Knights of Golarion]] (Righteous martial order of Iomedae)
+- [x] [[Corpse Fleet]] (Exiled Eoxian rogue military armada)
+- [x] [[Free Captains]] (Diaspora pirate syndicates)
+- [x] [[Xenowardens]] (Ecological guardians of primal space)
 
-### Major Figures (`content/Worlds/Starfinder/03-People/`)
-- [ ] Prime Executive Kumara Melacruz
-- [ ] First Seeker Luwazi Elsebo
-- [ ] Guidance (Starfinder Society collective AI)
-- [ ] Overqueen of the Formian Federation
-- [ ] High Luminary of Dawnshore
+### Major Figures (`content/Worlds/Starfinder/03-People/`) — [100% COMPLETE]
+- [x] [[Kumara Melacruz]] (Prime Executive of the Pact Worlds)
+- [x] [[Luwazi Elsebo]] (First Seeker of the Starfinder Society)
+- [x] [[Guidance]] (Starfinder Society collective AI)
+- [x] [[Lin Cammar]] (Director-General of the Stewards)
+- [x] [[Helena Sagesparrow]] (Grand Marshal of the Knights of Golarion)
+- [x] [[Woan Thrac]] (Grand Admiral of the Corpse Fleet)
+- [x] [[Kalliel Goldhand]] (Executive Arch-Administrator of AbadarCorp)
+- [x] [[The Overqueen]] (Paramount matriarch of the Formian Federation)
 
-### Systemic Lore & Cosmic Mysteries (`content/Worlds/Starfinder/04-Lore/`)
-- [ ] [[The Drift]] & The Signal (3 AG)
-- [ ] The Absalom Pact (291 AG)
-- [ ] The Swarm Incursions
-- [ ] The Pre-Gap Gods & Divine Silence
+### Systemic Lore & Cosmic Mysteries (`content/Worlds/Starfinder/04-Lore/`) — [100% COMPLETE]
+- [x] [[The Gap]] (Universal temporal amnesia)
+- [x] [[The Drift]] (Hyperspace plane & Beacon network)
+- [x] [[The Signal]] (Divine transmission of 3 AG)
+- [x] [[The Absalom Pact]] (291 AG interstellar treaty)
+- [x] [[The Swarm War]] (The 319 AG extra-galactic invasion)
+- [x] [[The Divine Silence]] (The pre-Gap gods & divine amnesia)

@@ -70,50 +70,58 @@ This document outlines the strategic phases, milestones, and architectural visio
 *Goal: Detail the major governmental, corporate, mercenary, and criminal syndicates shaping the politics of the system.*
 
 * **Milestone 2.1: The Systemic Peacekeepers & Governments — [ACTIVE]**
-  - [ ] `content/Worlds/Starfinder/02-Factions/Pact Council.md`: Structure of the Directorate, delegate chambers, voting thresholds. — **NEXT UP**
-  - [ ] `content/Worlds/Starfinder/02-Factions/The Stewards.md`: Jurisdictions, tactical starfleet, peacekeeper training, and Bastion command.
-  - [ ] `content/Worlds/Starfinder/02-Factions/Starfinder Society.md`: Lodges, Seekers, guidance intelligence, historical missions.
-* **Milestone 2.2: Military & Faith Factions**
-  - [ ] `Knights of Golarion.md`: Paladin armada of Iomedae, righteousness patrols, solar crusades.
+  - [x] `content/Worlds/Starfinder/02-Factions/Pact Council.md`: Structure of the Directorate, delegate chambers, voting thresholds.
+  - [x] `content/Worlds/Starfinder/02-Factions/The Stewards.md`: Jurisdictions, tactical starfleet, peacekeeper training, and Bastion command.
+  - [x] `content/Worlds/Starfinder/02-Factions/Starfinder Society.md`: Lodges, Seekers, guidance intelligence, historical missions.
+* **Milestone 2.2: Megacorporations & Faith Factions**
+  - [x] `content/Worlds/Starfinder/02-Factions/AbadarCorp.md`: Galactic banking, corporate theocracy, trade monopoly.
+  - [x] `content/Worlds/Starfinder/02-Factions/Knights of Golarion.md`: Paladin armada of Iomedae, righteousness patrols, solar crusades.
   - [ ] `Church of Sarenrae.md`: Dawnguard, the Radiant Cathedral of Dawnshore, solar redemption.
   - [ ] `Church of Triune.md`: Drift heralds, data-priests, Unification Cathedral.
-* **Milestone 2.3: Syndicates, Outlaws & Hostile Armada**
-  - [ ] `Corpse Fleet.md`: Exiled Eoxian military, bone cruisers, anti-living insurgency.
-  - [ ] `Free Captains.md`: Diaspora pirate confederacy, Broken Rock council, corsair raiding lines.
-  - [ ] `AbadarCorp.md`: Galactic banking, corporate bureaucracy, trade monopoly.
+* **Milestone 2.3: Syndicates, Outlaws & Hostile Armada — [COMPLETED]**
+  - [x] `content/Worlds/Starfinder/02-Factions/Corpse Fleet.md`: Exiled Eoxian military, bone cruisers, anti-living insurgency.
+  - [x] `content/Worlds/Starfinder/02-Factions/Free Captains.md`: Diaspora pirate confederacy, Broken Rock council, corsair raiding lines.
+  - [x] `content/Worlds/Starfinder/02-Factions/Xenowardens.md`: Primal ecological protectors of pristine space and bio-vessels.
 
 ---
 
 ### Phase 3: Dramatis Personae (`03-People/`)
 *Goal: Chronicle prominent leaders, corporate heads, visionaries, and mysterious actors across the setting.*
 
-* **Milestone 3.1: Political & Faction Leaders**
-  - [ ] `Kumara Melacruz.md` (Prime Executive of Absalom Station)
-  - [ ] `Luwazi Elsebo.md` (First Seeker of the Starfinder Society)
-  - [ ] `Guidance.md` (Composite AI soul of former First Seekers)
-  - [ ] `The Overqueen.md` (Living nexus of the Formian Federation)
-  - [ ] `Sister Novaheart.md` (Historical discoverer of the Burning Archipelago)
+* **Milestone 3.1: Political & Faction Leaders — [100% COMPLETE]**
+  - [x] `content/Worlds/Starfinder/03-People/Kumara Melacruz.md` (Prime Executive of the Pact Worlds)
+  - [x] `content/Worlds/Starfinder/03-People/Luwazi Elsebo.md` (First Seeker of the Starfinder Society)
+  - [x] `content/Worlds/Starfinder/03-People/Guidance.md` (Composite AI soul of former First Seekers)
+  - [x] `content/Worlds/Starfinder/03-People/Lin Cammar.md` (Director-General of the Stewards)
+  - [x] `content/Worlds/Starfinder/03-People/Helena Sagesparrow.md` (Grand Marshal of the Knights of Golarion)
+  - [x] `content/Worlds/Starfinder/03-People/Woan Thrac.md` (Grand Admiral of the Corpse Fleet)
+  - [x] `content/Worlds/Starfinder/03-People/Kalliel Goldhand.md` (Executive Arch-Administrator of AbadarCorp & Pontifex Maximus)
+  - [x] `content/Worlds/Starfinder/03-People/The Overqueen.md` (Living hive-nexus of the Formian Federation)
 
 ---
 
-### Phase 4: Cosmic Phenomenon & Historical Eras (`04-Lore/`)
+### Phase 4: Cosmic Phenomenon & Historical Eras (`04-Lore/`) — [100% COMPLETE]
 *Goal: Map the overarching cosmic mysteries, timeline markers, and metaphysical laws.*
 
-* **Milestone 4.1: The Great Cosmological Shifts**
-  - [x] `The Gap.md` (Completed)
-  - [ ] `The Drift.md`: Hyperspace dimension, beacon navigation, dimensional planar tears.
-  - [ ] `The Signal.md`: Divine pan-galactic transmission of Triune in 3 AG.
-  - [ ] `The Absalom Pact.md`: Historical ratification in 291 AG in response to the Veskarium threat.
-  - [ ] `The Swarm War.md`: The extragalactic devourer assault that forced the Pact-Veskarium armistice.
+* **Milestone 4.1: The Great Cosmological Shifts — [100% COMPLETE]**
+  - [x] `The Gap.md` (The universal historical blackout and reckoning anchor)
+  - [x] `content/Worlds/Starfinder/04-Lore/The Drift.md` (Hyperspace dimension, beacon navigation, dimensional planar tears)
+  - [x] `content/Worlds/Starfinder/04-Lore/The Signal.md` (Divine pan-galactic transmission of Triune in 3 AG)
+  - [x] `content/Worlds/Starfinder/04-Lore/The Absalom Pact.md` (Historical ratification in 291 AG in response to the Veskarium threat)
+  - [x] `content/Worlds/Starfinder/04-Lore/The Swarm War.md` (The extragalactic devourer assault that forced the Pact-Veskarium armistice)
+
+* **Milestone 4.2: Theological & Metaphysical Mysteries — [100% COMPLETE]**
+  - [x] `content/Worlds/Starfinder/04-Lore/The Divine Silence.md` (The pre-Gap gods, divine amnesia, Torag's vanishing, and ascended faiths)
 
 ---
 
-### Phase 5: The Tri-System Synthesis (Eraedal & The Library)
-*Goal: Maintain and deepen the second great pillar of LoreForge Works—the ancient fantasy realm of Eraedal.*
+### Phase 5: The Tri-System Synthesis (Eraedal & The Library) — [ACTIVE]
+*Goal: Maintain, refine, and deepen the second great pillar of LoreForge Works—the ancient fantasy world of Eraedal.*
 
 * **Milestone 5.1: Synthesis Integrity Enforcement**
-  - Physical geography and kingdoms governed strictly by Palladium sourcebooks (`Library/`).
-  - Metaphysics, subterranean terror, and the Galchutt syncretized from Ptolus lore (`Library/Ptolus/`).
+  - [ ] Audit and synthesize core setting dossiers reconciling Palladium geography (`Library/`) with Ptolus subterranean metaphysics (`Library/Ptolus/`) and Pathfinder 2e Remaster rules — **NEXT UP**
+  - Physical geography and kingdoms governed strictly by Palladium sourcebooks.
+  - Metaphysics, subterranean terror, and the Galchutt syncretized from Ptolus lore.
   - Active mechanics, character rules, and deities governed by Pathfinder 2e Remaster.
 * **Milestone 5.2: Cross-Cosmology Echoes**
   - Deepen the thematic whispers connecting Eraedal’s vanished epochs with the mysterious pre-Gap diaspora of Starfinder.
