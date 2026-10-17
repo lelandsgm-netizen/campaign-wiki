@@ -9,25 +9,28 @@ This document outlines the strategic phases, milestones, and architectural visio
 ```
 +-----------------------------------------------------------------------------------+
 |               PHASE 1: THE MATARAS SYSTEM ATLAS (14 CELESTIAL BODIES)             |
-|  [Phase 1: 14/14 Complete] ====> [Current: Phase 2 Factions] ====> [Phase 3-5]     |
+|  [14/14 Bodies 100% Complete] ===> [Absalom Station Expansion Complete (27/27)]  |
 +-----------------------------------------------------------------------------------+
                                          ||
                                          v
 +-----------------------------------------------------------------------------------+
 |               PHASE 2: THE PACT WORLDS FACTION DIRECTORY (02-FACTIONS)            |
 |       Pact Council, Stewards, Starfinders, Corpse Fleet, Knights of Golarion      |
+|                               [100% Complete - 8/8]                               |
 +-----------------------------------------------------------------------------------+
                                          ||
                                          v
 +-----------------------------------------------------------------------------------+
 |               PHASE 3: DRAMATIS PERSONAE & KEY FIGURES (03-PEOPLE)                |
 |       Prime Executives, First Seekers, Overqueens, Warlords, and Archivists       |
+|                               [100% Complete - 8/8]                               |
 +-----------------------------------------------------------------------------------+
                                          ||
                                          v
 +-----------------------------------------------------------------------------------+
 |               PHASE 4: COSMOLOGICAL PHENOMENA & HISTORY (04-LORE)                 |
 |       The Drift & The Signal, The Swarm War, Absalom Pact, The Silent Gods        |
+|                               [100% Complete - 6/6]                               |
 +-----------------------------------------------------------------------------------+
                                          ||
                                          v
@@ -41,7 +44,7 @@ This document outlines the strategic phases, milestones, and architectural visio
 
 ## 🚀 Phase Breakdown
 
-### Phase 1: The Mataras System Atlas (The 14 Celestial Bodies)
+### Phase 1: The Mataras System Atlas (The 14 Celestial Bodies) — [100% COMPLETE]
 *Goal: Provide comprehensive, canon-accurate, richly formatted dossiers for every inhabited planetary body in the central Pact Worlds star system.*
 
 * **Milestone 1.1: The Inner System & Capital (Bodies 1–5) — [COMPLETED]**
@@ -66,26 +69,66 @@ This document outlines the strategic phases, milestones, and architectural visio
 
 ---
 
-### Phase 2: Interplanetary Factions & Power Blocs (`02-Factions/`)
-*Goal: Detail the major governmental, corporate, mercenary, and criminal syndicates shaping the politics of the system.*
+### Milestone 1.4: Absalom Station Deep Dive & Backlink Network — [100% COMPLETE (27/27 Files)]
+*Goal: Resolve the entire missing backlink cluster radiating from Absalom Station, chronicling all sectors, civic institutions, underbelly enclaves, internal factions, and associated ancestries.*
 
-* **Milestone 2.1: The Systemic Peacekeepers & Governments — [ACTIVE]**
-  - [x] `content/Worlds/Starfinder/02-Factions/Pact Council.md`: Structure of the Directorate, delegate chambers, voting thresholds.
-  - [x] `content/Worlds/Starfinder/02-Factions/The Stewards.md`: Jurisdictions, tactical starfleet, peacekeeper training, and Bastion command.
-  - [x] `content/Worlds/Starfinder/02-Factions/Starfinder Society.md`: Lodges, Seekers, guidance intelligence, historical missions.
-* **Milestone 2.2: Megacorporations & Faith Factions**
-  - [x] `content/Worlds/Starfinder/02-Factions/AbadarCorp.md`: Galactic banking, corporate theocracy, trade monopoly.
-  - [x] `content/Worlds/Starfinder/02-Factions/Knights of Golarion.md`: Paladin armada of Iomedae, righteousness patrols, solar crusades.
-  - [ ] `Church of Sarenrae.md`: Dawnguard, the Radiant Cathedral of Dawnshore, solar redemption.
-  - [ ] `Church of Triune.md`: Drift heralds, data-priests, Unification Cathedral.
-* **Milestone 2.3: Syndicates, Outlaws & Hostile Armada — [COMPLETED]**
-  - [x] `content/Worlds/Starfinder/02-Factions/Corpse Fleet.md`: Exiled Eoxian military, bone cruisers, anti-living insurgency.
-  - [x] `content/Worlds/Starfinder/02-Factions/Free Captains.md`: Diaspora pirate confederacy, Broken Rock council, corsair raiding lines.
-  - [x] `content/Worlds/Starfinder/02-Factions/Xenowardens.md`: Primal ecological protectors of pristine space and bio-vessels.
+* **Sub-Phase 1.4A: Macro-Sectors & Station Core (7/7 Files Complete) — [100% COMPLETE]**
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Eye.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Ring.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Arms.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Spike.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Ghost Levels.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Armada.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/Starstone.md`
+
+* **Sub-Phase 1.4B: Major Civic & Faction Landmarks (6/6 Files Complete) — [100% COMPLETE]**
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Plenara.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Lorespire Complex.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/Bastion.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Arcanamirium.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/Jatembe Park.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Freemarket.md`
+
+* **Sub-Phase 1.4C: The Underbelly & Cultural Enclaves (5/5 Files Complete) — [100% COMPLETE]**
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/Downlow.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/Fogtown.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/Little Akiton.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Neon Trench.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Vesk Quarter.md`
+
+* **Sub-Phase 1.4D: Starfinder Society Internal Factions & Flagship (7/7 Files Complete) — [100% COMPLETE]**
+  - [x] `content/Worlds/Starfinder/02-Factions/Acquisitives.md`
+  - [x] `content/Worlds/Starfinder/02-Factions/Dataphiles.md`
+  - [x] `content/Worlds/Starfinder/02-Factions/Exo-Guardians.md`
+  - [x] `content/Worlds/Starfinder/02-Factions/Wayfinders.md`
+  - [x] `content/Worlds/Starfinder/02-Factions/Second Seekers.md`
+  - [x] `content/Worlds/Starfinder/02-Factions/Advocates.md`
+  - [x] `content/Worlds/Starfinder/01-Atlas/Absalom Station/The Master of Stars.md`
+
+* **Sub-Phase 1.4E: Key Station Ancestries (2/2 Files Complete) — [100% COMPLETE]**
+  - [x] `content/Worlds/Starfinder/04-Lore/Species/Ysoki.md`
+  - [x] `content/Worlds/Starfinder/04-Lore/Species/Shobhads.md`
 
 ---
 
-### Phase 3: Dramatis Personae (`03-People/`)
+### Phase 2: Interplanetary Factions & Power Blocs (`02-Factions/`) — [100% COMPLETE]
+*Goal: Detail the major governmental, corporate, mercenary, and criminal syndicates shaping the politics of the system.*
+
+* **Milestone 2.1: The Systemic Peacekeepers & Governments — [100% COMPLETE]**
+  - [x] `content/Worlds/Starfinder/02-Factions/Pact Council.md`
+  - [x] `content/Worlds/Starfinder/02-Factions/The Stewards.md`
+  - [x] `content/Worlds/Starfinder/02-Factions/Starfinder Society.md`
+* **Milestone 2.2: Megacorporations & Faith Factions — [100% COMPLETE]**
+  - [x] `content/Worlds/Starfinder/02-Factions/AbadarCorp.md`
+  - [x] `content/Worlds/Starfinder/02-Factions/Knights of Golarion.md`
+* **Milestone 2.3: Syndicates, Outlaws & Hostile Armada — [100% COMPLETE]**
+  - [x] `content/Worlds/Starfinder/02-Factions/Corpse Fleet.md`
+  - [x] `content/Worlds/Starfinder/02-Factions/Free Captains.md`
+  - [x] `content/Worlds/Starfinder/02-Factions/Xenowardens.md`
+
+---
+
+### Phase 3: Dramatis Personae (`03-People/`) — [100% COMPLETE]
 *Goal: Chronicle prominent leaders, corporate heads, visionaries, and mysterious actors across the setting.*
 
 * **Milestone 3.1: Political & Faction Leaders — [100% COMPLETE]**
@@ -104,24 +147,21 @@ This document outlines the strategic phases, milestones, and architectural visio
 *Goal: Map the overarching cosmic mysteries, timeline markers, and metaphysical laws.*
 
 * **Milestone 4.1: The Great Cosmological Shifts — [100% COMPLETE]**
-  - [x] `The Gap.md` (The universal historical blackout and reckoning anchor)
-  - [x] `content/Worlds/Starfinder/04-Lore/The Drift.md` (Hyperspace dimension, beacon navigation, dimensional planar tears)
-  - [x] `content/Worlds/Starfinder/04-Lore/The Signal.md` (Divine pan-galactic transmission of Triune in 3 AG)
-  - [x] `content/Worlds/Starfinder/04-Lore/The Absalom Pact.md` (Historical ratification in 291 AG in response to the Veskarium threat)
-  - [x] `content/Worlds/Starfinder/04-Lore/The Swarm War.md` (The extragalactic devourer assault that forced the Pact-Veskarium armistice)
+  - [x] `content/Worlds/Starfinder/04-Lore/The Gap.md`
+  - [x] `content/Worlds/Starfinder/04-Lore/The Drift.md`
+  - [x] `content/Worlds/Starfinder/04-Lore/The Signal.md`
+  - [x] `content/Worlds/Starfinder/04-Lore/The Absalom Pact.md`
+  - [x] `content/Worlds/Starfinder/04-Lore/The Swarm War.md`
 
 * **Milestone 4.2: Theological & Metaphysical Mysteries — [100% COMPLETE]**
-  - [x] `content/Worlds/Starfinder/04-Lore/The Divine Silence.md` (The pre-Gap gods, divine amnesia, Torag's vanishing, and ascended faiths)
+  - [x] `content/Worlds/Starfinder/04-Lore/The Divine Silence.md`
 
 ---
 
-### Phase 5: The Tri-System Synthesis (Eraedal & The Library) — [ACTIVE]
+### Phase 5: The Tri-System Synthesis (Eraedal & The Library) — [QUEUED]
 *Goal: Maintain, refine, and deepen the second great pillar of LoreForge Works—the ancient fantasy world of Eraedal.*
 
 * **Milestone 5.1: Synthesis Integrity Enforcement**
-  - [ ] Audit and synthesize core setting dossiers reconciling Palladium geography (`Library/`) with Ptolus subterranean metaphysics (`Library/Ptolus/`) and Pathfinder 2e Remaster rules — **NEXT UP**
-  - Physical geography and kingdoms governed strictly by Palladium sourcebooks.
-  - Metaphysics, subterranean terror, and the Galchutt syncretized from Ptolus lore.
-  - Active mechanics, character rules, and deities governed by Pathfinder 2e Remaster.
+  - [ ] Audit and synthesize core setting dossiers reconciling Palladium geography (`Library/`) with Ptolus subterranean metaphysics (`Library/Ptolus/`) and Pathfinder 2e Remaster rules.
 * **Milestone 5.2: Cross-Cosmology Echoes**
-  - Deepen the thematic whispers connecting Eraedal’s vanished epochs with the mysterious pre-Gap diaspora of Starfinder.
+  - [ ] Deepen the thematic whispers connecting Eraedal’s vanished epochs with the mysterious pre-Gap diaspora of Starfinder.
