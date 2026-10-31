@@ -78,7 +78,7 @@ The primary data-stream of The Signal was formatted in a brilliantly elegant, se
 The blueprints detailed how to build a **Drift Engine** using standard starship power plants, gravimetric coils, and technomantic capacitors. The schematics explained how to generate a localized micro-singularity that momentarily pierces the skin of the Material Plane, shunting the vessel into the currents of hyperspace.
 
 ##### 2. The Anchor Frequencies
-The Signal designated the divine **[[Starstone]]** aboard **[[Absalom Station]]** as the grand primary navigation beacon of the galaxy. It also provided instructions on how mortals could construct secondary **Drift Beacons** to anchor remote systems into the ever-expanding network of Near Space.
+The Signal designated the divine **[[Starstone]]** aboard **[[Absalom Station]]** as the grand primary navigation beacon of the galaxy. It also provided instructions on how mortals could construct secondary **[[Drift Beacons]]** to anchor remote systems into the ever-expanding network of Near Space.
 
 ---
 
@@ -121,7 +121,7 @@ The most immediate casualty was the red planet of **[[Akiton]]**. For centuries,
 Prior to 3 AG, civilizations were bound to their home systems. With the Drift unlocked, thousands of colony fleets, exploratory expeditions, and corporate extraction armadas launched into the uncharted darkness of **The Vast**. Starships traveled to stars that had once been mere pinpricks of light in ancient telescopes, establishing contact with alien civilizations like the **[[Veskarium]]**.
 
 ##### 3. The Church of the All-Code
-A massive religious revolution swept the cosmos. Devotees of Triune formed the **Church of the All-Code**, establishing chapter-houses in starports across the galaxy. The church's missionary arm, the **Priests of the Key**, dedicated their lives to traveling to the furthest frontiers of space, deploying automated Drift Beacons to connect distant worlds to the sacred network of civilization.
+A massive religious revolution swept the cosmos. Devotees of Triune formed the **Church of the All-Code**, establishing chapter-houses in starports across the galaxy. The church's missionary arm, the **[[Priests of the Key]]**, dedicated their lives to traveling to the furthest frontiers of space, deploying automated **[[Drift Beacons]]** to connect distant worlds to the sacred network of civilization.
 
 ---
 

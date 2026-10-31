@@ -46,7 +46,7 @@ Publicly, the Vladaams maintain a veneer of eccentric aristocrats, but the commo
 
 - **Description:** Glamorous, cruel, and fiercely intelligent, Alisanna represents House Vladaam at grand balls, high-society galas, and occasional diplomatic functions in the Nobles' Quarter. She uses her cutting wit and extensive network of high-society contacts to maintain the family's shield of political immunity.
 
-#### [[Godrick Vladaam
+#### [[Godrick Vladaam]]
 
 - **Status:** The Enforcer
 

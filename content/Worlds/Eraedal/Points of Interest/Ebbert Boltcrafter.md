@@ -2,14 +2,17 @@
 title: "Ebbert Boltcrafter"
 world: "Eraedal"
 type: "Point of Interest"
-location: ""
-associated_location: ""
+location: "[[Delver's Square]]"
+associated_location: "[[Midtown]], [[Ptolus]]"
 tags:
   - eraedal
   - point-of-interest
-draft: true
+  - ptolus
+  - alias
+draft: false
 ---
 
-## Overview
+# Ebbert Boltcrafter
 
-Describe the point of interest and why it matters in the local setting.
+*   For the veteran dwarven outfitter and dungeoneer, see **[[Ebbert Boltcrafter]]** (NPC dossier).
+*   For his premier expedition supply shop in Delver's Square, see **[[Ebbert's Outfitters]]**.

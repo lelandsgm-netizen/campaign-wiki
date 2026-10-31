@@ -2,14 +2,16 @@
 title: "Bull and Bear Market"
 world: "Eraedal"
 type: "Point of Interest"
-location: ""
-associated_location: ""
+location: "[[Midtown]]"
+associated_location: "[[Delver's Square]], [[Ptolus]]"
 tags:
   - eraedal
   - point-of-interest
-draft: true
+  - ptolus
+  - alias
+draft: false
 ---
 
-## Overview
+# Bull and Bear Market
 
-Describe the point of interest and why it matters in the local setting.
+See the canonical armory dossier at **[[Bull and Bear]]**.

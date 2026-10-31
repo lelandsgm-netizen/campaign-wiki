@@ -7,7 +7,7 @@ associated_location: "[[Delver's Square]]"
 tags:
   - eraedal
   - point-of-interest
-draft: true
+draft: false
 ---
 
 Myraeth's Oddities is the premier establishment in [[Delver's Square]] for buying and selling miscellaneous magic items, potions, rings, wands, and scrolls. Positioned on the bustling cobblestones of [[Midtown]]'s most famous hub, it serves as an essential rest-and-refit stop for adventurers returning from the depths of the [[Dungeon]].

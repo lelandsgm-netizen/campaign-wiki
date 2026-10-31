@@ -2,14 +2,16 @@
 title: "Danbury's"
 world: "Eraedal"
 type: "Point of Interest"
-location: ""
-associated_location: ""
+location: "[[Midtown]]"
+associated_location: "[[Delver's Square]], [[Ptolus]]"
 tags:
   - eraedal
   - point-of-interest
-draft: true
+  - ptolus
+  - alias
+draft: false
 ---
 
-## Overview
+# Danbury's
 
-Describe the point of interest and why it matters in the local setting.
+See the comprehensive dossier at **[[Danbury's Tavern]]**.

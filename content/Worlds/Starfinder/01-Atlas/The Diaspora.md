@@ -73,7 +73,8 @@ Located along the colder, outer rim of the belt toward Eox, Nisis is a dwarf pla
 
 ##### 4. Dwarven Star Citadels
 Carrying on their ancient cultural heritage of stonecraft and metallurgy, clans of **[[Dwarves]]** have colonized the densest metallic asteroids in the belt.
-* **Adamantine Forges:** Deep inside hollowed-out iron asteroids like *Torag’s Anvil* and *Hearthstone*, dwarven mining corporations operate colossal solar smelters. They refine adamantine, cold iron, and titanium directly from belt ore, fabricating reinforced hull plating and starship keels for both commercial shipyards and defensive orbital bastions.
+* **Adamantine Forges:** Deep inside hollowed-out iron asteroids like *Torag’s Anvil*, *Hearthstone*, and the mighty corporate stronghold of **[[Star Citadel Theodrane]]**, dwarven mining conglomerates like **[[Ulrikka Clanholdings]]** operate colossal solar smelters. They refine adamantine, cold iron, and titanium directly from belt ore, fabricating reinforced hull plating and starship keels for commercial shipyards, mercenary fleets, and defensive orbital bastions.
+
 
 ##### 5. The Wrecking Grounds
 Gravitational eddies and erratic micro-singularities throughout the Diaspora create natural debris traps. The Wrecking Grounds is a vast expanse littered with thousands of derelict starships spanning millennia: pre-Gap colony vessels, ancient Eoxian death-cruisers, lost exploration frigates, and ships sheared in half by miscalculated Drift jumps. It is a lethal treasure trove for salvagers, crawling with rogue security constructs, vacuum-born scavengers, and the unquiet spirits of long-dead crews.

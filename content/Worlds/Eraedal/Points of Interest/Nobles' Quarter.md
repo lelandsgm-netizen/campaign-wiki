@@ -7,7 +7,7 @@ associated_location: ""
 tags:
   - eraedal
   - point-of-interest
-draft: true
+draft: false
 ---
 
 Perched on the highest, most scenic northwestern plateaus of [[Ptolus]], the **Nobles' Quarter** is a glittering testament to inherited wealth, political power, and architectural extravagance. Far removed from the soot-choked lower districts, the air here is crisp, clean, and carrying the faint scent of foreign perfumes and manicured gardens. The district is defined by sweeping, tree-lined avenues, grand fountains, and the immense, heavily fortified estates of the city's ten noble houses.

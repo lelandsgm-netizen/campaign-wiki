@@ -18,7 +18,7 @@ tags:
 > **Plane Classification:** Transitive / Artificial Planar Dimension (Divine Hyperspace)
 > **Creator & Divine Overlord:** **[[Triune]]** (The All-Code; tripartite deity uniting Brigh, Casandalee, and Epoch)
 > **Historical Genesis:** Revealed to the galaxy in **3 AG** through **[[The Signal]]**
-> **Primary Navigational Anchors:** **Drift Beacons** (Supreme Anchor: The **[[Starstone]]** aboard **[[Absalom Station]]**)
+> **Primary Navigational Anchors:** **[[Drift Beacons]]** (Supreme Anchor: The **[[Starstone]]** aboard **[[Absalom Station]]**)
 > **Transit Time Metric:** Governed by **Beacon Density** and engine rating, *independent* of physical Realspace distance ($1\text{d}6$ days to Absalom Station; $3\text{d}6$ days across the Pact Worlds; $5\text{d}6$ days into the Vast)
 > **The Dark Cost:** The **Planar Siphon** (Every Drift jump rips a physical chunk of a random Great Wheel plane into the Drift)
 > **Common Hazards:** Planar flotsam islands, Drift dead-zones, abyssal horrors, Drift stalkers, and trans-dimensional static storms
@@ -55,9 +55,9 @@ The physics of the Drift confound traditional astrophysicists because spatial di
 ```
 
 ##### 1. The Beacon Network
-Navigation within the Drift is not guided by stellar cartography, but by trans-dimensional homing beacons that emit continuous quantum-resonance signals through hyperspace:
+Navigation within the Drift is not guided by stellar cartography, but by trans-dimensional homing beacons that emit continuous quantum-resonance signals through hyperspace (see detailed analysis in **[[Drift Beacons]]**):
 * **The Starstone Anchor:** The ancient, divine **[[Starstone]]** powering the reactor core of **[[Absalom Station]]** emits the most powerful beacon in existence. Because its signal cuts through the Drift like a supernova, any starship in the galaxy can calibrate its engines to Absalom Station and arrive in just $1\text{d}6$ days, regardless of starting location.
-* **The Priests of the Key:** Devotees of Triune and contract surveyors from **[[AbadarCorp]]** travel to frontier stars to deploy automated, self-powered Drift Beacons. Systems with dense beacon clusters are classified as **Near Space**, enjoying fast, predictable travel times.
+* **The Priests of the Key:** Devotees of **[[Triune]]** organized under the **[[Priests of the Key]]** and contract surveyors from **[[AbadarCorp]]** travel to frontier stars to deploy automated, self-powered **[[Drift Beacons]]**. Systems with dense beacon clusters are classified as **Near Space**, enjoying fast, predictable travel times.
 * **The Vast:** Unmapped regions lacking beacons require ships to blindly navigate Drift currents using dead-reckoning algorithms, resulting in journeys of $5\text{d}6$ days or longer.
 
 ##### 2. Standard Transit Durations
@@ -142,7 +142,8 @@ The revelation of the Drift fundamentally reordered galactic civilization:
 
 #### Cross-References & Setting Annals
 - **Divine Patron & Creation:** [[Triune]], [[The Signal]]
-- **Navigational Epicenters:** [[Absalom Station]], [[Starstone]], [[Pact Worlds]], [[The Diaspora]]
+- **Navigational Infrastructure:** [[Drift Beacons]], [[Absalom Station]], [[Starstone]], [[Pact Worlds]], [[The Diaspora]]
+- **Guardians & Technomantic Orders:** [[Priests of the Key]], [[Starfinder Society]], [[Wayfinders]]
 - **Historical Milestones & Disasters:** [[The Gap]], [[The Absalom Pact]], [[The Swarm War]]
-- **Factions & Exploitative Powers:** [[AbadarCorp]], [[The Stewards]], [[Starfinder Society]], [[Free Captains]], [[Knights of Golarion]], [[Xenowardens]]
+- **Factions & Exploitative Powers:** [[AbadarCorp]], [[The Stewards]], [[Free Captains]], [[Knights of Golarion]], [[Xenowardens]]
 - **Planetary Consequences:** [[Akiton]], [[Apostae]], [[The Idari]], [[Castrovel]]

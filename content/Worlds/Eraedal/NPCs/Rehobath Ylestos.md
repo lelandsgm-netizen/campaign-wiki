@@ -18,23 +18,25 @@ draft: false
 >
 > |                     |                                                                                                                                           |
 > | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-> | **Title / Office**  | Holy Emperor of the [[Western Empire]]; Supreme Prelate of the Imperial Church of Aroden                                                  |
-> | **Faction**         | The Holy Seat / Imperial Church of Aroden                                                                                                 |
-> | **Seat of Power**   | The Holy Palace, [[Temple District]], [[Ptolus]]                                                                                          |
-> | **Ancestry**        | Human                                                                                                                                     |
-> | **Role / Class**    | Level 15 High Cleric of Aroden / Theocratic Statesman                                                                                     |
-> | **Primary Allies**  | Prince Kirian (Son & Prince of the Church), The Holy Guard, [[House Haishe]] of [[Oceanside]]                                            |
-> | **Key Rivals**      | Commissar [[Igor Urnst]], [[Council of Coin]], Empress Lasha Itomas (Caer Glaverius), Emperor Skluud Ne'Klosh (Caer Kurgas)             |
+> | **Title / Office**  | Holy Emperor of the [[Western Empire]]; Supreme Prelate of [[Imperial Rite - Pantheon | The Imperial Rite]] |
+> | **Faction**         | The Holy Seat / Imperial Rite of Aroden                                                                   |
+> | **Seat of Power**   | The Holy Palace, [[Temple District]], [[Ptolus]]                                                           |
+> | **Ancestry**        | Human                                                                                                      |
+> | **Role / Class**    | Level 15 High Cleric of Aroden / Theocratic Statesman                                                      |
+> | **Primary Allies**  | Prince [[Kirian Ylestos]] (Son & Prince of the Church), The Holy Guard, [[House Haishe]] of [[Oceanside]]  |
+> | **Key Rivals**      | Commissar [[Igor Urnst]], [[Council of Coin]], Empress Lasha Itomas (Caer Glaverius), Emperor Skluud Ne'Klosh (Caer Kurgas) |
 
 ---
 
 ## 👑 Overview: The Holy Emperor in Exile
 
-**Holy Emperor Rehobath Ylestos** is the spiritual titan and political lightning rod of the eastern [[Western Empire]]. As the supreme pontiff of the Imperial Church of Aroden and the self-proclaimed rightful sovereign of the Lion-Guarded Throne, Rehobath embodies the supreme convergence of divine dogma and imperial ambition.
+**Holy Emperor Rehobath Ylestos** is the spiritual titan and political lightning rod of the eastern [[Western Empire]]. As the supreme pontiff of the **[[Imperial Rite - Pantheon | Imperial Rite]]** and the self-proclaimed rightful sovereign of the Lion-Guarded Throne, Rehobath embodies the supreme convergence of imperial state dogma and personal ambition.
 
-When the imperial capital of Caer Itom fell to the Cyclopean Vanguard and barbarian hordes in **702 IA**, Rehobath refused to view the calamity as mere military defeat. Instead, he declared the sack of Caer Itom to be divine chastisement against centuries of aristocratic decadence and imperial impiety. Gathering his most loyal prelates, paladins, and treasuries, Rehobath journeyed east to the coastal metropolis of **[[Ptolus]]**, where his son, Prince Kirian, had maintained a permanent high ecclesiastical seat since 682 IA.
+Unlike the decentralized, trans-national **[[Order of Light - Pantheon | Order of Light]]** beloved by common folk across Eraedal, Rehobath's faith is rooted in the chauvinistic, state-sanctioned religion of the Western Empire, anchored to the slumbering—or dead—god **[[Aroden]]**. By drawing on ancient Azlanti ley-line anchors and imperial relics to manifest undeniable miracles and *Heal* fonts, Rehobath fiercely rejects the heresy that Aroden is dead, demanding absolute submission to the divine destiny of the human Empire.
 
-Upon his arrival, Rehobath took up residence within the newly consecrated Holy Palace in the [[Temple District]] and proclaimed **[[Ptolus]] as the Holy Capital of the Western Empire**. He crowned himself Holy Emperor, demanding absolute fealty from all imperial provinces and declaring all other claimants—including Empress Lasha Itomas in Caer Glaverius and Emperor Skluud Ne'Klosh in Caer Kurgas—to be heretics and traitors to the realm.
+When the ancient capital of [[Caer Itom]] fell to the Cyclopean Vanguard and barbarian hordes in **702 IA**, Rehobath refused to view the calamity as mere military defeat. Instead, he declared the sack of Caer Itom to be divine chastisement against centuries of aristocratic decadence and imperial impiety. Gathering his most loyal prelates, paladins, and treasuries, Rehobath journeyed east to the coastal metropolis of **[[Ptolus]]**, where his son, Prince [[Kirian Ylestos]], had maintained a permanent high ecclesiastical seat since 682 IA.
+
+Upon his arrival, Rehobath took up residence within the newly consecrated Holy Palace in the [[Temple District]] and proclaimed **[[Ptolus]] as the Holy Capital of the Western Empire**. He crowned himself Holy Emperor, seeking to co-opt the popular [[Order of Light - Pantheon | Order of Light]] into his holy war-chest and declaring all other claimants—including Empress Lasha Itomas in Caer Glaverius and Emperor Skluud Ne'Klosh in Caer Kurgas—to be heretics and traitors to the realm.
 
 ---
 

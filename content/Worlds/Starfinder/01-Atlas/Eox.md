@@ -125,12 +125,13 @@ Paradoxically, Eox is the media and reality-television capital of the Pact World
 Eox’s relationship with the rest of the galaxy is fraught with diplomatic tension, moral horror, and realpolitik.
 
 ##### The Ratification of the Absalom Pact (291 AG)
-When the formidable starfleets of the **[[Veskarium]]** invaded the Mataras system, the military forces of the living worlds were pushed to the brink of defeat. The Bone Sages offered their massive fleets of bone-dreadnoughts and immortal shock troops to the allied effort. Eoxian weapons were instrumental in breaking the Vesk assault, and when the **[[Absalom Pact]]** was drafted in **291 AG**, Eox demanded and received full, equal sovereign membership.
+When the formidable starfleets of the **[[Veskarium]]** invaded the Mataras system, the military forces of the living worlds were pushed to the brink of defeat. The Bone Sages offered their massive fleets of bone-dreadnoughts and immortal shock troops to the allied effort. Eoxian weapons were instrumental in breaking the Vesk assault, and when **[[The Absalom Pact]]** was drafted in **291 AG**, Eox demanded and received full, equal sovereign membership.
 
 This treaty enraged religious factions across the galaxy—especially the righteous paladins of the **[[Knights of Golarion]]** and the clergy of **[[Pharasma]]**, who view all undead as cosmic abominations against the natural order. However, the Pact Council strictly enforces Eox's sovereign protections.
 
 ##### The Treason of the Corpse Fleet
-When Eox signed the Absalom Pact, the treaty required the planet to decommission much of its offensive naval tonnage and sign universal non-aggression treaties recognizing the sanctity of living beings.
+When Eox signed **[[The Absalom Pact]]**, the treaty required the planet to decommission much of its offensive naval tonnage and sign universal non-aggression treaties recognizing the sanctity of living beings.
+
 
 A massive faction of the Eoxian military navy, led by radical necrovite admirals, refused to submit. Proclaiming that the living are nothing more than biological raw materials waiting to be harvested for parts and labor, this rogue fleet mutinied, stole hundreds of capital dreadnoughts, and vanished into the deep void of [[The Diaspora]] and the uncharted reaches of the Vast.
 

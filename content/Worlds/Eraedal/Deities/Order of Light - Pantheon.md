@@ -1,6 +1,6 @@
 ---
 title: "Order of Light"
-world: ""
+world: "Eraedal"
 type: "Pantheon"
 location: ""
 associated_location: ""
@@ -8,18 +8,30 @@ tags:
   - eraedal
   - pantheon
   - deity
+  - order-of-light
+  - global
 draft: false
+---
+
+# The Order of Light: The Global Radiance
+
+> [!QUOTE]
+> "No mortal crown owns the sunrise. No single emperor commands the edge of honor or the harvest's yield. The light reaches wherever darkness dares to gather."
+> — _High Vindicator Valerius, Litany of the Fourfold Path_
+
+The **Order of Light** (also known as the **Church of Light**) is the primary **global, trans-national pantheon** of civilization, virtue, healing, and righteous defense across [[Eraedal]]. Unlike the insular, authoritarian **[[Imperial Rite - Pantheon | Imperial Rite]]** of the [[Western Empire]]—which is helmed by the dead or slumbering god [[Aroden]] and tightly bound to the Lion-Guarded Throne—the Order of Light belongs to no single empire, nation, or mortal lineage. 
+
+Across the continent—from the free cities and the [[Eastern Territories]] to the [[Timiro]] kingdom and the frontier settlements—the common populace and holy knights look to the four core deities of the Order of Light for moral guidance and protection against the existential horrors of the `pantheon/devouring-void`:
+
 ---
 
 ## Deities of the Pantheon
 
-These four core Pathfinder 2e Remaster deities form the foundation of the [[Church of Light]] within [[Eraedal]] and is the Imperial Religion of The [[Western Empire]], mapping perfectly to the leadership, healing, wisdom, and judicial traits of the original setting.
-
 ### [[Iomedae]] (The Inheritor)
 
-_Matches the leadership, righteous warfare, and protective crusade aspects of the Church._
+_The Shield of Radiance, righteous warfare, and protective crusade._
 
-- **Role in the Church:** The Shield of the Radiance. She is the patron of the city's paladins, the [[Igor Urnst | Commissar]]’s elite martial forces , and those defending the city from the horrors of the [[N]ecropolis]].
+- **Role in the Church:** The First Sword. She is the patron of righteous champions, the knightly orders of the city, and the front-line crusaders holding vigil against the horrors of the [[Necropolis]].
 
 - **Sanctification:** Can choose Holy
 
@@ -78,3 +90,18 @@ _Matches the strict legal, bureaucratic, and city-building aspects of the tradit
 - **Domains:** Cities, Earth, Travel, Wealth
 
 - **Spells Granted:** 1st: _alarm_, 4th: _transmute rock to mud_, 7th: _magnificent mansion_
+
+---
+
+## ⚖️ Cosmological Matrix: The Global Order vs. The Western Imperial Rite
+
+The spiritual landscape of [[Eraedal]] is shaped by the sharp theological distinction between these two traditions:
+
+| Attribute | The Order of Light | [[Imperial Rite - Pantheon \| The Imperial Rite]] |
+| :--- | :--- | :--- |
+| **Geographic Scope** | **Global / Continental** (Western Empire, Eastern Territories, Timiro, Frontier realms) | **Insular / Regional** (Exclusively bound to the [[Western Empire]]) |
+| **Supreme Anchor** | **Living Deities of Virtue** ([[Iomedae]], [[Sarenrae]], [[Erastil]], [[Abadar]]) | **[[Aroden]]** (Widely held across Eraedal to be **Dead**; claimed by the West to be "Slumbering") |
+| **Political Alignment** | **Autonomous & Trans-National** (Bows to no single mortal sovereign or bloodline) | **State-Sanctioned Authoritarian Apparatus** (Codified to legitimize the Lion-Guarded Throne) |
+| **Ecclesiastical Seat** | Regional Archbasilicas; in [[Ptolus]], the **[[Cathedral of the First Radiance]]** | Historically **[[Caer Itom]]**; currently claimed in exile at the Holy Palace in [[Ptolus]] |
+| **Core Ethos** | Protection against darkness, spiritual redemption, lawful commerce, communal survival | Human manifest destiny, imperial supremacy, spellcaster registration, strict caste order |
+

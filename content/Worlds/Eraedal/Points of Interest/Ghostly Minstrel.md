@@ -7,7 +7,7 @@ associated_location: "[[Delver's Square]]"
 tags:
   - eraedal
   - point-of-interest
-draft: true
+draft: false
 ---
 
 **Safety Rating:** Highly Secure (Protected by the [[Delver's Guild]] & Private Spell-Wards)
