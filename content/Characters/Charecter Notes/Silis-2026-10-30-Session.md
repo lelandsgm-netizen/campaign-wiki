@@ -1,4 +1,4 @@
----
+﻿---
 title: Silis-2026-10-01
 system: SWADE
 tags:
@@ -57,10 +57,29 @@ The party's spellcasters cast deflection and protection spells to enhance defens
 The monster was battered with specialized ice and lightning bullets, armor-piercing shots, and powerful smite strikes.
 A fire breath spell ignited the undead alchemical creature before it finally collapsed from the coordinated physical and magical assault. (One party member narrowly survived a massive blow by soaking the damage).
 
-**The Crystal Chamber & Spiked Ambush**
-Successfully disarmed a trap on the upper ramp leading to a crystal chamber.
-Disabled an additional hidden sandstone trap encountered while climbing the stairs.
-Navigated past a wooden structural barricade blocking the upper level, only to be ambushed by small spiked creatures suddenly emerging from the stone.
+**The Crystal Chamber & Clash of the Spiked Stone Horrors**
+Successfully disarmed a trap on the upper ramp leading toward the crystal chamber and disabled a hidden sandstone trap while ascending the stairs.
+Navigated past the upper approaches, only to be ambushed by small, spiked stone monstrosities emerging directly from the rock face, flanked by an imp and scavenging spider swarms.
+The artist opened fire with flame bolts and directed arcane bolts to stagger the stone brutes, while Adrian engaged in savage melee with his axe.
+Silis activated his enchanted boots for a surge of supernatural quickness, striking down an imp and distracting the stone horrors with swift, agile strikes. Though caught by a punishing counter-blow, Silis absorbed the brunt of the trauma through sheer vigor.
+An enemy creature slipped beneath Adrian's guard and latched under his shield, negating his defensive parry until it was forcefully dismantled. Adrian then unleashed a berserk frenzy, cleaving the rock-hewn fiend with blows empowered by demon-slaying precision.
+Turok held the line as a stalwart defender to shield the spellcasters, while Brian provided suppressing ranged fire from distance.
+As the downed stone fiends attempted to knit their forms through regeneration, residual burning silk threads coated the floor, disrupting and preventing their recovery.
+Silis invoked sacred power through a *Smite*, executing two rapid armor-piercing strikes that shattered a primary stone horror.
+Repositioning behind cover via a tactical *Teleport*, the artist cast an enhanced *Burst* spell, engulfing four horrors in magical flames and leaving them heavily wounded.
+Silis and Adrian executed decisive coordinated strikes to crush the remaining enraged brutes. With the fight concluded, the chittering spiders moved in to scavenge the stone carcasses.
+
+**The Barricade & The Arachnid Communion**
+Following the engagement, Silis consumed a healing draught and swept the perimeter for snares, confirming the immediate path was devoid of kobold or demonic traps.
+The party approached a heavily boarded-up wooden barricade erected to seal off the inner reaches.
+Rather than breaching the barrier blindly, the artist cast *Beast Friend* upon the surrounding spider swarm to query what was imprisoned within.
+Speaking in chilling unison through the chittering horde, the spiders revealed that beyond the barrier lay the *"resting place of the true believers."*
+
+**The Celestial Runic Portal & The Riddle of Need**
+Advancing through the cleared corridor, Silis detected a massive set of double doors adorned with glowing, scroll-like runic script.
+Inspecting the radiant engravings, the artist successfully translated the archaic runes from Celestial, reciting the inscribed riddle:
+> *"I am born in fear, raised in truth, and I come to my own indeed. When comes a time that I am called forth, I come to serve the cause of need."*
+The artist ventured the verbal answer of *"Bravery."* Rather than granting passage or yielding praise, the doors triggered an immediate arcane hazard: a piercing red beam lanced out from the runes, striking the artist squarely in the forehead as darkness fell on the encounter.
 
 ---
 
