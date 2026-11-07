@@ -1,5 +1,5 @@
 ---
-title: Silis-2026-10-01
+title: Silis-2026-11-06
 system: SWADE
 tags:
   - player/leland
